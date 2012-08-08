@@ -1,0 +1,5 @@
+package parser
+
+class SearchRanker {
+
+}
