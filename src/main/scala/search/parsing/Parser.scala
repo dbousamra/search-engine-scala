@@ -1,28 +1,39 @@
 package search.parsing
 
 import scala.io.Source
+import scalaz.Scalaz._
 import java.io.File
+import java.util.Locale
 
 class Parser {
 
   private val STOP_WORDS = "src/resources/stopWords.txt";
-  private val stopWords = null
+  private val stopWords: List[String] = parseStopWords(STOP_WORDS)
 
   def parseStopWords(path: String) = Source.fromFile(new File(path)).getLines().toList
 
-  def parse(file: File) = {
-    val lineStream = Source.fromFile(file).getLines()
-//    lineStream.map {
-//    
-//    }
-    lineStream
+  def parse(file: File): List[String] = {
+    val lineStream = Source.fromFile(file, "latin1").getLines()
+    lineStream.map(x => (getWordsFromLine andThen filterStopWords)(x)).toList.flatten
+  }
+
+  private val getWordsFromLine = (line: String) => {
+    line.split(" ")
+    	.map(_.toLowerCase())
+	    .map(word => word.filter(Character.isLetter(_)))
+	    .filter(_.length() > 1)
+        .toList
+  }
+
+  private val filterStopWords = (words: List[String]) => {
+    words.filterNot(word => stopWords.contains(word))
   }
 }
 
 object Test {
   def main(args: Array[String]) {
     val parser = new Parser()
-    val lineStream = parser.parse(new File("src/resources/testDocument.txt"))
-    println(lineStream.toList)
+    val lineStream = parser.parse(new File("src/resources/documents/bible/Exodus.txt"))
+    println(lineStream)
   }
 }
