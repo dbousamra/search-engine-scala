@@ -5,6 +5,11 @@ import java.lang.Math
 
 class SearchRanker(index: InvertedIndex) {
 
+  def calcQueryScoreCombined(query: List[String]): List[(Document, Double)] = {
+    val documents = index.getAllDocuments
+    documents.map(d => (d, calcQueryScore(query, d)))
+  }
+  
   def calcQueryScore(query: List[String], document: Document):Double = {
     query.map(tfTimesIdf(_, document)).reduce(_+_)
   }
@@ -12,12 +17,15 @@ class SearchRanker(index: InvertedIndex) {
   def tfTimesIdf(word: String, document: Document) = {
     val tf = calcTermFrequencyInDocument(word, document) 
     val idf = calcInverseDocumentFrequency(word)
-    tf * idf
+    val tdidf = tf * idf
+    println(tf + " " + idf)
+    tdidf
   }
 
   def calcInverseDocumentFrequency(word: String) = {
     val occursInAll:Double = calcTermFrequencyInCorpus(word)
     val documentCount:Double = index.totalDocumentsIndexed
+    println(documentCount + " "  + occursInAll)
     val idf = Math.log10(documentCount / occursInAll)
     if (idf.isNaN()) 0.0 else idf
   }

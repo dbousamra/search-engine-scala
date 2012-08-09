@@ -14,7 +14,15 @@ class Parser {
 
   def parse(file: File): List[String] = {
     val lineStream = Source.fromFile(file, "latin1").getLines()
-    lineStream.map(x => (getWordsFromLine andThen filterStopWords)(x)).toList.flatten
+    parse(lineStream)
+  }
+  
+  def parse(input: String): List[String] = {
+    parse(List(input).toIterator)
+  }
+  
+  def parse(input: Iterator[String]): List[String] = {
+    input.map(x => (getWordsFromLine andThen filterStopWords)(x)).toList.flatten
   }
 
   private val getWordsFromLine = (line: String) => {
