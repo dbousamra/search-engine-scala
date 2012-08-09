@@ -15,7 +15,7 @@ class DocumentManager {
     new Document(documentCount, file, words)
   }
   
-  private def incDocumentCount() = documentCount + 1
+  private def incDocumentCount() = _documentCount += 1
   
   def documentCount = _documentCount
 }

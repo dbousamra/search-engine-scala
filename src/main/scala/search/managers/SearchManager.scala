@@ -7,7 +7,7 @@ import search.documents.Document
 
 class SearchManager {
   
-  private val index: InvertedIndex = new InvertedIndex()
+  private val _index: InvertedIndex = new InvertedIndex()
   private val ranker: SearchRanker = new SearchRanker(index)
   private val documentManager = new DocumentManager()
   
@@ -17,8 +17,10 @@ class SearchManager {
   
   def addFileToIndex(file: File): Document = {
     val document = documentManager.parseFile(file)
-    index.addDocumentToIndex(document)
+    _index.addDocumentToIndex(document)
     document
   }
+  
+  def index = _index
 
 }
