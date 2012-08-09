@@ -5,7 +5,7 @@ import search.documents.Document
 
 class InvertedIndex {
 
-  private var index = new LinkedHashMap[String, LinkedHashMap[Int, Int]]
+  val index = new LinkedHashMap[String, LinkedHashMap[Int, Int]]
   private var _totalDocumentsIndexed = 0
 
   def addDocumentToIndex(document: Document) = {

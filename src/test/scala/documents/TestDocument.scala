@@ -2,11 +2,15 @@ package samples
 
 import org.junit._
 import Assert._
+import search.managers.SearchManager
+import search.managers.SearchManager
 
 class TestDocument {
 
   @Test
-  def testOK() = assertTrue(true)
+  def testSearchManager() = {
+    val sm = new SearchManager()
+  }
 
 }
 
