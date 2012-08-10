@@ -28,5 +28,4 @@ class InvertedIndex {
   def incrementTotalDocumentsIndexed() = _totalDocumentsIndexed += 1
 
   def totalDocumentsIndexed = _totalDocumentsIndexed
-
 }

@@ -31,6 +31,11 @@ class TestDocument {
   def testGetWords() = {
     assertFalse(document.words.isEmpty)
   }
+  
+  @Test
+  def testGetWordCount() = {
+    assertEquals(document.getWordCount("god"), 238)
+  }
 
 }
 

@@ -17,8 +17,15 @@ class TestSearchManager {
   @Test
   def testQuery() = {
     searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
-    println(searchManager.query("Hello"))
-    assertNotNull(searchManager.index.index.get("moses"))
+    searchManager.addFileToIndex(new File("src/resources/documents/bible/Exodus.txt"))
+    assertEquals("Exodus.txt", searchManager.query("moses").head._1.file.getName())
+  }
+  
+  @Test
+  def testIndexAll() = {
+    val folder = new File("src/resources/documents/bible")
+    searchManager.addFolderToIndex(folder)
+    assertEquals(69, searchManager.index.getAllDocuments.length)
   }
 
 }

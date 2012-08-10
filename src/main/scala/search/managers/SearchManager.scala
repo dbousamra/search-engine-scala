@@ -23,6 +23,11 @@ class SearchManager {
     document
   }
   
+  def addFolderToIndex(folder: File): List[Document] = {
+    val files = folder.listFiles()
+    files.map(addFileToIndex(_)).toList
+  }
+  
   def query(input: String) = {
     val queryable = parser.parse(input)
     ranker.calcQueryScoreCombined(queryable)

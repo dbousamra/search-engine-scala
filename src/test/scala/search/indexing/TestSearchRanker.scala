@@ -25,7 +25,14 @@ class TestSearchRanker {
     val file = createTestData("This is a test string. It is designed to test the search ranker. In this test", "testCalculateTermFrequency")
     val document = documentManager.parseFile(file)
     assertEquals(0.0, searchRanker.calcTermFrequencyInDocument("is", document), 0.1)
-    assertEquals(2.333, searchRanker.calcTermFrequencyInDocument("test", document), 0.1);
+    assertEquals(0.428, searchRanker.calcTermFrequencyInDocument("test", document), 0.1);
+  }
+  
+  @Test
+  def testCalculateTermInDocumentFrequency2() = {
+    val searchRanker = new SearchRanker(new InvertedIndex())
+    val document = documentManager.parseFile(new File("src/resources/documents/bible/Genesis.txt"))
+    assertEquals(0.00007289161, searchRanker.calcTermFrequencyInDocument("moses", document), 0.1);
   }
 
   @Test

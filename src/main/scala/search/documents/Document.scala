@@ -8,4 +8,6 @@ class Document(val id: Int, val file: File, val words: List[String]) {
     words.count(x => x.equals(word))
   }
 
+  //override def toString = "[" + id + "] " +  file.getName() + " - " + words.length + " words"
+  override def toString = file.getName()
 }
