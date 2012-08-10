@@ -3,29 +3,37 @@ package search.managers
 import java.io.File
 import org.junit.Assert._
 import org.junit.Test
+import org.junit.BeforeClass
+
+object TestSearchManager {
+  private val searchManager = new SearchManager()
+  searchManager.addFolderToIndex(new File("src/resources/documents/bible"))
+}
 
 class TestSearchManager {
-  
-  val searchManager = new SearchManager()
-  
+
   @Test
   def testAddFileToIndex() = {
-    val document = searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
-    assertEquals(99, searchManager.index.index.get("called").get(document))
+    val document = TestSearchManager.searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
+    assertEquals(99, TestSearchManager.searchManager.index.index.get("called").get(document))
   }
-  
+
   @Test
   def testQuery() = {
-    searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
-    searchManager.addFileToIndex(new File("src/resources/documents/bible/Exodus.txt"))
-    assertEquals("Exodus.txt", searchManager.query("moses").head._1.file.getName())
+    TestSearchManager.searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
+    TestSearchManager.searchManager.addFileToIndex(new File("src/resources/documents/bible/Exodus.txt"))
+    assertEquals("Exodus.txt", TestSearchManager.searchManager.query("moses").head._1.file.getName())
   }
-  
+
   @Test
   def testIndexAll() = {
-    val folder = new File("src/resources/documents/bible")
-    searchManager.addFolderToIndex(folder)
-    assertEquals(69, searchManager.index.getAllDocuments.length)
+    assertEquals(69, TestSearchManager.searchManager.index.getAllDocuments.length)
+  }
+
+  @Test
+  def testQueryAll() = {
+    println(TestSearchManager.searchManager.query("moses"))
+    assertTrue(true)
   }
 
 }
