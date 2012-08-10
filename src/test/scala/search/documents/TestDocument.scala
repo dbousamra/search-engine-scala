@@ -34,7 +34,7 @@ class TestDocument {
   
   @Test
   def testGetWordCount() = {
-    assertEquals(document.getWordCount("god"), 238)
+    assertEquals(230, document.getWordCount("god"))
   }
 
 }

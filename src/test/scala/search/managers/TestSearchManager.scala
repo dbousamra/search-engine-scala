@@ -35,5 +35,11 @@ class TestSearchManager {
     println(TestSearchManager.searchManager.query("moses"))
     assertTrue(true)
   }
+  
+  @Test
+  def testQueryAllTwoTerms() = {
+    println(TestSearchManager.searchManager.query("jesus christ our lord god"))
+    assertTrue(true)
+  }
 
 }
