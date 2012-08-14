@@ -47,3 +47,11 @@ which compares favorably with `grep supplementary . -R -l -i`
 ./E_06_05.txt
 ./E_09_01.txt
 ./I_07_03.txt```
+
+## What next?
+
+* Distance between words to match phrases
+* Implement a safe concurrent hashmap. Not threadsafe at the moment
+* Add map reduce functionality using Akka actors perhaps?
+* A frontend to view queries
+* Snippets. Return the phrase the query is included from.
