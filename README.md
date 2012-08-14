@@ -46,7 +46,8 @@ which compares favorably with `grep supplementary . -R -l -i`
 ./E_06_04.txt
 ./E_06_05.txt
 ./E_09_01.txt
-./I_07_03.txt```
+./I_07_03.txt
+```
 
 ## What next?
 
