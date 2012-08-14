@@ -1,0 +1,128 @@
+QUT | MOPP | F/6.1 Records management policy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/6.1 Records management policy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerManager, Records Management Services 
+Approval Date07/10/2010 
+Approval AuthorityVice-Chancellor 
+Date of Next Review1/10/2013 
+6.1.1 Legislative  obligation 
+6.1.2 Policy  principles 
+6.1.3 Definitions  
+6.1.4 Roles  and responsibilities for records 
+6.1.5 Access  to records  
+6.1.6 Retention  and disposal of records
+6.1.7 University  Electronic Recordkeeping System
+6.1.8 University  archives
+Related Documents
+Modification History 
+6.1.1 Legislative obligation 
+As a  public authority, QUT is obliged to comply with the requirements of the Public  Records Act 2002 and of Information Standard No 40 - Recordkeeping (IS40) and Information Standard No 31 - Retention and Disposal of Public  Records (IS31) which provide for the proper making, management, keeping and  preservation of public records in a useable form for the benefit of present and  future generations.
+All  records created or received by University staff in pursuit of their QUT  functions or responsibilities are public records, and must be managed in  accordance with the requirements set out in this policy and related procedures,  guidelines and standards.
+Top 
+6.1.2 Policy principles 
+QUT is  committed to the creation and maintenance of adequate records of its functions  and activities This policy is based on the following principles
+  Staff  must comply with the requirements of the Public Records Act when creating and  managing corporate records
+  The  University promotes open access to its records, including the QUT archives, except  where those records have been classified as restricted access in accordance  with QUT&rsquo;s security classification framework (F/1.2)
+  QUT  records will be retained and disposed of in accordance with the requirements of  the disposal schedules approved by the Queensland State Archives
+  QUT records must be captured by either the  corporate electronic recordkeeping system (HP TRIM) or another business system.
+Top 
+6.1.3 Definitions 
+A record is defined in the Public Records  Act as recorded information created or  received by an entity in the transaction of business or the conduct of affairs  that provides evidence of the business or affairs. Records may be in many  formats, including physical or hard copy, electronic such as email, information  stored in the University&rsquo;s corporate systems and other technology dependent  records.
+Top 
+6.1.4 Roles and responsibilities for records 
+All staff
+Recordkeeping  is an essential part of every QUT staff member's job. All staff are responsible  for creating records that adequately document the business transactions in  which they take part. Staff are expected to capture and retain the records they  create by utilising the records management or other business system made  available by the University to support their functions and activities. Staff  must follow any records management procedures prescribed by the Registrar under  this policy.
+Heads of  organisational units
+The head  of each organisational unit is responsible for ensuring that records supporting  business activities are created, maintained and retained for appropriate  periods. Heads of organisational units must ensure
+  that  staff are aware of and follow recordkeeping procedures 
+  that  information and processing systems that support the business activities of the  organisational unit create appropriate records as an integral part of those  activities 
+  that  approval for disposal of records is obtained in accordance with QUT's  established disposal procedures within appropriate recordkeeping systems.
+  Data  custodians
+In the  electronic arena, data custodians (see F/1.1) are responsible for the  reliability and operation of systems that generate and store records. Data  custodians are also responsible for ensuring 
+  that  records are stored in a secure and inviolate manner 
+  that  access and use of records is supported by appropriate audit trails 
+  that  adequate consideration is given to business continuity planning so that records  can be accessed for the necessary retention period.
+Governance  Services
+The Director,  Governance Services is responsible for implementing the relevant record  management standards. This responsibility encompasses management of permanent  and long-term records held in the University archives and authorising disposal  of records in accordance with approved disposal schedules and authorities.
+The  Manager, Records Management Services, has general responsibility for the establishment  and operation of the corporate records management system in compliance with  relevant legislation and standards. 
+Registrar
+The Registrar is the University's chief  administrative officer and has overall responsibility for management of QUT's  corporate records. The Registrar approves procedures and guidelines for  complying with QUT's records compliance obligations.
+Top 
+6.1.5 Access  to records 
+QUT  records are regarded as a corporate resource. Staff need to be informed on  University matters to provide context to the functions and activities which  they perform and may have access to University records in order to fulfil their  duties. The University's general approach is one of openness, in that staff may  access records about University activities, except where the records qualify  for restricted access in accordance with QUT's security classification  framework (F/1.2). 
+The University provides a number of schemes to  allow individuals to access information held by QUT, including statutory  schemes required under the Right to  Information Act 2009 and Information  Privacy Act 2009. For further details on these schemes, refer to the  University's Access to information policy (F/6.3)
+Top 
+6.1.6 Retention  and disposal of records 
+University  records must be retained while required for business use or to support other  legal, corporate or evidential requirements. Minimum periods for retention of  all categories of University records are found in the University Sector  Retention and Disposal Schedule and the Queensland State Archives  General Retention and Disposal Schedule for Administrative Records,  available from the Governance  Services website.
+Staff  must not destroy official records without the prior support of the head of  their organisational unit and the approval of the Director, Governance  Services. Further details on the requirements for obtaining approval for  disposal of QUT records are available from the Governance  Services website. 
+Early disposal of digitised records
+Permanent  records that are created or received in hardcopy format must be maintained in  their original format for the entire retention period as set out in the Retention  and Disposal Schedules.
+  Temporary  records that meet the requirements set out in the Digitisation Disposal Policy for Queensland Public Authorities are  eligible for early destruction after scanning into HP TRIM or other corporate  systems which meet recordkeeping requirements as set out in that policy. 
+Approval for the early destruction of digitised  records must be sought from the Director, Governance Services (see the Governance Services website for information on the approval  process), Records that have been  approved for early destruction are included in the Retention and Disposal  Schedules.
+Top
+6.1.7 University  Electronic Recordkeeping System
+HP TRIM  has been implemented as the corporate electronic recordkeeping system to assist  with the capture, retrieval, storage and disposal of University records.
+University records, in particular those relating  to students, staff, agreements and committees that exercise delegated authority  that are not captured in another corporate system must be registered in HP TRIM. 
+Top
+6.1.8 University  archives
+The  University archives provide an ordered system for the management of permanent  and long-term records of QUT and its predecessor institutions. 
+Access to  these records is in accordance with section 8.1.5, though the Manager, Records  Management Services, may refuse access or impose conditions on how access may  occur where records are fragile or awaiting conservation treatment. Bona fide  researchers may be also be granted access to the material upon application,  though in these cases, access may be subject to the records being within the  'open access' periods imposed by the Public Records Act.
+Donations  of records and other archival material from persons or bodies outside of QUT  will only be accepted in limited circumstances, as the University archives is  not a collecting archive nor does the University's archives repository support  the storage or display of artefacts or memorabilia. Donations will only be  accepted where the records offered are directly relevant to the University's  main functions and activities, and enhance the corporate memory or history of  QUT or its predecessor institutions. Additionally, donations to the archives will  only be accepted where it is clearly within the power of the donor to make the  donation. Wherever possible, copyright and ownership of the material will pass  to the University, and access conditions should not normally be imposed on the  material. These matters will be formally documented in an agreement signed by  the donor. Where an offered donation is not considered appropriate for the  University archives, efforts should be made by relevant areas of the  University, such as the Alumni and Development Office, to locate an appropriate  repository for the material. For further information about acquisitions for the  University's museums and other collections, refer to I/7.1.3.
+Top
+Related Documents
+Public  Records Act 2002
+  Information  Standard No 40 - Recordkeeping
+  Information  Standard No 31 - Retention and Disposal of Public Records
+Digitisation  Disposal Policy for Queensland Public Authorities
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  07.10.10
+   All
+  Vice-Chancellor
+  Policy revised - periodic review
+  16.07.09
+   F/8.1.1
+  Governance Services
+  Editorial amendment to update Information Standard
+  17.05.07
+   F/8.1.6
+  Vice-Chancellor
+  Revised policy to reflect current corporate  records strategy and practices (incorporates former policies F/8.2 and F/8.3) 
+12.07.05
+F/8.1.6
+Manager, Archives and Records Management Services
+Updated in accordance with current disposal schedules
+05.03.00
+All
+Registrar
+Updated
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 07-Oct-2010
+    Contact us | Feedback | Disclaimer

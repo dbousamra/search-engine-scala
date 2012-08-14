@@ -1,0 +1,203 @@
+QUT | MOPP | F/1.4 Policy on web pages and web servers
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/1.4 Policy on web pages and web servers
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerExecutive Officer, Registrar's Office 
+Approval Date29/07/2006 
+Approval AuthorityVice-Chancellor 
+Date of Next Review01/07/2009 
+1.4.1 General principles 
+1.4.2 Definitions 
+1.4.3 Web Governance Framework 
+1.4.4 Management of web pages and servers 
+1.4.5 Standards for material on web pages and web servers 
+1.4.6 Copyright issues associated with web publication 
+Related Documents 
+Modification History 
+1.4.1 General principles 
+The web is recognised as an important medium for
+learning and teaching and the provision of a flexible delivery medium for 
+    QUT courses
+administrative interactions between QUT and its students/staff via the 
+    QUT Virtual portal
+QUT marketing communication via the University's public web site.
+All material placed on University web servers reflects on the University, and 
+  must identify the University in accordance with QUT's corporate identity 
+  standards. Websites used for teaching and learning must also comply with on-line 
+  teaching standards for appropriate presentation and management.
+Top 
+1.4.2 Definitions 
+A "web page" is a file which can be displayed within a Web browser. 
+  The page may incorporate any combination of text, graphics and other media as 
+  appropriate, and may use hypertext links to move between its different parts 
+  and other Web pages. Each web page has an address called a Uniform Resource 
+  Locator or URL.
+The 
+QUT home page
+is the default web page directly accessible 
+  via the top level QUT uniform resource locator 
+http://www.qut.edu.au/
+A "web server" is a computer that is always connected to the internet. It 
+  runs web server software that waits for browsers to request web pages from it. 
+  Each web server has a domain name (eg. qut.edu.au) that browsers use to locate 
+  the web server.
+Top 
+1.4.3 Web Governance Framework 
+All organisational unit web pages and servers must be governed in accordance
+  with the University's 
+Web
+  Governance Framework
+. Compliance with the Framework is the responsibility
+of the relevant executive dean of faculty, head of division or institute director.
+Top 
+1.4.4 Management of web pages and servers 
+Web pages
+All organisational unit home pages must include a link to the QUT home page. 
+  All organisational unit web pages must link to the organisational unit's home 
+  page.
+All organisational unit home pages, web pages and unit or course home pages 
+  used for teaching and learning must
+stay within QUT's infrastructure (ie on servers hosted by QUT). Exceptions 
+    must be approved in writing by the Registrar
+use the qut.edu.au or  qut.com domains. Exceptions must be approved in writing by the Director,  Marketing and Communication
+follow corporate identity,  accessibility and other standards as outlined in the QUT Web Manual . Exceptions must be approved in writing by the Registrar &nbsp;in consultation with the Director, Marketing  and Communication
+include the University's CRICOS provider number in page footer information 
+    as a minimum requirement. The standard usage is "CRICOS No. 00213J" 
+    (refer to 
+CRICOS guide
+in the case of unit or  course home pages used for teaching and learning, follow standards issued by  the Deputy Vice-Chancellor (Technology, Information and Learning Support) for  on-line teaching and learning sites.
+Information indicating
+the officer responsible for the material published on QUT web pages
+contact details for the relevant web master
+date of last review
+should be recorded as metadata on the relevant web page.
+Web servers
+University web servers, including the principal University web server, web 
+  servers connected to the internet via the University, and web servers having 
+  a University internet address, may only be connected to the internet according 
+  to formal procedures as authorised from time to time by the Director, Information 
+  Technology Services.
+The Director, Information Technology Services, may
+amend or remove from a web server any material which does not conform with 
+    legal requirements, the Acceptable use of information technology resources policy (F/1.11),  
+    or which reflects adversely on the University, or is outdated
+disconnect from the internet any web server which does not conform to this 
+    policy, or reflects adversely on the University
+remove or alter any files or material or disconnect any server which weakens 
+    network security or attracts so much network or internet traffic as to degrade 
+    network performance.
+All web servers visible from outside the University must be designed to provide 
+  continuous service, and this requires adequate supervision and backup.
+Top 
+1.4.5 Standards for material on web pages and web servers 
+All material placed on University web servers reflects on the University, and 
+  the University must be identifiable in accordance with 
+Corporate 
+  Identity standards
+A person placing material on a University web server is responsible for
+the accuracy of the material
+the spelling, grammar, presentation and appearance of the material
+maintenance of the University's professional image
+ensuring that the material remains up-to-date by reviewing the material 
+    as appropriate and at least once every six months
+maintenance of links to ensure as far as possible that inactive or dead 
+    links, or links to incomplete material, are not included
+ensuring that the material conforms to University policy on the standards 
+    for material on University web servers as issued by the Registrar from time to  time.
+Material placed on web servers must be related to University functions or activities, 
+  or otherwise approved by the Registrar. Information appearing on a University web page which 
+  is not related to a University function or activity must be clearly differentiated 
+  from official information and must state the person responsible for the information.
+Only one version of any official University document or policy should exist 
+  on a University web page or web server. Any other references should be by a 
+  link to the original document, rather than by reproducing a copy, so that a 
+  single, definitive version is accessed.
+Paid advertising by external organisations (ie an external advertiser's 
+  message or logo) on University web pages is not permitted. However, where a 
+  broader sponsorship arrangement exists with an external organisation, this may 
+  be acknowledged by QUT in text (no external logos) on the appropriate University 
+  web page/s. In these situations, the sponsor's name in the text may provide 
+  a hyperlink to the organisation's website or to more information about 
+  QUT's relationship with the organisation. Any exceptions to this policy 
+  must be approved by the Director, Marketing and Communication.
+Top 
+1.4.6 Copyright issues associated with web publication 
+Material in which QUT does not own the copyright must be made available via 
+  QUT web pages and servers only in accordance with relevant Australian Government legislation 
+  and QUT's copyright policy (see 
+F/5.1 ). 
+  Specifically, this means that it is provided through one of the following channels
+material available under statutory licence and identified as such
+material available by direct contract (licence) with the copyright owner 
+    through the QUT Library
+material available by specific and documented permission of the copyright 
+    owner.
+The key determinants of the appropriate channel are the purpose for which the 
+  material is made available, the type of material, and the restrictions on access 
+  to the site. For further guidance, refer to the 
+QUT 
+  Copyright Guide
+Take down
+procedures for material which infringes copyright
+To adequately address copyright infringement risks in the context of content 
+  on University web pages and web servers, the Director, Information Technology 
+  Services, in conjunction with the Copyright Officer, has responsibility for 
+  implementing appropriate take down procedures for infringing material and for 
+  responding to a take down notice or complaint by copyright owners or others 
+  about infringing material.
+Top 
+Related Documents 
+MOPP F/2.1 QUT Corporate identity policy
+MOPP F/5.1 Copyright policy
+MOPP Appendix 1(c) - Information Facilities Rules
+QUT Web Manual
+QUT Web Governance Framework
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  15.09.10
+  All
+  Governance Services
+  Policy revised to reflect repeal of Information Facilities Rules
+   06.05.06
+  F/1.4.4, F/1.4.5
+  Deputy Vice-Chancellor  (Technology, Information and Learning Support)
+  Editorial change &ndash;  responsibility moved to Registrar
+29.07.06
+All
+Vice-Chancellor
+Revised to include requirement to comply with Web Governance Framework
+    (endorsed Vice-Chancellor's Advisory Committee 10.08.05)
+15.01.04
+All
+Vice-Chancellor
+New policy (incorporates information on web pages and web servers from 
+      former Information Technology Rules)
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 10-Sep-2010
+    Contact us | Feedback | Disclaimer

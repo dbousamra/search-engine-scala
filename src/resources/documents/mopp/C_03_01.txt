@@ -1,0 +1,248 @@
+QUT | MOPP | C/3.1 Courses and awards
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      C/3.1 Courses and awards
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerDean of Studies, Office of Teaching Quality 
+Approval Date14/11/2008 
+Approval AuthorityUniversity Academic Board 
+Date of Next Review01/01/2012 
+3.1.1 Policy principles 
+3.1.2 Policy outcomes 
+3.1.3 Definition of relevant terms 
+3.1.4 Award titles 
+3.1.5 Credit point system 
+3.1.6 Time-based study 
+3.1.7 Course requirements 
+3.1.8 Curriculum structures 
+Related Documents 
+Modification History 
+3.1.1 Policy principles 
+A primary function of QUT is to deliver higher education courses and programs and the University is committed to providing high quality and well-designed courses which meet the needs of its students and the community. Courses at QUT are designed and structured based on the following principles. 
+Courses at QUT will:
+ align to guidelines for learning outcome characteristics and pathways as described in the Australian Qualifications Framework Implementation Handbook 
+ set clear academic expectations and standards
+ provide clear, consistent and flexible course completion requirements for students 
+ provide pathways via a range of articulation mechanisms which recognise the diverse prior learning experiences of students. 
+Top 
+3.1.2 Policy outcomes 
+This policy is designed to promote:
+ the development of clear and consistent course structures and course completion rules 
+ a framework for course structures which recognises the diversity of QUT's course offerings and enables response to the evolving nature of business, industry, and the professions. 
+Top 
+3.1.3 Definition of relevant terms 
+(a) Course
+A Course is a coherent set of units or thesis which is assigned a course code and a credit point value for coursework courses (C/3.1.5) or EFTSL value for research higher degree courses, and approved by University Academic Board (C/4.1) QUT offers both award courses and non-award courses (C/3.3).
+Course codes are in the format @@## where @ is an alphabetic character and # is a numeric character. The first two characters represent the school or faculty administering the course, or designate the course as interfaculty in the case of a course offered collaboratively by two or more faculties. 
+(b) Study Areas 
+A Study Area is a coherent set of units within a course which together form a coherent body of knowledge, undertaken at an advanced level and normally approved by faculty academic boards (C/4.1). A course may have two levels of Study Area: Study Area A and Study Area B.
+Study Area codes embed meaning regarding the faculty or school administering the course, the type of Study Area, and an abbreviated description of the Study Area.
+Study Area A is the primary group of units within a course and is called a Major. Study Areas A meet the following criteria:
+ Study Area A is included on academic transcripts, and may be included in award titles on QUT parchments if formally approved during the curriculum development and approval process 
+ a Study Area A is assigned a set credit point value such that all Study Areas A within the course have an equal number of credit point. 
+ all Study Areas A within a course are owned by the faculty delivering the course 
+ the minimum requirements for Study Area A at each level of award are
+   Master degree awards - 48 credit points 
+   Graduate diploma awards - 48 credit points 
+   Graduate certificate awards - 24 credit points 
+   Bachelor degree awards - 72 credit points 
+   Associate degree awards - 72 credit points. 
+Study Area B is a second group of units within a course and is called a second major, extension, or minor. Study Areas B meet the following criteria:
+ a Study Area B may be drawn from either the same discipline area as Study Area A or a complementary or different discipline area. Course structures may permit students to take more than one Study Area . 
+ a Study Area B is included on academic transcripts but does not appear on QUT parchments 
+ to encourage cross-disciplinary study, Study Areas B within a course may be offered by faculties other than the faculty responsible for the course. QUT has established University Minors which are Study Areas B of 48 credit points available to students for cross-disciplinary study
+ the minimum requirements for Study Area B at each level of award are
+Master degree awards - 24 credit points 
+Graduate diploma awards - 24 credit points 
+Bachelor degree awards - 48 credit points 
+Associate degree awards - 48 credit points.
+(c) Complementary studies
+The term Complementary Studies applies to the group of units that are required in addition to core
+  units and a Study Area A in some courses in order to fulfil course requirements. The units comprising
+  this study package accordingly complement the discipline focus provided by the core units and Study
+  Area A.
+(d) Unit  
+A Unit is a coherent set of learning activities which is assigned a unit code and a credit point value (C/3.1.5 below) and approved by faculty academic boards. Unit codes are in the format @@@### where @ is an alphabetic character and # is a numeric character. The first two characters indicate the faculty or school administering the unit. The third character indicates the level of the course in which the unit is normally taught. Faculties may choose to use the numeric characters to indicate the year of the course in which the unit is normally taught.
+The list of faculty / school codes and level indicators for units is available in the QUT Handbook . 
+(e) Thesis  
+A Thesis a substantive piece of written work submitted for the award of a higher degree and is assigned a code and an EFTSL value (C/3.1.6) and approved by faculty academic boards. The coding schema for a thesis is the same as for a unit.
+(f) Study package
+A study package is used within QUT’s corporate curriculum systems as a term to describe an element
+  of the curriculum structure. Courses, Study Areas, Units, Complementary Studies and Theses are
+  examples of study packages.
+Top 
+3.1.4 Award titles 
+The award title for a course is approved by University Academic Board through the curriculum development and approval process (C/4.1) and is the title shown on the award parchment issued to students who have completed their course requirements (E/10.2 ). Award titles are subject to the following requirements:
+ at the level of graduate diploma, graduate certificate, associate degree, University certificate, University diploma, University advanced diploma and University associate degree, the word 'in' is used to denote the discipline area. For bachelor degrees, masters degrees and doctoral degrees, the word 'of' is used
+ faculties may choose to add Study Area A as a descriptor to the generic award title to be printed on the parchment, subject to the approval of University Academic Board (C/4.1). Where a descriptor qualifies a generic title, the descriptor will appear in parentheses (eg Bachelor of Engineering (Mechanical))
+ award titles, including descriptors (if any), must be included in the course descriptions made available to students.  Where the award title differs from the course title, faculties must clearly inform students in all course materials
+    generic award titles are normally used for undergraduate awards and many postgraduate awards. Where a specific award title is requested, the title must be justified by addressing the following considerations
+    the structure and extent of specialisation within the degree course 
+    the extent of the recruitment or marketing demands for the title 
+    the extent of the professional or employment demands for the title 
+    the issues of false advertising and misunderstanding by students and employers 
+    the life expectancy of the value of the title 
+    the extent of use of the specific title in the national and international community.
+QUT has standardised abbreviations for award titles. A complete list of award titles, including approved abbreviations and details of QUT's standard abbreviations, is held on the Learning and Teaching Unit website.  Any variation to the standard abbreviation must be approved by University Academic Board.
+Top 
+3.1.5 Credit point system
+QUT uses a credit point system for all coursework courses for the purposes of calculating student load (EFTSL) for internal and external reporting. The credit point value is a measure of the proportion of the year's workload which the unit represents to a student, and is the weighting used to calculate a student's grade point average (GPA). The total credit points per full-time year of a course is 96. Any variation is approved by University Academic Board and is regarded as overload or underload.
+All units are 12 credit points. QUT may allow the following exceptions in certain circumstances. These exceptions must be approved by University Academic Board as part of the course requirements (C/3.1.7):
+ project or studio units within coursework courses may be multiples of 12 credit points. Where such units span more than one teaching period (multi-component units), a separate unit code and credit point value is assigned to each teaching period of the unit for the purposes of managing enrolment and calculating EFTSL. Units spanning more than one teaching period in a research course are established as a thesis (C/3.1.3(d))
+ six credit point units may be approved where a strong case based on market requirements can be made, and the faculty will accept six intakes of students per year. 
+Nil credit point units cannot be offered.
+Top 
+3.1.6 Time-based study Research higher degree (RHD) courses are offered as time-based study and are characterised by the enrolment of a student in a thesis. Students admitted to RHD courses may enrol in their research thesis at any time, and receive an amount of EFTSL corresponding to the time they are expected to complete the course on the basis of full-time study. EFTSL is consumed as the student progresses through the course on either a full-time or part-time basis. If coursework units are offered within the RHD course, students enrol in the units as required and an equivalent amount of EFTSL is subsumed according to the number of credit points in the units.
+Top 
+3.1.7 Course requirements 
+Course requirements set out the  specific requirements for admission to and completion of an award  course and  include the following: 
+  the award title       (C/3.1.4) 
+  whether the award may be       granted with honours or distinction (C/5.2.4 and C/5.2.5) 
+  minimum entry       requirements for the award course, and in the case of a higher degree by       research (RHD), any requirements for       acceptance as a candidate for the degree
+  the course structure       including
+    a specified number of credit points for        completion of the course (or EFTSL for  RHD        courses) 
+    the credit points for        each component of the course structure (core components, Study Area A,        Study Area B and optional components)
+    the distribution  of credit load between project / thesis and coursework (for  courses with a significant project or thesis component) 
+   mode of attendance or mode of study
+  any  requirements for academic progression, completion of the  course and entitlement to the award including
+      requirements to complete particular units (eg designated units &ndash; E/6.7.3)
+      any requirements to undertake compulsory field work (see Field trips below) or work        placement 
+  in the case of RHD       courses, the faculty arrangements for
+      approval of project/thesis proposal      
+      confirmation of candidature (where        appropriate) 
+      supervision 
+      examination procedures. 
+ Specific  requirements for course structures for different award categories are shown in C/3.2 and  guidelines are provided on the Learning and Teaching Unit website.
+Course requirements must be made  available to students at the time of enrolment (E/2.1 and E/4.3.3) and are set out in the QUT Handbook. Students  are eligible to graduate as soon as they have completed all the requirements  for the course (E/10.1).
+Course requirements are  approved by University Academic Board at the time of approval of the course. Subsequent  changes can be approved by the faculty  academic board in accordance with the curriculum development and  approval policy (C/4.1).
+Field trips
+Field trips include all field excursions and industrial visits and may be:
+ compulsory for the course &ndash; attendance must be clearly specified in the course requirements, and the field trip must be a separate unit
+ a compulsory component of a unit &ndash; but where the unit is optional in the course, attendance must be clearly specified in the unit outline and the unit synopsis, and full details of the trip must be available to students at the commencement of the unit
+ an optional component of a unit &ndash; if assessment is based on attendance of an optional field trip, students choosing not to attend must be provided with alternative assessment.
+Details of financial arrangements for and reimbursement of student expenses relating to field excursions are provided in E/7.2. 
+Top 
+3.1.8 Curriculum structures 
+Requirements for structuring courses and Study Areas enable faculties to offer courses that provide flexibility for students while also tailoring courses and their award titles to meet specific career paths and industry requirements. 
+Courses and Study Areas must be designed such that they are consistent with principles for curriculum design (C/4.2) and provide students with:
+ course structures that are easy to navigate and provide consistent and simple pathways for completion
+ courses that are tailored to meet specific industry requirements, but which avoid excessive overlap between courses
+ consistent opportunities for advanced standing that promote articulation of awards both within the University and between institutions
+ a balance of professional requirements and opportunities for work integrated learning as well as opportunities for cross-disciplinary study.
+Guidelines for design of curriculum structures are provided on the Learning and Teaching Unit website.
+(a) Sequencing and structuring
+Course structures provide students with consistent and simple pathways for completion, and are expected to adhere to the following requirements: 
+ completion requirements for all students within the course are based on the same course structure
+ Study Areas A and Study Areas B are each assigned a set credit point value within a course (C/3.1.3)
+ the course structure allows students to complete all course requirements through enrolment in QUT units unless entry requirements are established that require all students to have undertaken previous study which is then granted as advanced standing. 
+ (b) Credit points
+Where possible courses structures are designed to minimise overlap between courses to ensure that requirements for maximum advanced standing can be met (E/4.2).  Courses are designed to ensure that they do not overlap with another course at the same level by more than the amount specified below: 
+ Bachelor degree &ndash; 96 credit points 
+ Graduate certificate, graduate diploma, masters degree &ndash; 50% of credit points. 
+Study Areas within a course should not overlap by more than 50% of the credit points.
+Where faculties choose, for purposes of tailoring offerings to specific industry requirements, to offer courses where unit overlap exceeds the above requirements, they may choose to establish course entry requirements so that students are prevented from attaining more than one award. Where faculties choose to allow students to complete a second course offered at the same level and by the same faculty, students are required to complete a minimum number of credit points while admitted to the second course in order to meet its award requirements. This requirement would normally be met by students completing a different study area to that completed in the first course. The minimum number of credit points required is as follows:
+ Bachelor degree &ndash; 96 credit points
+ Graduate certificate &ndash; 24 credit points
+ Graduate diploma &ndash; 36 credit points
+ Masters degree &ndash; 48 credit points.
+ (c) Nested suites 
+Nested suites of two or more courses may be designed with specific advanced standing arrangements that allow students to easily articulate between courses at different award levels. Arrangements for nested suites of courses are approved at the time of course approval, and are subject to the following requirements:
+ a nested suite comprises two or more courses at different award levels
+ all units in a lower level course are included in all higher level courses
+ advanced standing in a higher level course is automatically granted to the full credit point value of the lower level course 
+ entry to the higher level course may include additional entry requirements.
+Graduate certificates and graduate diplomas may be designed to include up to 48 credit points of undergraduate units. A 144 credit point masters degree forming part of a nested suite may also incorporate up to 48 credit points of undergraduate units from the nested graduate certificate. A 96 credit point masters degree may not contain undergraduate units.
+ (d) Articulation 
+Formal arrangements for articulation may be established where courses do not form nested suites. Such advanced standing arrangements may occur in the following circumstances:
+ Formal arrangements with particular VTE providers. 
+ Formal arrangement for advanced standing upon entry to a specified Bachelor degree following completion of a specified University Certificate (48 credit points) or University Diploma (96 credit points) or specified non-award course offered through QUT International College (48 &ndash; 96 credit points).
+ Advanced standing of 48 credit points towards the coursework component of a 144 credit point research masters course following completion of a four year undergraduate degree or equivalent.
+ Advanced standing to a maximum of 96 credit points (or 1 EFTSL equivalent) towards the Doctor of Philosophy or a professional doctorate following completion of a masters degree.
+ Formal arrangement within a postgraduate suite of courses which do not form a nested suite for advanced standing for a percentage of the credit points of the lower level courses.
+(e) Unit coding 
+Units are coded to represent the award level of the course for which they are used (C/3.1.3). Units may be offered to more than one cohort of students, but separate unit codes are required where a unit is offered to a general entry cohort and a corporate cohort, or at undergraduate and postgraduate levels.
+Corporate cohorts
+Where a separate unit code is required for a corporate cohort taught at the same award level through a corporate award course (C/3.4), the following requirements apply:
+ Multiple corporate cohorts may be managed through the same corporate unit code 
+ The corporate unit will have the same unit title and learning outcomes as the general entry version
+ The corporate unit may incorporate separate delivery and learning approaches and assessment designed for the specific student cohort, but is expected to maintain equivalence of learning outcomes with the general entry unit
+ A corporate unit and general entry unit offered at the same award level are considered to be equivalent and students are entitled to advanced standing for equivalent units if they transfer from one course to another at the same level.
+Postgraduate cohorts
+Where a separate unit code is required for an undergraduate and postgraduate cohort, the following requirements apply:
+ The postgraduate unit must contribute to the learning outcomes of the postgraduate course and include additional or separate content, delivery or assessment, and may include different unit outcomes
+ The design of the postgraduate unit must acknowledge the different expectations, learning styles, prior knowledge, and life experiences of postgraduate students 
+ The two units offered at different award levels are not considered to be equivalent and a student will not receive advanced standing in a postgraduate unit for completion of an undergraduate unit
+ Students in the undergraduate and postgraduate units may be taught 'concurrently' sharing the same classroom or other learning experiences. However, where concurrent teaching will occur, students enrolling in the undergraduate and postgraduate units must be advised both prior to enrolment and in the unit outline. 
+(f) Opportunities for interdisciplinary study 
+Course structures must allow for student choice and provide a balance of professional requirements and opportunities for work integrated learning and interdisciplinary study through the following:
+ Courses    with more than one Study Area A (major) should aim to include a core component that is consistent across all Study Areas A and allows students    to delay their choice of majo.
+ Study Areas B are used to provide students with opportunities to undertake study from another discipline
+ Consideration should be given to including disciplines from beyond the course or faculty within the Study Area B choice
+ Study Areas A will provide little or no choice of units to provide consistency for students and meet professional requirements. Study Areas B may provide choices of units to provide flexibility for students and allow for timetabling requirements
+ Where possible, course structures should allow a minimum of 48 credit points where students can take University minors or University-wide unit options
+ Research pathways should be provided within undergraduate courses where relevant. 
+Top 
+Related Documents 
+MOPP C/3.2 Award classifications
+MOPP E/2.1 QUT Student Charter
+ MOPP E/4.3 Enrolment programs
+MOPP E/7.2 Expenses related to student excursions
+MOPP E/10.1 Graduation requirements
+MOPP E/10.2 Award parchments 
+QUT Handbook
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  11.02.11
+  All
+  Governance Services
+  Revised terms of reference due to name change from Office of Teaching Quality to Learning and Teaching Unit
+   23.07.10
+  C/3.1.3,
+    C/3.1.8
+   University Academic Board
+  Policy revised to include SAMS
+    terminology and processes
+   13.11.09
+   C/3.1.7
+   University Academic Board
+  Revised policy
+  14.11.08
+  All
+  University Academic Board
+ Revised policy effective from 01.01.09 (replaces former policies C/3.1, C/3.4, C/7.3, C/7.9) (endorsed by University Teaching and Learning Committee 21.10.08)
+19.05.06
+All
+University Academic Board
+Revised policy (endorsed by Teaching and Learning Committee 02.05.06); replaces former policies C/3.1, C/3.7, C/3.8 and C/3.9
+21.05.02
+All
+Academic Policy and Programs Unit
+Updated and linked to QUT Handbook
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 10-Feb-2011
+    Contact us | Feedback | Disclaimer

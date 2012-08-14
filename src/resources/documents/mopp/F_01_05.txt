@@ -1,0 +1,129 @@
+QUT | MOPP | F/1.5 Email policy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/1.5 Email policy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerManager - Infrastructure Services - Information Technology Services 
+Approval Date07/12/2010 
+Approval AuthorityVice-Chancellor 
+Date of Next Review01/12/2013 
+1.5.1 Availability and use of email 
+1.5.2   Email address aliases
+1.5.3 Staff email as official records
+1.5.4  Email attachments
+1.5.5  Email quota
+1.5.6  QUT email distribution lists (Interest Groups)
+1.5.7  Decommissioning of email accounts
+1.5.8  Email transaction records
+1.5.9 Email etiquette 
+Related Documents 
+Modification History 
+1.5.1 Availability and use of email 
+QUT provides electronic  mail to staff, students and approved affiliates (eg honorary and adjunct staff,  members of QUT Council) to enhance communication and promote greater efficiency  in teaching, research, community service and administration. The University has  adopted standard corporate messaging systems and support for non-standard  systems is not provided. It is expected that all use of QUT email will be in  accordance with the Acceptable use of information technology resources policy  (F/1.11).
+Information Technology  Services is responsible for providing and supporting QUT's email systems and  mail agents on central servers.
+Top 
+1.5.2 Email address aliases 
+QUT email addresses or  aliases (for both individual accounts and email distribution lists) are created  based on a strict set of criteria and naming conventions. The Director, Information Technology  Services, has responsibility for determining the email alias conventions.
+Additionally, heads of departments,  schools, faculties and divisions have the capacity to create and use  alternative email aliases based on their position description (eg  registrar@qut.edu.au). This strategy may also be employed by other positions  or for specific functions (eg privacy@qut.edu.au). The Staff IT Helpdesk provides further  advice on set-up and management.
+Top 
+1.5.3 Staff email as official records 
+Email messages sent or  received by QUT staff in the performance of their duties are official records  of QUT and must be managed in accordance with the University's Records  management policy (F/6.1). As official records, ownership of email messages  rests with QUT rather than with the individual staff member.
+All staff using email  as a means of communication have a responsibility to capture and retain  messages so that they are accessible as records to meet business and evidential  needs over time. QUT's policy is that emails are captured and managed in the  University's electronic recordkeeping system (HP TRIM) or other appropriate  corporate system. Given QUT's obligation to retain records under  relevant legislation and standards (see F/6.1), periodic deletion  of email messages irrespective of their content or the business activity they  support is inappropriate. Email messages must be stored and retained for the  period specified in the University Sector Retention and Disposal  Schedule or the Queensland State Archives  General Retention and Disposal Schedule for Administrative Records.
+Staff should be aware that, as official  records of the University, email messages may be subject to release to  applicants under the Information Privacy  Act 2009 and Right to Information Act  2009.
+Top 
+1.5.4 Email attachments 
+The size of  attachments to be sent with email messages is limited to 10 megabytes. Staff  should use alternatives such as FileShare, SharePoint or Wiki to transfer or  share files larger than 10 megabytes. Executable attachments (programs) are not  accepted by the QUT email system. This reduces the risk of malicious software  and viruses being spread via email at QUT. Recipients of emails with such  attachments receive a message that their email attachment has been rejected and  the reason for this.
+Top 
+1.5.5 Email profiles 
+Users of the email  service are allocated either a 'standard' or 'vault' email profile. Details  regarding these profiles are available in the Email Service section of the Information Technology Services website.
+Top 
+1.5.6 QUT email distribution lists (Interest Groups) 
+Organisational lists 
+  Information Technology  Services is responsible for the implementation, management and system support  for an organisational email list system, the objective of which is to provide  email distribution lists based on organisational units or groupings of staff or  students. Staff are unable to opt off organisational lists, campus lists, and  certain other groups set up to inform staff about important matters such as  security or health and safety. In some cases, affiliates can be added to an  organisational list and this must be authorised at the level of head of school  / head of department.
+  The ability to send to  organisational email lists can be limited to certain individuals. In  particular, sending messages to large email distribution lists such as the  "all staff" list is restricted to the Vice-Chancellor, heads of  division and executive deans of faculty in order to avoid excessive load on  email servers. Email to these lists is normally scheduled to be sent three  times per day.
+  Large email  distribution lists and attachments 
+  For email distribution  lists containing more than 100 members, alternatives such as SharePoint, Wiki  or Fileshare service must be used to transfer or share  attachments. For some email distribution lists attachments are either not  permitted, or restricted in size and the use of the Fileshare service is  mandatory.
+  Staff self-subscribe  email distribution lists 
+  QUT provides some  email distribution lists or news groups to which staff may subscribe according  to their individual needs or interests. Staff add or remove themselves from the  staff self-subscribe lists via QUT  Virtual. Some lists may allow any staff member to send an email message to  subscribers (eg qut.forum) and where this can occur, messages should be  relevant to the purpose of the list. Self-subscribe email distribution lists  are restricted to staff only.
+  The creation of new  self-subscribe lists must be approved by the Deputy Vice-Chancellor  (Technology, Information and Learning Support). Given the need to conserve  information technology resources, requests to create new lists should address  the appropriateness of restricting the ability to send to the subscriber group  (eg qut.parking).
+Further information on  QUT email distribution lists is available from the Interest Groups Main Menu in QUT Virtual. 
+Top 
+1.5.7 Decommissioning of email accounts 
+Student email accounts 
+Student access to email  ceases 30 days after their notified graduation ceremony date (or alternative  completion date for courses without a graduation ceremony).
+Staff email accounts 
+Staff email accounts  remain active for 30 days after the staff member's resignation date. After 30  days, the account is deactivated (therefore not accessible) for a further 30  days before final removal from the email system.
+It is the responsibility of  the head of department or school to ensure that email records of a staff member  who has resigned remain accessible and are retained for the period of time  required by the the University Sector Retention and Disposal  Schedule and the Queensland State Archives  General Retention and Disposal Schedule for Administrative Records.
+Top 
+1.5.8 Email transaction records 
+The University keeps a  backup of all email. Logs of internet access and email are automatically  generated and, in the case of email, include the time a message is received and  the location of its origin, the time a message is retrieved by a user, the user  name which was used to authorise the sending of a message, and the size of the  message and the identity of the sender and receiver.
+Access to these logs  is available to a small number of Information Technology Services technical  staff solely for the management of the email resource, for diagnosis and  resolution of faults, or to detect and manage IT security breaches.
+Consistent with QUT's Information  privacy policy (see F/6.2), information contained in these logs is released beyond this  group only with authorisation of the Director, Information Technology Services,  and only if
+  it must be released for law enforcement purposes
+  it is required to investigate breaches of University       statutes, rules or policies
+  the University is legally compelled to       provide the information (eg by subpoena). 
+Other requests to analyse  material retrieved by a QUT user in terms of content will not normally be  authorised.
+Top 
+1.5.9 Email etiquette 
+Email messages should  be as short and specific as possible, having regard to their function as  records of University business. Given that email is generally an insecure means  of communication consideration should be given to the appropriateness of using  email to distribute confidential or sensitive information.
+Individual work groups  within the University should establish their own standards for expected  response times to emails, but given the immediacy of email as a method of  communication short response times would normally be expected. Further advice  on other aspects of email etiquette (or best practice) is available from the Information Technology  Services best  practice website.
+Top 
+Related Documents
+MOPP F/6.1 Records management policy
+MOPP F/6.2 Information privacy
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  07.12.10
+   All
+  Vice-Chancellor
+   Periodic review - policy revised
+  07.10.10
+   All
+   Governance Services
+   Policy revised to reflect change from privacy policy to information privacy 
+  1.09.10
+   F/1.5.9
+   Governance Services
+   Policy revised to reflect repeal of Information Facilities Rules
+24.08.06
+All
+Acting Vice-Chancellor
+Revised policy (includes new section on decommissioning of email
+        accounts)
+29.09.05
+F/1.5.6
+Manager, Network Services, ITS
+Minor editorial amendment
+15.01.04
+All
+Vice-Chancellor
+New policy; replaces Mail Service policy (formerly F/7.2) and incorporates aspects
+        of former Information Technology Rules
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 17-Dec-2010
+    Contact us | Feedback | Disclaimer

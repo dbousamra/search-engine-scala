@@ -1,0 +1,218 @@
+QUT | MOPP | G/7.1 Goods and Services Tax (GST)
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      G/7.1 Goods and Services Tax (GST)
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerDirector, Corporate Finance, Finance and Resource Planning 
+Approval Date19/06/2008 
+Approval AuthorityExecutive Director, Finance and Resource Planning 
+Date of Next Review01/06/2011 
+7.1.1 GST operations 
+7.1.2 Australian Business Number (ABN) 
+7.1.3 GST and donations 
+7.1.4 Risks 
+7.1.5 Contracts 
+7.1.6 Grants and appropriations 
+7.1.7 GST and courses 
+7.1.8 Recipient Created Tax Invoices 
+Related Documents 
+Modification History 
+The following information on the operation of the Goods and Services Tax  (GST) is provided as general information only. The legislation is complicated  and wide-ranging, and subject to considerable change. Advice regarding the  effects of GST should be sought from Corporate Finance before entering any new  business undertaking.
+Top 
+7.1.1 GST operations 
+GST is a transaction driven tax and applies when an entity engages in the provision of a taxable supply.
+Taxable supplies
+A taxable supply has GST included in its price. You make a taxable supply if you are registered or
+  required to be registered for GST and:
+money or consideration was given for the supply
+the supply was made in the course of an enterprise
+the supply is connected with Australia .
+GST is not included for any part of the supply that is GST-free or input taxed (see below).
+Types of transactions
+GST supplies fall into three categories:
+GST taxable at 10%
+GST free (this means that no GST is payable on the supply and the University is entitled
+      to an input tax credit for creditable acquisitions obtained to make that supply)
+Input taxed (this means that no GST is payable on the supply and the University is
+    not entitled to an input tax credit for creditable acquisitions obtained to make that supply).
+Transactions within the University, which include the University Bookshop, are outside the scope of
+  the GST.
+The Cooperative Research Centres with lead sites based at QUT are not part of the University for GST
+  purposes.
+When a supply occurs
+A supply occurs when goods are made available or when services are performed.
+Top 
+7.1.2 Australian Business Number (ABN) 
+QUT's Australian Business Number (ABN) is 83 791 724 622.
+Top 
+7.1.3 GST and donations 
+QUT is registered for GST and has been confirmed as an income tax exempt charitable institution which
+  can receive tax deductible gifts. Being a public university, QUT is endorsed as a deductible gift recipient
+under Subdivision 30-BA of the 
+Income Tax Assessment Act 1997
+A gift of cash or in kind made to QUT is GST free provided that it has the characteristics of a gift
+  as determined by the Australian Taxation Office. These are as follows:
+it is given voluntarily by the donor
+there is no 
+material benefit 
+to the donor provided in return
+the gift arises from benefaction and proceeds from the detached and disinterested
+    generosity of the donor.
+Care needs to be exercised and advice sought where QUT provides a 
+supply 
+of any kind
+  in return for a donation ( 
+supply 
+for GST purposes is defined in G/7.1.1 above ). An
+  accounting report to a donor will not constitute material benefit but a report on the findings of work
+  carried out using a cash donation may represent material benefit to the donor rendering the transaction
+  subject to GST. The receipt of monies as a gift requires detailed consideration of the legislative
+  requirements.
+Top 
+7.1.4 Risks 
+The administration of GST requires the management of a number of risks since GST decisions and treatments
+  are required on all transactions that QUT undertakes with its customers and suppliers, as well as most
+  (if not all) transactions processed. Heads of responsibility centres must ensure processes are put
+in place to minimise these risks.
+Risks for QUT include:
+Not collecting GST from customers when taxable supplies are made. The legislation
+    provides that one eleventh of the sale price comprises the tax and must be remitted to the Australian
+    Taxation Office. The risk here is that revenue is reduced.
+Charging GST incorrectly when GST free supplies are made. This is illegal.
+Overcharging suppliers. Businesses must be diligent in passing through cost savings
+    that flow from the new tax system to their customers.
+Not being able to claim GST paid on the purchase of goods and services back from the
+    Australian Tax Office. A 
+tax invoice 
+which has specific requirements must be on hand
+    before this claim is made. The risk is that legitimate refunds cannot be received. When GST input
+    credits cannot be reclaimed, the costs will be charged back to the responsibility centre. Staff are
+    encouraged to obtain compliant documentation, including when travelling in Australia , to ensure
+    that this does not occur.
+Top 
+7.1.5 Contracts 
+All contracts entered into for the supply of goods or services, including research and consulting
+  by the University, must include a provision for the client to pay GST. In-kind contributions made by
+  sponsors of research and consulting form part of the consideration for performance of services and
+are also subject to GST.
+Contract negotiation
+It is expected that where QUT is supplying goods or services to Australian resident organisations
+  with GST registration, it shall always be possible to facilitate the collection of GST by QUT, in addition
+  to the agreed fee for service or contract price. QUT is in a position of being able to render tax invoices
+  which will enable or assist the payer in claiming or verifying any input tax credit, set off, rebate
+  or refund in relation to the GST payable.
+Staff responsible for negotiating contracts should be aware that QUT as a supplier remains liable
+  to remit the GST, at 10% of the value of such supplies, to the Australian Taxation Office. Therefore
+  an agreement for QUT to absorb the GST payable on any arrangements will only mean that the funds available
+  to the relevant activity are reduced by one eleventh.
+Top 
+7.1.6 Grants and appropriations 
+Appropriations, as distinct from grants and contract fees, are not subject to GST. Payments from the
+  Department of Education, Science and Training under the 
+Higher Education Support Act 2003
+are
+  appropriations of government funds and are outside the operations of the GST. Unless otherwise confirmed
+  in writing by the granting body, grants are not appropriations but are consideration for supplies under
+  the GST. This means that one eleventh of the consideration received consists of GST and must be forwarded
+  to the Australian Tax Office. Responsibility centres must ensure that granting bodies are increasing
+the amount granted to cover the GST so that net grants are not reduced.
+Top 
+7.1.7 GST and courses 
+The definition of GST-free education is narrowly defined in the legislation and does not cover the
+entire range of the University's operations.
+GST-free courses
+The supply of an 'education course' is GST-free. The
+  term 'education course'  is defined in the Higher Education Support 
+Act
+  to include (amongst other things) a tertiary course, or a Masters or Doctoral course, or a tertiary
+  residential college course.
+A tertiary course means a course of study
+  or instruction that is a tertiary course determined by the Education Minister  under
+  subsection 5D(1) of the 
+Student Assistance Act 1973
+for the purposes of that Act;  or
+  any other course of study or instruction that the Education Minister has determined is a tertiary course
+  for the purposes of the Act.
+Foundation,
+  ELICOS and bridging courses are also GST-free. Courses such as faculty certificates are GST-free if
+  they are made up of subjects that form part of a GST-free course, for example a bachelor's degree in
+  the same discipline. Students enrolling for one subject from a GST-free course will be deemed to be
+  receiving a GST-free supply.
+Taxable supplies of education
+Continuing Professional Education courses targeted at specific occupations, for example health professionals,
+  are GST taxable. Adult and community education is only GST free where it provides or adds to the employment
+  skills of those undertaking the course and is targeted at the general community. Courses with a leisure
+  component, such as Study and Travel, are GST taxable.
+Mixed supplies
+Where GST- free and GST taxable services are supplied together, the components need to be separately
+  identified and applicable GST stated clearly.
+Top 
+7.1.8 Recipient Created Tax Invoices 
+From time to time, staff members and responsibility centres may be approached by external organisations
+  for which QUT performs a service, to obtain QUT's consent for the external party to raise a Recipient
+  Created Tax Invoice. This document is effectively an invoice which acknowledges the supply being made
+by QUT and acts as a notice to the other party to remit the agreed fee for service.
+This is not a process which QUT wishes to adopt. Except in circumstances where QUT is not aware of
+  the amounts to be invoiced (for example, the trade in of a motor vehicle), and/or funds are for distribution
+  across a number of projects (for example, ARC Grant income), QUT's approval should be withheld. Should
+  scenarios of this type occur, then the responsibility centre administering the funds concerned may
+  agree to the issue of a Recipient Created Tax Invoice by the other party provided that the responsibility
+  centre concerned accepts full responsibility for ensuring that the external party is able to issue
+  Recipient Created Tax Invoices and securing the necessary documentation. Financial Services should
+  be provided with a copy of the Recipient Created Tax Invoice. In all other instances approval for the
+  raising of a Recipient Created Tax Invoice should be denied.
+Top 
+Related Documents 
+MOPP G/8.1 User Charging Policy
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  19.06.08
+  All
+  Acting Executive Director, Finance and Resource Planning
+  Policy reviewed &ndash; minor editorial change only
+  14.03.07
+  G/7.1.1
+  Director, Financial Services
+  Updated to remove reference to Student Guild fees
+06.09.05
+All
+Executive Director, Finance and Resource Planning
+Updated consistent with current legislation and renumbered to G/7.1 (formerly
+        G/12.1)
+20.12.04
+G/7.1.6
+Registrar's Office
+Editorial amendment (consistent with Higher Education Support Act 2003 and related
+        Guidelines)
+14.08.01
+All
+Director, Accounting Services
+New section providing operational information on the GST
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 13-May-2010
+    Contact us | Feedback | Disclaimer

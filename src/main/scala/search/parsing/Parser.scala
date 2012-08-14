@@ -1,7 +1,6 @@
 package search.parsing
 
 import scala.io.Source
-import scalaz.Scalaz._
 import java.io.File
 import java.util.Locale
 

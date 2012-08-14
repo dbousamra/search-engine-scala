@@ -1,0 +1,342 @@
+QUT | MOPP | G/6.1 Policy on management of contracts and MOUs
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      G/6.1 Policy on management of contracts and MOUs
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerDirector, Corporate Finance, Finance and Resource Planning / Executive Officer, Registrar's Office 
+Approval Date19/06/2008 
+Approval AuthorityVice-Chancellor 
+Date of Next Review01/06/2011 
+6.1.1 Policy scope and objectives 
+6.1.2 Definitions 
+6.1.3 Risk management 
+6.1.4 Delegation of authority to enter into agreements 
+6.1.5 Role and responsibilities of the contract or MOU manager 
+6.1.6 Records management, storage and retention 
+6.1.7 Performance monitoring and periodic review 
+Related Documents 
+Modification History 
+6.1.1 Policy scope and objectives 
+This policy addresses the administration of contracts and other types of agreements
+  such as memoranda of understanding (MOUs). QUT is committed to ensuring that contracts and agreements
+  are entered into by appropriately delegated officers following due consideration of risks, benefits,
+  other relevant requirements and accountabilities, and alignment with QUT's strategic ambitions and
+  top-level plans (where applicable). This policy deals with both legally binding contracts and deeds,
+  and with memoranda of understanding which are formal or strategic agreements but do not bind QUT in
+a strict legal sense.
+Contracts and MOUs entered into on behalf of QUT must be administered in a way which:
+minimises the risks associated with the contract or MOU;
+maximises the benefits for QUT;
+incorporates probity, accountability, efficiency and effectiveness into their management;
+is consistent with legislation, QUT policies and procedures and QUT's compliance obligations;
+in the case of contracts, is consistent with the State Procurement Policy 2008 requirements and
+    objectives, such as the advancement of government priorities and achieving value for money (for further
+    details see the State Procurement Policy's Better Purchasing Guides);
+in the case of MOUs, is consistent with QUT's strategic ambitions and top-level plans;
+ensures best practice management of the contract or MOU; and
+complies with corporate governance structures.
+The employment of staff is addressed separately under the University's Enterprise Bargaining Agreements
+  and associated Human Resources policies.
+Top 
+6.1.2 Definitions 
+Different delegations and accountabilities will apply depending on whether an
+  agreement executed on behalf of QUT is a contract or a memorandum of understanding. There are two types
+  of legally binding agreements, contracts and deeds. In contrast, memoranda of understanding are not
+legally binding.
+The following definitions will assist in distinguishing a contract (or deed) from a memorandum of
+  understanding. In this policy, the general term “ 
+agreement
+” is used where the requirements
+  relate to both contracts and MOUs.
+A 
+contract
+is an agreement between parties intended to have legal significance and
+  involving the transfer of consideration (that is, value – financial or some other type of benefit -
+  flowing from the beneficiary of the transaction). Contracts generally articulate business relationships
+  for the acquisition or supply of goods or services, for the exploitation or transfer of intellectual
+  property rights (eg licences) or for the provision of funding.
+Some contracts require reference to other University policies and procedures including:
+contracting capital works and related projects;
+provision of commercial research or consultancies;
+appointment of consultants;
+intellectual property agreements.
+A 
+deed
+is also a form of legally binding or contractual document, but requires a
+  greater degree of formality for its creation. The QUT seal must be affixed to a deed and the deed must
+  always be signed by the Vice-Chancellor (or Chancellor) and Registrar (for further details see MOPP 
+A/1.4
+  Execution of an agreement as a deed ensures that the specified terms and conditions are legally enforceable,
+  even in the absence of consideration or where a unilateral promise or commitment is made.
+A 
+memorandum of understanding (MOU)
+is a document intended to formalise the terms
+  of a relationship, arrangement or understanding between QUT and another party, but is not intended
+  to be legally binding on either party. An MOU possesses moral force only, and is generally a formal,
+  mutually agreed but diplomatic document, setting out principles, strategies and mechanisms for dealing
+  with the common issues of the relationship. It may lead to the development of separate contracts with
+legal intent.
+Top 
+6.1.3 Risk management 
+QUT is committed to managing the risks associated with contracts and other types
+  of agreements in a systematic way (see MOPP 
+A/2.5
+and
+  QUT's 
+Risk Management Framework
+  Consequently, an analysis of risks and benefits must be undertaken prior to entering into the agreement,
+  and it is the responsibility of the delegate authorised to sign the agreement to ensure that risk management
+  issues have been addressed. Continuous evaluation of risk during performance or over the life of the
+  agreement should also be undertaken and this is the responsibility of the designated contract or MOU
+manager (for further detail on the role of the contract or MOU manager, see section G/6.1.5 below).
+Guidelines, including a checklist of issues which should be addressed to reduce risk, information
+  to be included in the documents to be executed and the sources of relevant advice, have been developed
+  and are published on the 
+Registrar's website
+(a) Addressing risk prior to entering into the contract or MOU
+QUT should enter an agreement only after the following issues have been addressed:
+the adequacy of QUT's insurance provisions including coverage for indemnities (consult
+    the Division of Finance and Resource Planning for advice on insurance policies or see MOPP 
+A/7.1
+in the case of contracts, the inclusion of performance management strategies within
+    the terms of the contract (eg using performance targets or milestones as triggers for payments, including
+      the use of an agreed supplier service level agreement (SLA) or key performance indicators (KPIs)
+    in contracts);
+in the case of contracts, an expiry or termination date is specified;
+in the case of MOUs, a timeframe is specified after which review of the arrangement
+    should be undertaken;
+operational, workload, space or human resources impacts of the contract or MOU for
+    relevant areas of the University;
+any reputational risks if the contract or MOU fails for any reason, or any impacts
+    on other potential business suppliers or educational partners by virtue of the contract or MOU;
+the need for due diligence checks in relation to the other party/ies to the agreement;
+the documents to be signed are in an appropriate form, comply with any legal formalities
+      and contain standard terms and conditions (see below).
+(b) Standard terms and conditions
+Risk is mitigated when the legal effect of the contract or MOU is clear from its terms. For instance,
+  if an arrangement is intended to be or is legally binding, it must never be referred to as an MOU.
+  If the document is diplomatic or strategic only, it must always be referred to as a MOU and must include
+  a clause or specific statement to the effect that it is not intended to create legally binding obligations.
+Risk is also reduced significantly when a contract contains standard terms and conditions to ensure
+  all relevant matters are addressed and to aid interpretation. The following resources should be used
+  wherever possible:
+  QUT standard procurement and       consultancy terms and conditions - refer to Strategic Procurement Section,       Corporate Finance Department
+Capital works and building maintenance
+IT contracts: Government Information Technology Conditions for Information (GITC) and Communication Technology requirements
+Research and revenue consultants and contractors, Office of Commercial Services (OCS)
+Office of Research
+In low or medium risk contracts, non-standard contractual terms and conditions should be compared
+  against the standard suite of contracts available from these sources and QUT standard terms added where
+  necessary. For high risk contracts, legal advice must be obtained.
+(c) Obtaining advice on terms, conditions or the effect of a contract
+Legal advice must be sought from either the Office of Commercial Services or via the Registrar's Office
+  where:
+significant legal issues are involved (for instance, where a guarantee is given or
+    if there is an exclusion or limitation of liability by the other party in respect of breaches of
+    the agreement or for negligence);
+the contract is complex or high risk (for instance, relating to intellectual property,
+      research commercialisation or consultancy, contracts with an international component, or expert
+    witness services) and the other party has proposed non-standard or non-QUT mandated terms and conditions
+    (listed above);
+it is not clear whether the proposed agreement is legally binding or requires formalities
+      for execution (such as execution under seal); or
+in the case of high risk or complex contracts, the contract terms and conditions have
+      been developed or provided by the other party.
+A contract containing a clause in which QUT indemnifies third parties can only be executed if the
+  conditions specified in MOPP 
+A/7.1
+are
+  met. Advice concerning indemnities can be obtained through the Division of Finance and Resource Planning.
+Advice on all procurement or research and other commercial contracting should be directed to Strategic
+  Procurement, Department of Financial Services, and Office of Commercial Services, Division of Research
+  and Commercialisation, respectively.
+(d) Management of risk over the life of the contract or agreement
+A key aspect of managing risk during the performance of the contract or agreement is the appointment
+  of a designated contract or MOU manager. The responsibilities of the contract or MOU manager are listed
+  in section G/6.1.5 below. Additionally, the use of appropriate records management strategies for retention
+  of the contract or agreement documentation (records of negotiations, the signed document and later
+  interactions with the other party/ies to the agreement) is also essential to controlling risk (see
+  section G/6.1.6 below).
+Top 
+6.1.4 Delegation of authority to enter into agreements 
+QUT Council has delegated authority to enter/sign all contracts or agreements
+  on behalf of the University to the Vice-Chancellor. Except in the case of University-level strategic
+  agreements, contracts where the financial worth cannot be valued or is in excess of $1,000,000, the
+  Vice-Chancellor has further delegated this authority to nominated senior officers of the University.
+Different delegations apply depending on:
+the value of the contract (in the case of commercial arrangements);
+whether the document requires execution under seal; or
+the nature and scope of the MOU.
+A legally binding contract may be signed by a delegate provided that the contract value is consistent
+  with the financial value or expenditure limit specified in the delegation. MOUs may only be signed
+  by the Vice-Chancellor, the Deputy Vice-Chancellor (International and Development), the Deputy Vice-Chancellor
+  (Research and Commercialisation), the Registrar or the executive dean of a faculty, depending on the nature of
+  the MOU. A document under seal must always be executed by the Vice-Chancellor (or Chancellor) and Registrar.
+For full details, consult the Schedule of Authorities and Delegations, 
+MOPP
+      Appendix 3. Specific requirements for execution under seal are explained in
+      MOPP 
+A/1.4
+Top 
+6.1.5 Role and responsibilities of the contract or MOU manager 
+The delegate authorising the contract or MOU is responsible for the appointment
+  of a contract or MOU manager. The contract or MOU manager will not normally be the authorised delegate,
+  but another University officer having operational or administrative responsibility for matters within
+the scope of the document.
+The contract or MOU manager is responsible for:
+managing the negotiation process for the contract or MOU;
+ensuring that, in the case of a contract for the supply of goods or services, the contracted goods
+    and / or services are delivered in accordance with the terms of the contract;
+in the case of other agreements, ensuring that relevant steps are taken operationally to ensure
+    compliance by QUT and the other party with the terms of the agreement;
+records management and retention (see G/6.1.6 below);
+performance monitoring and review of the contract or MOU, in accordance with Service Level Agreements
+    (SLA) and / or Key Performance Indicators (KPIs), negotiated at the time of the agreement is entered
+    into;
+performance reporting.
+Top 
+6.1.6 Records management, storage and retention 
+Developing and retaining appropriate records of the negotiation, execution (of documentation outlining
+  the terms and conditions) and ongoing monitoring of QUT's contracts and MOUs is vital to ensuring that
+  the University is aware of its obligations, can protect its interests including in possible litigation,
+  maintain corporate memory and for audit and compliance purposes. Consequently, the contract or MOU
+  manager is responsible for ensuring that these types of records are kept.
+(a) Records registration
+The following QUT secured records management systems should be used where possible:
+corporate records management system offered by Records Management Services (Governance Services);
+Contractors and Consultants Database (Facilities Management Department) for capital works, real
+    estate and related facility services;
+Commercial Projects Database (Office of Commercial Services) for research, associated consultancies
+    and commercial services worldwide;
+Standing Offer (SOA) and       Preferred Supplier (PSA) Arrangements registered by Corporate Finance; 
+general consultancies are       recorded in the University finance system and managed by Corporate Finance.
+Where the above registers are not utilised, faculties and divisions must maintain a register of their
+  contracts and MOUs to meet business needs, legal requirements and other compliance required by QUT
+  policies and procedures.
+The following details of the contract or MOU must be registered:
+specific reference number;
+names of the parties involved;
+contract/MOU manager name, position and contact details (both email and phone);
+description of the goods and / or services provided for QUT business (where applicable), or in
+    the case of MOUs, a description of the objectives of the agreement and the actions to be undertaken
+    by QUT;
+known or estimated dollar value (where applicable);
+period of the contract or MOU, including review and extension options (as appropriate);
+date of commencement (contracts);
+specified outcomes / benefits to be achieved for QUT (optional);
+letters of termination or extension.
+To support these details, the following documentation must be managed within a recordkeeping system:
+the original submissions / procurement plan / project business case or documents relating to the
+    development phase of the MOU;
+successful tender/s and basis of evaluation;
+the signed contract or MOU including terms, conditions, intellectual property rights, letters of
+    intent or acceptance;
+the agreed SLAs and/or KPIs;
+the agreed variations or amendments;
+performance review outcomes and minutes of vendor meetings;
+lodged complaints;
+related correspondence.
+(b) Records storage
+The minimum level of original documentation to be stored is based on the risk / value of the contract,
+  per the table below:
+Risk / $ Value 
+Recommended level of records management documentation
+Level 4 - Extreme or high risk and high value
+Retention in a secured fireproof records management area (Governance Services
+        and Facilities Management Department)
+Level 3 - High risk and low value 
+Retention in a secured records management area
+Level 2 - Medium or low risk and high value
+Retention in an open records management area
+Level 1 - Medium or low risk and low value
+Retention on site
+The above risks, levels and values are defined in QUT's Risk Management Framework 
+A/2.5
+) and QUT's
+  Purchasing Policy (
+G/5.3
+The mandatory periods for retention of agreements are defined in the  Queensland State Archives General Retention and Disposal Schedule for  Administrative Records and the  University  Sector Retention and Disposal Schedule  (refer to http://www.governance.qut.edu.au/rms/retention_disposal/
+for
+  further details).
+Top 
+6.1.7 Performance monitoring and periodic review 
+The contract or MOU manager must ensure that the contract or MOU is monitored and reviewed periodically
+  over its life.
+For contracts, a review should not only consider the performance of suppliers against the agreed supplier
+  SLA or KPIs, but also the performance of the contract against the benefits planned for QUT. The contract
+  must be reviewed prior to finalisation or any extension. A contract checklist has been developed to
+  assist contract managers in analysing and monitoring progress of the contract. A copy of the checklist  can be obtained from the
+   Finance and Resource Planning website.
+Payments should be linked to performance as defined in the contract terms and conditions.
+In the case of MOUs, the MOU manager must ensure that the MOU continues to fulfil its objectives,
+  and that all parties to the MOU continue their commitment to the relationship. An MOU should always
+  include a time period after which a review of the agreement will be undertaken. The review should examine
+  benefits to QUT and alignment with QUT strategic ambitions and top-level plans.
+Top 
+Related Documents 
+MOPP A1/4 QUT seal
+MOPP A/2.5 Risk management
+MOPP A/7.1 Indemnity and insurance
+MOPP D/7.1 Outside work - academic staff
+MOPP F/8.1 Records management policy
+MOPP I/3.1 International institutional agreements
+MOPP Appendix 3 - Schedule of Authorities and Delegations
+  QUT Financial Management Practice and Procedures Manual - Chapter 1E
+Guidelines For Signing Contractual Documents And Memoranda Of Understanding ( Registrar's website
+QUT Insurance arrangements
+Standing Offer (SOA) and Preferred Supplier (PSA) Arrangements Register
+QUT General Records Disposal Schedule
+Queensland Purchasing 
+Better Purchasing
+      Guides
+Developing and Managing Arrangements with Suppliers
+Engaging and Managing Consultants
+Managing and Monitoring Supplier's Performance
+Australian National Audit Office Better Practice Guides - 
+http://www.anao.gov.au/
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  19.06.08
+  All
+  Acting Executive Director, Finance and Resource Planning
+  Policy reviewed &ndash; no change required
+22.04.05
+All
+Vice-Chancellor
+Policy revised to integrate requirements for managing MOUs
+14.12.04
+All
+Executive Director, Finance and Resource Planning
+Revised policy
+13.07.04
+All
+Executive Director, Finance and Resource Planning
+New policy
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 29-Nov-2010
+    Contact us | Feedback | Disclaimer

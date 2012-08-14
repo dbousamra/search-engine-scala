@@ -1,0 +1,184 @@
+QUT | MOPP | F/1.11 Acceptable use of information technology resources
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/1.11 Acceptable use of information technology resources
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerDeputy Vice-Chancellor (Technology, Information and Learning Support) 
+Approval Date17/12/2010 
+Approval AuthorityCouncil 
+Date of Next Review01/12/2013 
+1.11.1  Policy principles 
+1.11.2 Application 
+1.11.3 Definitions 
+1.11.4 Roles and responsibilities
+1.11.5 Acceptable use of IT resources
+1.11.6 Unacceptable use of IT resources
+1.11.7 Inadvertent unacceptable use
+1.11.8 QUT access account
+1.11.9 Incidental personal use
+1.11.10 Use of IT resources for approved activities
+1.11.11 Monitoring and detection
+1.11.12 Failure to comply
+Related Documents 
+Modification History 
+1.11.1 Policy principles 
+QUT  provides information technology (IT) resources to support its functions and  activities and is committed to ensuring that these resources are used in a  transparent and accountable manner. All members of the University community  have a responsibility to use its IT resources consistent with this commitment. Unacceptable  use of the University's IT resources may
+  be  detrimental to other students, staff and workplace culture
+  undermine  the University's reputation
+  be  unlawful or illegal
+  expose  the University to vicarious liability for a person's actions 
+  have  a negative effect on productivity
+  be  detrimental or pose a security threat to the University's systems.
+This policy sets out the University's behavioural  expectations for the use of its IT resources. Use of IT resources is monitored and any  unacceptable use will be investigated.
+Top 
+1.11.2 Application 
+This policy applies to any member of the University  community utilising QUT's IT resources, services and/or facilities including
+  Students
+  Staff,  whether full-time, part-time, ongoing, fixed-term, casual or sessional 
+  Individuals  associated with QUT including
+      individuals  who have been granted access to QUT  property, services or infrastructure (for example, temporary staff engaged by  QUT through an employment agency)
+      consultants  and independent contractors undertaking services for QUT
+      members  of QUT Council or other University committees whether they hold office by  election, nomination or appointment
+      visiting  and adjunct academics, or other academic or research collaborators 
+      volunteers  who contribute to or act on behalf of the University.
+Top
+1.11.3 Definitions 
+Information technology  (IT) resources means any IT resource or facility provided by the University to assist or  support learning and teaching, research, administrative and business  activities, and includes
+  University  computers and computer networks, including wireless networks 
+  IT  communication equipment, software and data
+  electronic  mail and internet services
+  telecommunications  equipment including mobile devices and services
+  any  work area or physical space designated for teaching, study or research,  including computer laboratories, technology-equipped classrooms and library  study rooms.
+Unacceptable material includes material in  any format that is one or more of the following
+  unlawful,  including breaches of federal or state legislation
+  copyright  material which is not available under an applicable licence or permission
+  sexually  explicit or pornographic 
+  violent, as judged against accepted community standards for material on public display in a workplace or learning environment
+  defamatory,  harassing or abusive, including personal observations using unacceptable or  offensive language 
+  spreading  or inciting hatred
+  offensive,  as judged against accepted community standards for material on public display  in a workplace or learning environment.
+User means any member  of the University community utilising QUT's IT resources, services and/or  facilities.
+Top 
+1.11.4 Roles and responsibilities 
+Users of IT resources 
+All  users of the University's IT resources have a responsibility to only use those  resources in accordance with the requirements of this policy.
+Deputy Vice-Chancellor (Technology, Information and Learning Support) 
+  The Deputy Vice-Chancellor (Technology, Information  and Learning Support) is responsible for 
+  promoting  all QUT users' awareness of this policy
+  monitoring  the quality of information on computer networks 
+  monitoring  unacceptable use of IT resources by staff and students 
+  taking  disciplinary action relating to breaches of this policy (see 1.11.12).
+Registrar
+  The Registrar has overall responsibility for disciplining  students found to have used the University's IT resources in an unacceptable  manner.
+The reporting of use of IT resources involving  illegal actions or material to the appropriate law enforcement agency or other  statutory authority is the responsibility of the Registrar. In cases requiring  urgent action with law enforcement agencies, initial contact with them may be  made by IT Security staff and/or the QUT Security Manager, with notification as  soon as practicable to the Registrar.
+Human Resources Director
+The Human Resources Director  is responsible for providing advice to the Vice-Chancellor on staffing matters and ensuring appropriate  disciplinary processes are undertaken for staff found to have used the  University's IT resources in an unacceptable manner.
+Top 
+1.11.5 Acceptable use of IT resources 
+QUT  provides IT resources to support its teaching and learning, research,  administrative and business activities, and expects that these resources will  only be utilised for the appropriate and legitimate performance  of these activities. Acceptable use of the University's IT resources will
+  be  consistent with Commonwealth or State laws
+  be  consistent with the University's behavioural expectations as defined in the QUT Code of Conduct for staff and QUT Student Code of Conduct and compliant with Schedule  1, Part 3, section 12 of the Queensland  University of Technology Act 1998 (QUT Act)
+  be  within any quota or cost limit imposed by the University
+  be  in accordance with any lawful direction of a University officer or an  authorised officer under the QUT Act
+  maintain the security of the University's IT resources  and facilities.
+Top 
+1.11.6 Unacceptable use of IT resources
+Any  of the following activities constitute unacceptable use of the University's IT  resources
+  breaching  any Queensland State or Commonwealth law 
+  breaching  the University's behavioural expectations, including not complying with the QUT Code of Conduct for staff and the QUT Student Code of Conduct
+  disobeying  a lawful direction given by a University officer or an authorised officer under  the QUT Act
+  receiving,  accessing, storing, displaying and/or transmitting unacceptable material via  any media, including personal storage devices connected to a QUT network 
+  overloading  or monopolising IT resources in a manner which adversely affects other users
+  breaching  the University's expectations regarding personal responsibility for a user's  QUT access account (1.11.8 below)
+  acting  in a manner that compromises the security, confidentiality, integrity and  availability of IT resources 
+  excessive  personal use (for guidance on incidental personal use, refer 1.11.9 below). 
+Any  user making unacceptable use of QUT's IT resources will be subject to  disciplinary proceedings in accordance with section 1.11.12.
+Top 
+1.11.7 Inadvertent unacceptable use
+Users  who inadvertently receive or access unacceptable material must take immediate action  to either delete such material or cease such access. Advice should be sought from the user's supervisor or from the IT Helpdesk if unacceptable material  continues to be received. 
+Top  
+1.11.8 QUT access account
+A  user is responsible for any activity, transaction or publication of information  which originates from their QUT access account. A user must accept  responsibility for the use of their QUT access account prior to being granted  access, or if requested to do so by the University. A user must not do any act  which prejudices the security of their QUT access account including disclosing  their password to any other person or allowing any other person to use their  account.
+Top 
+1.11.9 Incidental personal use
+QUT  recognises that IT resources may be used for incidental personal use.  Incidental personal use must be infrequent and minor, and must not breach this  policy or interfere with University business operations or, in the case of  staff users, with the performance of that staff member's duties. Incidental  personal use of the University's IT resources does not include any of the  following
+  maintaining  or supporting a personal private business
+  recruitment  of members to, or soliciting donations for, political parties or religious  groups
+  the  transmission, viewing or publication of unacceptable material
+  publication  of internet sites or pages unrelated to University activities
+  personal  observations using inappropriate or offensive language
+  a  malicious or unlawful purpose.
+Top 
+1.11.10 Use of IT resources for approved activities
+QUT acknowledges that staff and students may use  IT resources to access unacceptable material as a result of approved activities  arising out of their employment or studies. Students and staff must ensure  approval for such activities is, in the first instance, given by their executive  dean of faculty or head of division and subsequently registered with the Deputy  Vice Chancellor (Technology, Information and Learning Support), prior to access  or use occurring. 
+Top 
+1.11.11 Monitoring and detection
+QUT  routinely logs network activity and scans QUT connected storage devices and may  use this information to investigate faults, security breaches, unlawful or  illegal activity and unacceptable use in accordance with this policy and other  information resources policies (F/1.2.7 ). 
+Allegations  that unacceptable use of the University's IT resources has occurred may be  reported to a staff member's supervisor, a supervisor of an IT facility, Deputy  Vice-Chancellor (Technology, Information and Learning Support) or the Manager,  IT Security.
+Top 
+1.11.12 Failure to comply 
+QUT  will take disciplinary action against users who fail to comply with this  policy.  
+Some breaches of this policy may also have  consequences for users under criminal or civil provisions of the general law  (for example, if the breach contravenes the Criminal Code (Qld), the Crimes  Act 1914 (Cth) or other laws). In certain situations, the University may be  legally required to disclose information about unacceptable use of IT resources  to law enforcement agencies or other statutory authorities. 
+Breaches by staff
+  A breach of this policy by a staff member will be  dealt with under the University's processes for the management of misconduct  (B/8.4, B/8.5), serious misconduct (B/8.4, B/8.5) or unsatisfactory performance  (B/9.4, B/9.5), depending on the nature of the alleged breach.
+Breaches involving unacceptable material relating  to pornography will always be treated as serious misconduct. 
+Breaches by students
+A  breach of this policy by a student will be dealt with under the Management of  student discipline policy (E/8.1) 
+Breaches by other  users
+Other members of the University community (honorary  appointments, contractors and visitors) who do not comply with this policy may  have their association with QUT terminated, or may have their rights of access  to QUT's IT resources, services, facilities or infrastructure revoked by the Deputy  Vice-Chancellor (Technology, Information and Learning Support).
+Top 
+Related Documents 
+MOPP  B/8.1 Code of Conduct
+MOPP  B/8.5 Disciplinary action for misconduct and serious misconduct - senior staff
+MOPP  D/3.1 Intellectual property policy
+MOPP  E/2.1 Student Code of Conduct
+MOPP  E/8.1 Management of student discipline
+MOPP  F/1.1 Provision and use of information resources and services
+MOPP  F/1.2 Information security policy
+MOPP  F/1.5 Email policy
+MOPP  F/1.9 Telecommunications policy
+QUT  Enterprise Bargaining Agreement (Academic Staff) 
+QUT  Enterprise Bargaining Agreement (Professional Staff) 
+QUT Employee Collective Agreement (Senior Staff)
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  08.12.10
+  F/1.11.3, F/1.11.4
+  Council
+  Policy revised in order to clarify definitions
+  29.11.10
+  F/1.11.3
+  Governance Services
+  Revised policy- minor editorial changes only
+  25.08.10
+  All
+  Council
+  New policy
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 16-Dec-2010
+    Contact us | Feedback | Disclaimer

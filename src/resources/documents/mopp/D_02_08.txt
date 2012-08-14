@@ -1,0 +1,118 @@
+QUT | MOPP | D/2.8 Management of research data
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      D/2.8 Management of research data
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerAssociate Director, Library Services (Information Resources and Research Support Services) 
+Approval Date26/03/2010 
+Approval AuthorityUniversity Academic Board 
+Date of Next Review01/04/2013 
+2.8.1 Policy principles
+2.8.2 Application 
+2.8.3 Definitions 
+2.8.4 Roles and responsibilities 
+2.8.5 Management of research data and primary materials 
+Related Documents 
+Modification History
+2.8.1 Policy principles 
+QUT recognises research data as a valuable product of research activity  which can assist in promoting open enquiry and debate, complementing research  outputs and publications, providing research transparency, and justifying  research outcomes.
+Top 
+2.8.2 Application 
+This policy  applies to the management of research data created by all QUT researchers,  including academic staff, professional staff and postgraduate students engaged  in research activities associated or affiliated with QUT. 
+Top 
+2.8.3 Definitions 
+Research data means data in the form of facts,  observations, images, computer program results, recordings, measurements or  experiences on which an argument, theory, test or hypothesis, or another  research output is based. Data may be numerical, descriptive, visual or tactile. It may be raw, cleaned or processed, and may be held in any format or  media.
+Research data referred to in  this policy relates to data generated in research projects and is to be  distinguished from the information about research performance and statistical  research data which is used by QUT for planning and budget purposes and  reported by the University to government agencies (including the Higher  Education Research Data Collection (HERDC) and Excellence in Research for  Australia (ERA)).
+Data management means all the processes and actions required to manage data using good practice throughout the research life-cycle  for current and future research purposes and users. 
+Metadata means information or facts about research data for the purpose of attribution, description, management and discovery.
+Primary materials means physical objects collected and/or used during research from which research data may be obtained. It  includes materials such as biological samples, mineral samples, survey  questionnaires, measurements, recordings and computer results. 
+Top 
+2.8.4 Roles and responsibilities 
+Director, Office of Research
+  The Director, Office of Research is responsible for  overseeing the management of research data across the University.
+  Heads of school / institute directors / centre  directors
+  Heads of school, institute directors and centre  directors are responsible for:
+    providing guidelines and procedures on the retention of research data relevant to their research discipline(s) and specialisations, and 
+    providing facilities for the safe and secure storage of research data and records, as appropriate.
+  Director, QUT Library / Director, Information  Technology Services (Division of Technology, Information and Learning Support)
+  The Director, QUT Library and Director,  Information Technology Services are responsible for: 
+    development and maintenance of centrally supported institutional repository(ies) for the provision of open and/or controlled access to secure storage of research data and records, and
+    maintaining procedures, and providing training and support relating to research data management. 
+  QUT researchers
+  All QUT researchers are responsible for  maintaining records of research data and primary materials, and ensuring that these  records and the research data and materials are securely stored. Researchers  must make the data available to other researchers via open or negotiated access,  as appropriate and in accordance with the requirements of research funding  bodies such as the Australian Research Council (ARC) and the National Health  and Medical Research Council (NHMRC), for as long as there is interest in the  data. 
+Top 
+2.8.5 Management of research data and primary materials   
+  Individual researchers,  heads of schools, institute directors and centre directors are required to  manage their research data and primary materials throughout the research cycle  by addressing issues of retention, storage and recordkeeping, ownership,  security and confidentiality.
+  (a) Research data management planning 
+  Good  practice in research data management is the result of good planning made at the  onset of a research project and then continued throughout the research  lifecycle. 
+  Researchers  are required to develop a Research Data Management Plan for each research  project to formalise decisions relating to retention, storage and disposal of  research data. The following resources are available to assist in planning and  implementing good research data management practice:
+    Guidelines for the Management of Research Data at QUT, and 
+    Data Management Checklist.
+  (b) Intellectual  property 
+Intellectual  property will be managed in accordance with QUT&rsquo;s intellectual property policy  (D/3.1).
+  (c) Recordkeeping
+  Appropriate  records must accompany all data throughout the research cycle, continuing into  the inactive storage stage.
+  Metadata  applied to research data should comply with accepted standards and schemas and  should provide sufficient information to facilitate attribution,  identification, confidentiality, retrieval, and terms of use and re-use.  Metadata should be applied to the dataset as a whole, and to each data element  if the dataset is broken up or mixed with other data. Metadata  should generally be made available to other researchers via open access (such  as using the Research Data Australia service provided by the Australian  National Data Service (ANDS)). 
+  (d) Storage 
+  Research  data must be stored in suitable storage facilities either in the school, centre  or institute, or centrally provided by the Division of Technology, Information  and Learning Support, during the active research phase. The research data may  be transferred to central storage facilities during the long-term storage  period. Research data should be kept in durable formats to aid preservation and  access, and it may be necessary to convert data into newer or more accessible  formats over time. 
+  Where  QUT researchers collaborate with researchers from other institutions, it is  expected that the QUT school, centre or institute repository would normally  house a copy of the portions of research data created by QUT, or using QUT  resources.
+  Researchers are advised to  utilise the Statement of Authorship and Location of Data form which indicates the  storage location of data and sets out authorship provisions for this data. 
+  (e) Retention and disposal 
+  All  research data, including primary materials, are considered University records  and must be stored, disposed of or transferred in accordance with:
+    QUT&rsquo;s records management policy (F/6.1), 
+    the University Sector Retention and Disposal Schedule, and
+    the Australian Code for the Responsible Conduct of Research. 
+  The  minimum recommended period for retention of research data and primary materials  is five years from the date of publication, however this period may vary  according to the nature of the research. Researchers should consult the Guidelines for the  Management of Research Data at QUT  for information  on retention for specific research disciplines. Decisions on retention and  disposal should be incorporated into the Research Data Management Plan for the  research project. 
+As  a general rule, disposal of research data should be planned and deliberate,  using secure disposal mechanisms (for example using a professional data erasing  service to remove data on hard disk drives) so that they cannot be re-used in  unauthorised ways. In the event of research being challenged or of an  allegation of research misconduct, all research data must be retained until the  matter is resolved. 
+  (f) Privacy and  confidentiality 
+  Access  to research data should be considered in the context of ethical, privacy (F/6.2), confidentiality, cultural, and  intellectual property (D/3.1) requirements. Confidential research  data must be managed in accordance with any contractual or funding agreements. 
+  (g) Access and re-use 
+  Appropriate  access to research data should be considered within the Research Data Management  Plan. Research data should normally be made available under open access licence  (such as a Creative Commons licence) or by negotiated or  controlled access through a system of permissions and authentication. 
+  Research  data from publicly funded research projects (such as by the ARC or the NHMRC)  must be placed into an institutional repository, usually within six months of  publication. 
+  When  using or re-using research data made available by other researchers, QUT  researchers should comply with copyright, moral rights and licence  requirements.
+  Research datasets should generally be made available via open  access or controlled access with research partners, collaborators or  requestors, for re-use by other researchers, unless a case based on specific  and valid reasons is made for not doing so. 
+Top
+	  Related Documents 
+MOPP  D/2.6 QUT Code  of Conduct for Research
+  MOPP  D/3.1 Intellectual property policy
+	  MOPP  F/5.1 Copyright policy
+	  MOPP  F/6.1 Records management policy
+	  MOPP  F/6.2 Privacy policy
+	  Australian  Code for the Responsible Conduct of Research
+	  General Retention and Disposal  Schedule for Queensland Universities
+	  Practical data management: a legal and  policy guide (OAKLaw) 
+Guidelines for the  Management of Research Data at QUT
+Data Management Checklist
+Top
+  Modification History
+      Date
+      Sections
+      Source
+      Details
+      26.03.10
+       All
+       University Academic Board
+      New policy
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 28-Oct-2010
+    Contact us | Feedback | Disclaimer

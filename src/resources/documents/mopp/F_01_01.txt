@@ -1,0 +1,185 @@
+QUT | MOPP | F/1.1 Provision and use of information resources and services
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/1.1 Provision and use of information resources and services
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerExecutive Officer - Division of Technology, Information and Learning Support 
+Approval Date02/09/2009 
+Approval AuthorityVice-Chancellor 
+Date of Next Review01/09/2012 
+1.1.1 Framework for allocation of information resources and services 
+1.1.2 Use of QUT information resources and services 
+1.1.3 Responsibilities relating to provision of information resources and services 
+1.1.4 Approved defined roles
+ 1.1.5 Acquisition of information  technology and software licensing agreements
+Related Documents 
+Modification History 
+1.1.1 Framework for allocation of information resources and services 
+The integration of information and communications technology into teaching,  research, business support functions and infrastructure is a key goal for the University.  This commitment includes the provision of access to a range of print and  electronic information resources and services provided through the University's  information technology infrastructure and the QUT Library.
+The University has a responsibility to ensure that information technology and resources are aligned
+    with its business and deliver value to the organisation through the appropriate allocation of resources,
+    adequate assessment of security and mitigation of risk. Performance on information management activities
+should be measurable.
+To appropriately allocate these resources, and address security and other risks, the University has
+    established a process by which access to corporate physical and virtual information resources and
+  infrastructure is granted.
+Details of information resources and services provided to staff and students  of the University by the Division of Technology, Information and Learning  Support are outlined in the  Service Catalogue.
+Top 
+1.1.2 Use of QUT information resources and services 
+With the rapid development of academic and research networks in Australia and internationally, staff
+  and students of the University have ever-increasing communications capability. This capability brings
+with it certain responsibilities outlined in the Acceptable use of information technology resources (F/1.11). In particular, this policy aims to promote ethical and responsible use of the University's  information technology resources and applies to all staff and students. 
+Information systems provided by the University,
+  whether within faculties or divisions, may only be used in support of QUT's teaching, research, administration
+and service activities.
+QUT's commitment to professionalism, ethical practices, equity and social accountability implies a
+    duty of care in relation to the use of information resources. Finite resources are applied to information
+  facilities, and their use for University purposes must not be diminished by use for other purposes.
+    QUT also values its reputation,  including that which is conveyed
+    on information networks. Therefore, QUT is committed to procedures which:
+monitor the quality of information on computer networks
+make QUT users aware of University policy on the use of information resources
+lead to action arising from such       monitoring through divisional or faculty channels as appropriate. Misuse by       students is dealt with under the appropriate University Statutes and Rules       (see Appendix       1(b) and Appendix       1(c) ). Misuse by staff is dealt       with through performance management and/or staff misconduct processes,       depending on the nature of the breach in question. 
+QUT  routinely logs network activity and may use this information to investigate  faults, security breaches and unlawful activity (see F/1.2.7 ).
+Top
+1.1.3 Responsibilities relating to provision of information resources and services 
+Deputy Vice-Chancellor (Technology, Information and Learning Support)
+The Deputy Vice-Chancellor (Technology, Information and Learning Support) is responsible for the provision
+  of information resources and services to the University community. The Division of Technology, Information
+  and Learning Support provides central support for the academic functions of QUT faculties in these areas, and technological
+  support for communication and administration within all areas of the University.
+Information Technology Governance Committee
+Information Technology Governance Committee
+is responsible to the Vice-Chancellor
+  for monitoring and reviewing University direction and strategic deployment of information technology
+  infrastructure. Full details of the Committee's terms of reference and membership are found in 
+F/1.7
+Data custodians
+Whilst QUT owns the data in the information systems used to support the University's business processes,
+  a nominated data custodian has primary responsibility for the management and control of data sourced
+  from their business area. Data custodians are senior managers responsible for:
+data quality - accuracy, integrity, cleanliness, correctness, completeness, consistency and
+    timeliness;
+data security - control of access to data sets to known individuals, and monitoring of the
+    data's subsequent exposure as it flows through the University systems and records;
+data standards - ensuring compliance with relevant laws, government and regulatory standards
+    and any policies and standards imposed internally;
+data management - definition of the authoritative source of data and of the data to be provided
+    from that source, and ensuring that duplication of data is kept to a minimum.
+Data custodians are expected to monitor and evaluate business processes to ensure that these are consistent
+  with best practice principles for data management, and are responsible for approval of the 'rules' which
+  are used to determine user access to information resources and services (though this approval can be
+  delegated to another officer in the business area).
+Top 
+1.1.4 Approved defined roles 
+QUT allocates access to information services and resources based on approved defined roles. These
+  roles determine the services and resources which a user may access. Any new categories of users
+  or roles are approved by the Deputy
+Vice-Chancellor (Technology, Information and Learning Support).
+A data custodian (or delegate), in determining approved defined roles and consequential access to
+  services or resources, must take into account business needs and risks, information security and privacy
+  requirements (refer to 
+F/1.2
+and 
+F/6.2
+for
+further details) and other relevant matters such as technical requirements and constraints.
+The following persons are entitled to use a range of information resources and services based on their
+approved defined role, provided that they abide by the 
+Acceptable use of information technology resourses policy (F/1.11)
+, this policy and authentication requirements:
+   enrolled students;
+  employees of QUT;
+  members of QUT Council;
+  community partners;
+  members of institutes;
+  approved other users.
+Rights to use the information resources and services of the University are non-transferable, unless
+  specifically authorised by the Deputy Vice-Chancellor (Technology, Information and Learning Support).
+The University permits members of the public to use physical resources such as the QUT Library, including
+  the on-line library catalogue. The University may also permit use of information technology systems
+  and facilities by members of the public subject to the provisions of the 
+Telecommunications Act 1997
+(Cwth) and relevant commercial and licensing agreements.
+The University may apply charges for use of information resources and services in accordance with
+  its user charging policy (see  
+G/8.1
+Top 
+1.1.5 Acquisition of information  technology and software licensing agreements 
+The provision of information resources and services  requires the acquisition of information technology hardware and software and  the development of significant infrastructure. Expenditure of funds on information technology acquisition should be  aligned with QUT's planning processes and priorities, including the Asset  Management Plan, and should be consistent with policies and procedures relating  to information technology and purchasing.
+In addition, acquisitions of information technology  and software licences must be considered in the broader context of QUT's  information technology deployment, to determine any significant implications  raised by the acquisition. The Deputy Vice-Chancellor (Technology, Information  and Learning Support) is responsible for the development of protocols to enable  the assessment of any broader implications of an acquisition to be undertaken  by relevant staff of the Division in conjunction with the area proposing the  acquisition. Where necessary, the Deputy Vice-Chancellor (Technology,  Information and Learning Support) may specify that the project to which the  acquisition relates must be added to the Information Technology Project Register,  to address risk and to ensure that the project to which the acquisition relates  is managed appropriately.
+Subject to compliance with the above, acquisitions  may be approved by relevant officers up to the officer's expenditure  limit.  For further details refer to Appendix 3 Schedule of Authorities and Delegations .
+Top 
+Related Documents 
+Telecommunications Act 1997 (Cwth) 
+MOPP F /1.2 Information  security policy
+MOPP F/1.8 Library resources
+MOPP F/6.2 Information privacy
+MOPP G/8.1 User charging policy
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  15.09.10
+  All
+  Governance Services
+  Policy revised to reflect repeal of Information Facilities Rules
+  02.09.09
+  F/1.1.2
+  Deputy Vice-Chancellor (Technology, Information  and Learning Support)
+  Periodic review - minor editorial changes only
+  19.03.08
+  F/1.1.2
+   Vice-Chancellor
+  Revised policy to include  reference to Schedule 1 of Information Facilities Rules as policy applying to all  staff and students, and to indicate that QUT routinely logs network activity (incorporates  former policy B/8.7 Acceptable Use of Information Facilities)
+   08.06.07
+  F/1.1.5
+   Vice-Chancellor
+  New policy relating to  acquisition of information technology and software licensing agreements,  consistent with amendment to Schedule of Authorities and Delegations (endorsed  by Vice-Chancellor&rsquo;s Advisory Committee 04.04.07)
+07.06.06
+All
+Vice-Chancellor
+Revised policy (removed references to library resources - now in new policy
+        F/1.8, amended references to resource provision roles and responsibilities) (endorsed by Information
+        Technology Advisory Committee 19.04.06)
+07.10.04
+F/1.1.3
+Secretariat
+Editorial (revised committee name - Information Technology Advisory Committee,
+        approved by Vice-Chancellor 07.10.04)
+08.07.04
+F/1.1.3
+Secretariat
+Editorial (deleted reference to Information Technology Strategic Governance Committee,
+        disbanded June 2004, and replaced with reference to new Information Technology and Library Resources
+        Committee)
+15.01.04
+All
+Vice-Chancellor
+New policy; replaces I/2.1 and I/2.4
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 04-Oct-2010
+    Contact us | Feedback | Disclaimer

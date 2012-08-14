@@ -1,0 +1,202 @@
+QUT | MOPP | F/1.2 Information security policy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/1.2 Information security policy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerTeam Leader, IT Security, ITS / Privacy Officer, Governance Services 
+Approval Date14/12/2006 
+Approval AuthorityVice-Chancellor 
+Date of Next Review01/12/2010 
+1.2.1 Policy statement 
+1.2.2 Application 
+1.2.3 Roles and responsibilities relating to information security 
+1.2.4 Responsibilities of individual users 
+1.2.5 Information security classification 
+1.2.6 Access 
+1.2.7 Information security audits, monitoring and enforcement 
+Related Documents 
+Modification History 
+1.2.1 Policy statement 
+QUT has adopted an information  security policy which addresses security issues related to the ownership,  integrity and accessibility of information, and in particular, risks associated  with the use of computers and networks for storing, transferring and processing  information. The University has a strong commitment to protecting its critical  information assets against unauthorised access and use, theft, modification,  destruction and unauthorised disclosure, and regards the protection of  information assets as the common responsibility of all staff, students and  third parties who conduct business with or have other involvement with QUT.
+This policy is derived from  obligations under the Queensland Government's Information Standard No 18 - Information Security, which applies to statutory authorities such as QUT.  This policy also reflects QUT's commitment to  comply as far as practicable with other standards designed to enhance protection  of information assets, such as Australian and industry standards.  This policy also supports QUT's obligations  to comply with security requirements for managing records (
+F/6.1
+) and for  protecting personal privacy (
+F/6.2
+Top 
+1.2.2 Application 
+This policy applies to all  operating units of QUT, and to all staff, students, and third parties such as Council  members, contractors, consultants or visitors who utilise QUT's information  resources or services.  The policy is  designed to protect all information assets of QUT, that is information related  to QUT business activities, whether processed by computers owned by or located  on the University's premises, or held in physical records sources.  The policy also applies to voice and data  communications equipment and software owned by QUT or personal equipment connected  to the QUT network and to data in transit in QUT communications media.
+As a result of the  application of this policy to all of QUT's information assets, physical  security measures (to secure buildings, office spaces, etc) must be taken into  account in implementing this policy (see 
+H/3.4
+). Logical access to systems is dealt with in  section F/1.2.6 below.
+Top 
+1.2.3 Roles and responsibilities relating to information security 
+Data or system custodians
+Unless stated otherwise by  separate agreement, ownership of information, data and software within QUT is  held solely by QUT and is not assigned or delegated in any way. All major information assets must be accounted for and have a nominated owner or  custodian who is accountable for the implementation and management of this  policy in relation to the asset. For further information on the role of data custodians, refer to 
+F/1.1. The Information Technology Services  Department maintains a list of custodians of information systems and resources (see 
+http://www.its.qut.edu.au/governance/policies.jsp 
+Information Technology Services Department
+The University makes  provision for the administration of information systems security through the  relevant organisational area within the Information Technology Services  Department. This group performs functions involving the establishment and  promulgation of standards; identification of security threats and  vulnerabilities; administrative support and advice, and provision of solutions;  and participation in security audits and evaluations, including relevant advice  to custodians of systems within QUT. Training and awareness strategies relating  to information technology security are also the responsibility of this  Department. 
+The Director, Information  Technology Services Department is responsible for the development and  publication of minimum security standards for QUT's business systems and  networks, operating procedures, and other security protocols. For further details, see 
+http://www.its.qut.edu.au/governance/policies.jsp 
+Governance Services
+The implementation of the  standards required to maintain privacy and to protect other sensitive QUT  records is the responsibility of the Governance Services Director in the Division of  Administrative Services.
+Heads of organisational units
+All organisational units  within QUT will hold some data or information requiring the implementation of  security standards.  The head of the  organisational unit is responsible for undertaking evaluations of risk in  regard to information security and for implementing appropriate security  measures for local information assets, including physical records, local IT  systems and infrastructure.
+Systems administrators
+Systems administrators are responsible for the integrity of the information systems in their custody and for implementing at  the operational level required security standards.  This includes the responsibility for  implementing data back-up and recovery/restoration strategies,(including business continuity planning and disaster recovery strategies), and for managing the integrity of such processes.
+Top 
+1.2.4 Responsibilities of individual users 
+QUT provides access to  information datasets and systems to individual users based on their roles as  staff, students or other QUT affiliates such as community partners (see 
+F/1.1).  All users must be aware of the security  requirements for the systems they use and must take reasonable precautions to  safeguard their access to these systems against inappropriate or unauthorised  access.
+General responsibilities  relating to the use of information services and systems at QUT are outlined in the  Acceptable use of information technology resources
+(F/1.11).  All users must agree to use  information services and resources in accordance with this policy, and will be  expected to comply with published security measures which ensure that information  networks and systems are not placed at risk of inappropriate or unauthorised  access (see 
+http://www.its.qut.edu.au/governance/policies.jsp).  A user must not bypass security mechanisms  and virus management systems.
+Any breaches of security  requirements by an individual user may result in disciplinary action (for staff  and students) or the suspension or termination of access rights and computer  accounts, and may be reported to law enforcement authorities for appropriate action.
+QUT staff users may be granted access to valuable or  sensitive information.  Staff have a  responsibility, both under this policy and other policies such as QUT's information privacy  policy (F/6.2)  and the records management policy (F/6.1), to  maintain the security of such information.  This responsibility applies not merely to information accessed whilst on  University premises, but also necessitates that appropriate care be taken when  using private computers or networks.  Where staff contemplate the transfer of QUT information to off campus  locations or networks (for example, by saving information on mobile devices, or  by downloading data from corporate systems onto home computers), staff have a  particular responsibility to ensure that reasonable steps are taken to protect the  information from unauthorised or inappropriate access and use.  Information which is classified as protected  or highly protected should not be moved out of an environment in which QUT's  routine security arrangements (both physical and technical) apply.
+Top 
+1.2.5 Information security classification 
+QUT has a two-tier information security  classification framework.
+Information systems and resources (including  physical corporate records resources) are classified according to their degree  of criticality to University business operations.  Systems and resources vital to maintaining business  continuity are given the highest classification within this framework. These  classification levels apply to all information systems, services, network  segments and physical areas and equipment in which these systems are housed or accessed.  Physical and environmental  security controls should be in place for areas where security classified information  is processed or handled, which may restrict entry to authorised users  only.  All staff, students or external  contractors are allocated a clearance level to determine what information  systems they are able to access.
+The second element of the security  classification framework is based on the nature of the information contained  within a given dataset.  The University  uses the following classification levels for information (from least to most  secured information):
+Public
+- information of a nature which does not warrant any restrictions on access by  staff, students or the community at large - commonly material on websites  (other than material that is specified as QUT access only), or other public  access resources, such as annual reports or other public reporting mechanisms.
+QUT only
+(staff, students and authorised third party users such as community  partners) - information which relates to QUT business and which is of relevance  in terms of application to or use by members of the QUT community only.
+QUT staff only
+- information generated or utilised to manage QUT functions or business  activities.
+Limited access
+- information generated or utilised to manage QUT functions or business  activities which requires restrictions based on institutional risks (eg personal  privacy, commercial value, etc) but where access is necessary by a range of  University officers to carry out business activities.  Examples may include information about students,  personnel, information on commercial dealings or activities, and audit  information.
+Protected
+- information generated or utilised to manage QUT functions or business  activities where greater restrictions are required to protect QUT rights and  interests including legal or commercial rights or QUT's intellectual property (for  example, information such as research data), the rights and interests of  individuals (for example, tax file numbers, health or other sensitive personal  information
+1
+),  or to limit QUT's liabilities.
+Highly protected
+- information generated or utilised to manage QUT functions or business  activities where wider dissemination would expose QUT or individuals to significant  risks or liabilities (for example, whistleblower information, confidential  out-of-court settlements, etc).  Very little information belongs in the highly protected category and it should be  used sparingly.
+These classifications are applied according  to the value, importance and sensitivity of information, taking into account  risk assessments, privacy, legal obligations, legislative requirements and  commercial value.  Where subsets of  information within a given dataset are classified at a different or higher  level of protection (for example, tax file numbers), appropriate security and  access measures must be in place to reflect these varying security  requirements.  These may entail greater  limits on view-only access, restrictions on the capacity to modify data, and  similar safeguards.
+All information resources must have a  security classification approved by the relevant data or system custodian.  Any changes to classifications must also be  approved by that officer. Any data received from an external source must also  be classified. In general it will inherit the classification of the information  system for which it is intended.  Use of alternative information classification schemes is permitted only where mapping to  this classification framework is undertaken.
+Copying, storage and  transmission of data should be handled such that clearance levels match the  classification of the data. For example, data classified as protected should be  stored in an area or on a server classified as protected.
+1
+A useful definition of sensitive  personal information is contained in section 6 of the Commonwealth 
+Privacy Act 1988
+Top 
+1.2.6 Access 
+Access to information  systems at QUT is provided to staff, students, and where appropriate external  persons for the purpose of carrying out work, study or other activities as  agreed with the University.  In general, access to data is regulated by guidelines and procedures defined for each  service and is granted on the 
+least privilege
+principle, in which  each user is granted the most restricted set of privileges needed for the  performance of relevant tasks.
+Staff access
+Access to add, delete or  modify data must be commensurate with job responsibilities and position  descriptions should adequately document data responsibilities and roles.  Additionally, for IT systems, duties of  system management, administration, audit and operational tasks should be  carried out separately by different staff (the 
+separation of roles
+principle).
+Staff with more extensive  privileges, whether in relation to information or systems, may be required to  sign a confidentiality agreement either at the time of appointment or when the  privileges are granted.
+Access to information  concerning technical solutions employed in the realisation of systems security  controls is only available to specifically authorised staff. Such authorisation  is to be granted according to guidelines established by the Deputy Vice-Chancellor  (Technology, Information and Learning Support) (refer to 
+http://www.its.qut.edu.au/governance/policies.jsp
+for further details).
+The general conditions of  access are set out in  QUT's Acceptable use of information technology resources policy (F/1.11)
+Except for information  classified as publicly available (for example, the home page of the University's  website) access to information systems at QUT must be controlled through user  authentication and authorisation mechanisms. Physical access to protected or  highly protected systems or equipment is controlled by designing appropriate isolation for sensitive computer and communications equipment and media.  Specifically designated secure areas should be provided.
+Third  party access
+Granting access to third parties must take full account of security risks involved and ensure that adequate controls to  protect QUT's information assets are imposed (adequacy of controls must take  into account the 
+least privilege
+and 
+separation of roles
+principles.  In relation to external contractors and  consultants, the University officer authorised in the Schedule of Authorities  and Delegations (MOPP 
+Appendix 3)  to make the appointment must ensure that provisions in the contract of appointment or other legally binding agreement (for instance, a deed of  confidentiality) are in place to mitigate information security and other  risks.
+Security risks must also be taken into account in 
+provisioning guidelines
+, for routine use of QUT systems and  resources by third parties such as community partners.
+Responsibility  for granting access rights
+In general, the data  custodian has responsibility for determining data security requirements and  user access levels for the dataset or system (see 
+F/1.1), though responsibility for determining user access levels may be delegated (see 
+Appendix 3). The decision on the granting of  access for individual users is made according to the normal delegated authority  processes of the University.  Decisions by a delegate authorised to grant access must be made in accordance with the  considerations set out in this section, in particular, the 
+least privilege
+principle and the 
+separation of roles
+principle.
+All users agree to abide by  QUT's Acceptable use of information technology resources policy (F/1.11)
+as a condition of access to QUT's systems. Access to  QUT's systems without authorisation will incur an appropriate response by the  University, including, where appropriate, penalties or misconduct actions, or prosecution under the law.  Access to  information assets at QUT is monitored.
+Review of access rights
+Whether undertaken through  system design, automated processes or manually, it is a responsibility of all  data custodians to implement a system whereby access rights are reviewed  regularly (at least annually).
+Revocation of access rights
+The data or system custodian  should ensure that appropriate mechanisms are in place for revocation or  downgrading of access rights due to termination of employment, change of  position or due to security breaches or other misconduct.  Exit procedures for both staff and students  should revoke access to physical resources and buildings by cancellation of  building access and/or return of keys (refer to 
+B/7.2
+H/3.4.2
+for further  information about these requirements).
+Top 
+1.2.7 Information security audits, monitoring and enforcement 
+The University monitors its  information assets and carries out detailed security audits of systems and data  as required.  As a result, QUT logs  network activity and may use it to investigate faults, security breaches and  unlawful activity.  Where diagnosis of  problems, investigations or security audits are required, the University  reserves the right to access individual files.
+In carrying out these tasks,  cooperation with security response teams established for the purpose of  protecting information security within regional and/or national and/or  international information networks which QUT uses will be required. Also  required will be cooperation and collaboration with law enforcement authorities  from time to time. Incident management and reporting protocols and procedures  should be in place.
+The security of information  systems and resources at the University is audited regularly and reported to  appropriate University committees, including Audit and Risk Management Committee.  The most important systems will be audited most frequently. The custodians of  systems are responsible for developing and monitoring an audit schedule for  their systems.
+Business continuity plans  for critical information systems must be developed and reviewed regularly. An  inventory of business continuity plans and a schedule for their review should  be tabled once a year at Information Technology Governance Committee.
+This policy supports and  complements State and Commonwealth law. It should be emphasised that illegal  access to and use of computer systems at QUT constitutes a crime under the  relevant legislation.
+Top 
+Related Documents 
+Information Standard No 18 - Information  Security
+http://www.its.qut.edu.au/governance/policies.jsp
+MOPP F/6.1 Records policy
+MOPP F/6.2 Information privacy
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  07.10.10
+  All
+  Governance Services
+  Policy revised to reflect change from privacy policy to information privacy 
+  15.09.10
+  All
+  Governance Services
+  Policy revised to reflect repeal of Information Facilities Rules
+14.12.06
+All
+Vice-Chancellor
+Revised  policy (incorporates former Appendix 53 Management of QUT information systems) (endorsed by Information Technology Advisory Committee 25.10.06)
+07.10.04
+F/1.2.6
+Secretariat
+Editorial (revised committee name - Information Technology Advisory Committee, approved by Vice-Chancellor 07.10.04)
+08.07.04
+F/1.2.6
+Secretariat
+Editorial (deleted reference to Information Technology Strategic Governance Committee, disbanded June 2004, and replaced with reference to new Information Technology and Library Resources Committee)
+06.06.03
+F/1.2.1, F/1.2.7
+Pro-Vice-Chancellor (Information and Academic Services)
+Revised to ensure compliance to Queensland Government Information Standard 
+      18 - Information Security
+09.11.01
+F/1.2.5
+Pro-Vice-Chancellor (Information and Academic Services)
+Revised Policy
+22.06.01
+F/1.2.6
+MOPP Officer
+Editorial changes
+11.01.00
+All
+Vice-Chancellor
+New policy (endorsed by Vice-Chancellor's Advisory Committee 22.09.98)
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 28-Oct-2010
+    Contact us | Feedback | Disclaimer

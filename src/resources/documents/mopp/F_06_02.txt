@@ -1,0 +1,174 @@
+QUT | MOPP | F/6.2 Information privacy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      F/6.2 Information privacy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerPrivacy Contact Officer, Governance Services 
+Approval Date07/10/2010 
+Approval AuthorityVice-Chancellor 
+Date of Next Review01/10/2013 
+6.2.1 Legislative  obligation 
+6.2.2 Policy  principles 
+6.2.3 Definitions 
+6.2.4 Roles  and responsibilities under the Information Privacy Act 
+6.2.5 Collection  and use of personal information 
+6.2.6 Access  and security for personal information records 
+6.2.7 Prohibition  on disclosure of personal information 
+6.2.8 Exceptions relating to disclosure of personal information 
+6.2.9 Register of graduates 
+6.2.10 Requests  for access to and amendment of personal information under Information Privacy  Act 
+6.2.11 Privacy  complaints 
+6.2.12 Contracts  involving personal information
+Related Documents 
+  Modification History 
+6.2.1 Legislative  obligation 
+As a public authority, QUT is obliged to comply with the requirements  of the Information Privacy  Act 2009 (Qld) which provides for
+  the fair collection and handling of personal  information by QUT
+  a right of access to, and amendment of,  personal information in QUT's possession or under the QUT's control unless, on  balance, it is contrary to the public interest to give the access or allow the  information to be amended.
+The Information Privacy Act specifies 11 information  privacy principles with which the University must comply. These govern how and  when personal information may be collected, handled, stored, accessed, amended,  managed, transferred, used and disclosed.
+Top 
+6.2.2 Policy  principles 
+QUT's functions necessitate  the collection, creation and use of personal information about students, staff  and other clients. QUT is strongly committed to protecting personal privacy and  recognises that staff and students, both past and present, and other clients  and individuals having links to QUT, have a reasonable expectation that the  University will protect and appropriately manage the personal information it  collects and holds about them. 
+Top 
+6.2.3 Definitions 
+The Information Privacy Act  applies to personal information which is defined as information or an  opinion, including information or an opinion forming part of a database,  whether true or not, and whether recorded in a material form or not, about an  individual whose identity is apparent, or can reasonably be ascertained, from  the information or opinion. 
+  Personal information includes  usernames, passwords and unique identifiers such as staff and student numbers.  It can be recorded in any format including hard copy documents, electronic  documents, databases, administrative systems, photographs and other images, and  staff/student identity cards. 
+  Where information is recorded  in a way which cannot be linked to a known individual and the personal  information has become de-identified, then the privacy principles do not apply.
+  Unique identifiers including student and staff numbers
+  Student and staff numbers are  unique identifiers and they are used as the basis for recording a large amount  of personal information. To protect the privacy of students and staff and to  secure personal information from unauthorised use or disclosure, student and  staff number information must not be published or made generally available in a  way which links the number to an individual's name, for example, by being  printed on mailing labels which are sent through the post. 
+  Similar principles apply to  other unique identifiers such as payroll numbers, tax file numbers, credit card  numbers and bank account details.
+Routine employment information of staff
+For the purposes of this policy, any information  which does not relate to the personal aspects of a staff member's employment at  the University is considered to be routine employment information and is not  considered to be personal information. This includes information such as a staff  member's position title, QUT email address, work phone number or any  information which is publicly available on the QUT website.
+Top 
+6.2.4 Roles  and responsibilities for information privacy  
+Vice-Chancellor
+For the purposes of the Information Privacy  Act, the Vice-Chancellor,  as the chief executive officer of the University, is the 'principal officer',  and as such, is the person responsible for QUT's obligations under the Act. 
+Registrar
+The Registrar, as QUT's chief  administrative officer, has general responsibility for privacy management  across the University.
+Privacy Officer
+The Privacy Officer also  administers the Information Privacy Act on behalf of the Registrar, including  the following specific responsibilities
+  training staff in the University's privacy  obligations
+  providing advice on privacy issues 
+  assisting with the development of privacy  notices 
+  coordination of the University's  investigation and response to privacy complaints. 
+Heads of organisational units 
+The head of each  organisational unit is responsible for assessing privacy risk in their  organisational unit and for implementing business processes which are  consistent with the Information Privacy Act. Specific, ongoing responsibilities  include: 
+  implementation and regular review of appropriate  data collection practices 
+  ensuring personal information is used,  managed and disclosed appropriately by staff within the organisational unit and  that administrative practices are consistent with the University's privacy  obligations 
+  implementing adequate security requirements  for access to and storage of personal information in all formats within the  organisational unit 
+  ensuring that privacy training and awareness  is embedded in practices and procedures of the organisational unit as appropriate. 
+Data custodians and record keepers 
+Nominated data custodians and  record keepers, whether at the corporate or at the local level, are responsible  for 
+  implementing  adequate security measures to protect privacy of personal data in information systems
+  determining  user access levels for the dataset or system, although the decision to grant  access to individual staff may be delegated
+  implementing  appropriate mechanisms to revoke access to systems when access is no longer  necessary or appropriate, for instance, in the case of a change in position or  formal responsibilities, or termination of employment.
+All staff 
+It is the responsibility of  all staff to respect personal privacy in so far as they collect, access, use or  disclose personal information about others in the course of their duties, and  to comply with the requirements of the Information Privacy Act and the specific  requirements of this policy.
+Top 
+6.2.5 Collection and use of  personal information 
+Personal information must be  collected only where necessary and relevant to QUT's functions and activities  and in a reasonable and transparent way. Personal information should not be  collected where it is irrelevant to the business process or where there is no  specific and immediate use for it. An appropriate privacy notice must be  provided when collecting information directly from an individual, irrespective  of the means by which the personal information is collected.
+The Information Privacy Act  states that personal information is being used if QUT
+  manipulates,  searches or otherwise deals with the information
+  takes  the information into account when making a decision
+  transfers  the information to another area of the University.
+Before using personal  information staff have a responsibility  to take reasonable steps to ensure that information is accurate, up-to-date and  complete, and that the information is used only in circumstances where it is  relevant, and used only for the purpose for which it has been collected or a  directly related purpose. 
+There are several  recognised but limited exceptions to the restrictions on use of personal  information and further guidance on use of personal information for other  purposes is detailed in the Information Privacy Procedures.
+Top 
+6.2.6 Access and security for  personal information records 
+The implementation of  adequate security safeguards is a significant means of protecting personal  privacy. QUT must ensure that personal information is protected against loss, unauthorised  access or modification, disclosure or misuse. Detailed arrangements for  management of information security generally are found in the information  security policy ( F/1.2 ).
+Top 
+6.2.7 Prohibition on disclosure of personal information 
+Staff must not disclose  personal information to individuals or organisations outside the University.  Disclosure refers to release of personal information to another entity (eg a  body, agency or person separate from the University) where QUT will cease to  have effective control of the information once it is released.
+Top 
+6.2.8 Exceptions relating to disclosure of personal information 
+In extremely limited  circumstances, disclosure of personal information in the following  circumstances may not be a breach of privacy.
+  (a) Agreement to disclosure of information 
+Personal information may be  disclosed where the individual concerned has agreed to that disclosure. Agreement  must be expressly given and it is expected that the agreement will be in  writing. In limited circumstances, verbal agreement may be acceptable if it is  verifiable and the disclosure is clearly in the best interests of the  individual. Staff proposing to release information where the agreement is not  in writing must discuss the circumstances with the Privacy Officer before  disclosure occurs.
+Implied agreement should not  generally be relied upon as a basis for disclosure. Where a person seeks  personal information as a representative or agent of another, then  documentation confirming the scope of the agent's authority should be obtained  before release of any personal information held by the University.
+(b) Previous provision of notice of disclosure 
+Personal information may be  disclosed where individuals have been informed of the usual practices for  disclosure through provision of a privacy notice at the point of collection of  the information or under a published QUT policy.
+(c) Other situations 
+In rare circumstances,  disclosure of personal information may also be permitted where 
+  disclosure is necessary to prevent or lessen a  serious threat to a person's life, health, safety or welfare, or to public  health, safety or welfare
+  disclosure is authorised or required by law  (for example, if the University's records are subpoenaed, or if there are  statutory requirements to provide information to a government department such  as the Australian Taxation Office, Centrelink, or Department of Education, Employment  and Workplace Relations) 
+  disclosure is necessary for enforcement of  criminal or other law by a law enforcement agency
+  disclosure is necessary for research or the  compilation or analysis of statistics in the public interest, subject to  certain factors being satisfied
+  disclosure is to be used for commercial  marketing purposes, subject to certain factors being satisfied.
+Any request or proposal to  disclose personal information in these situations must only be undertaken in  compliance with privacy protocols issued by the Registrar, or following  confirmation from the Privacy Officer that disclosure is necessary and  acceptable under the information privacy principles of the Information Privacy  Act.
+Top 
+6.2.9 Register of graduates 
+Privacy principles do not  apply to material which is maintained on a public register. Given that one of  QUT's primary functions is to confer higher education degrees and awards, QUT  maintains a register of its graduates (including of predecessor institutions)  in the student management system. Information concerning a person's status as a  graduate of the University is available to any member of the public upon formal  request to the Student Business Services Department. The only details confirmed are the  graduate's name (as recorded in QUT systems), the degree conferred or to be  conferred and the date of conferral. QUT may charge a fee for this service.
+No other personal information  held by the University is regarded as being on a public register.
+Top 
+6.2.10 Requests for access to and  amendment of personal information under Information Privacy Act 
+The Information Privacy Act  gives an individual the right to request access to the personal information  which the University holds about them, and to amend it where it is inaccurate,  incomplete, out-of-date or misleading. 
+Details on how an  individual can request access to their own personal information in accordance  with the Information Privacy Act can be found in the University's policy on  Access to information (F/6.3).
+Top 
+6.2.11 Privacy complaints 
+If an individual believes  that QUT has not dealt with their personal information in accordance with the Information  Privacy Act or this policy, they may make a complaint to QUT. A complaint must be made in  writing or by email to the Privacy Officer or referred to that officer if  received by another area of the University. 
+The Privacy Officer will  refer the matter to the head of the organisational unit to resolve the  complaint. 
+Primary responsibility for  investigating and responding to the complaint will rest with the head of the  organisational unit, with advice from the Privacy Officer as required. The  University's main objective in responding to privacy complaints is to  conciliate an outcome which is acceptable to the complainant and which  addresses any broader or systemic privacy issues which may arise. 
+If a complainant does not  agree with the University's response, an internal review process is available  or a complainant may refer the matter for independent mediation by the Office  of the Information Commissioner.
+Top 
+6.2.12 Contracts involving  personal information 
+Contractual arrangements  entered into by the University may require that third parties have access to or  may use personal information owned or held by QUT. 
+Any contract which is  entered into by the University must include appropriate safeguards for protection  of personal information. It is the responsibility of the senior officer who has  delegated authority to enter into contracts and commercial arrangements, to  ensure that privacy risks are adequately addressed and that QUT's privacy  obligations are appropriately incorporated into the formal terms of the  contract where necessary. For further information, refer to QUT's policy on  management of contracts and MOUs (G/6.1). Queries concerning appropriate contractual provisions covering QUT's  privacy obligations may be directed to the Privacy Officer or the University  Legal Officer.
+Top
+Related Documents
+MOPP F/1.2 Information  security policy
+  MOPP F/1.5 Email policy
+  MOPP F/6.3 Access to  information 
+  MOPP G/6.1 Policy on  management of contracts and MOUs
+  MOPP H/3.4.11 Closed circuit  television policy
+  Privacy protocols issued by Registrar
+  Access to information at QUT
+Information Privacy Act 2009 (Qld)
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  07.10.10
+   All
+   Vice-Chancellor
+  Policy  revised following enactment of Information  Privacy Act 2009
+  07.06.07
+   All
+   Vice-Chancellor
+  Policy revised and updated  (endorsed by Vice-Chancellor&rsquo;s Advisory Committee 02.05.07)
+20.02.04
+All
+Vice-Chancellor
+Revised policy - replaces former F/9.1 Information access and privacy 
+policy for students and staff at QUT (endorsed by Vice-Chancellor's 
+Advisory Committee 12.02.04)
+21.05.99
+All
+Vice-Chancellor
+New policy (replaces former policies on confidentiality of staff and student 
+records) (endorsed by Vice-Chancellor's Advisory Committee 22.4.99)
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 07-Oct-2010
+    Contact us | Feedback | Disclaimer

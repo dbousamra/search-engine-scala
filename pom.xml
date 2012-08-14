@@ -10,27 +10,9 @@
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
 		<encoding>UTF-8</encoding>
-		<scala.version>2.9.0-1</scala.version>
+		<scala.version>2.9.1</scala.version>
+		<scalatra.version>2.0.4</scalatra.version>
 	</properties>
-
-	<dependencies>
-		<dependency>
-			<groupId>org.scalaz</groupId>
-			<artifactId>scalaz-core_${scala.version}</artifactId>
-			<version>6.0.4</version>
-		</dependency>
-		<dependency>
-			<groupId>org.scala-lang</groupId>
-			<artifactId>scala-library</artifactId>
-			<version>${scala.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.8.1</version>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
 
 	<build>
 		<sourceDirectory>src/main/scala</sourceDirectory>
@@ -63,8 +45,6 @@
 				<configuration>
 					<useFile>false</useFile>
 					<disableXmlReport>true</disableXmlReport>
-					<!-- If you have classpath issue like NoDefClassError,... -->
-					<!-- useManifestOnlyJar>false</useManifestOnlyJar -->
 					<includes>
 						<include>**/*Test.*</include>
 						<include>**/*Suite.*</include>
@@ -74,6 +54,88 @@
 					</excludes>
 				</configuration>
 			</plugin>
+			<plugin>
+				<groupId>org.mortbay.jetty</groupId>
+				<artifactId>maven-jetty-plugin</artifactId>
+				<version>6.1.17</version>
+				<configuration>
+					<scanIntervalSeconds>2</scanIntervalSeconds>
+					<systemProperties>
+			            <systemProperty>
+			              <name>X:MaxPermSize</name>
+			               <value>256m</value>
+			            </systemProperty>
+			         </systemProperties>
+		 	    </configuration>
+			</plugin>
 		</plugins>
 	</build>
+	<dependencies>
+		<dependency>
+			<groupId>org.scala-lang</groupId>
+			<artifactId>scala-library</artifactId>
+			<version>2.9.1</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.5</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.scalatra</groupId>
+			<artifactId>scalatra_2.9.1</artifactId>
+			<version>${scalatra.version}</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+	      <groupId>org.scalatra</groupId>
+	      <artifactId>scalatra-scalate_2.9.1</artifactId>
+	      <version>${scalatra.version}</version>
+	      <scope>compile</scope>
+	    </dependency>
+	    <dependency>
+		  <groupId>net.liftweb</groupId>
+		  <artifactId>lift-json_2.9.1</artifactId>
+		  <version>2.4</version>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.8.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	
+	<repositories>
+		<repository>
+			<id>SonatypeNexusSnapshots</id>
+			<name>Sonatype Nexus Snapshots</name>
+			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+		</repository>
+		<repository>
+			<id>FuseSourceSnapshotRepository</id>
+			<name>FuseSource Snapshot Repository</name>
+			<url>http://repo.fusesource.com/nexus/content/repositories/snapshots/</url>
+		</repository>
+		<repository>
+			<id>scala-tools.org</id>
+			<name>Scala-Tools Maven2 Repository</name>
+			<url>http://scala-tools.org/repo-releases</url>
+		</repository>
+		<repository>
+			<id>GuiceMaven</id>
+			<name>Guice Maven</name>
+			<url>http://guice-maven.googlecode.com/svn/trunk/</url>
+			<layout>default</layout>
+		</repository>
+		<repository>
+			<id>ScalaToolsMaven2Repository</id>
+			<name>Scala-Tools Maven2 Repository</name>
+			<url>http://scala-tools.org/repo-releases/</url>
+			<layout>default</layout>
+		</repository>
+	</repositories>
+	
 </project>

@@ -1,0 +1,147 @@
+QUT | MOPP | A/9.8 Chemical management policy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      A/9.8 Chemical management policy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerAssociate Director, HR Health and Safety Advisory Services 
+Approval Date12/07/2010 
+Approval AuthorityRegistrar 
+Date of Next Review01/07/2013 
+9.8.1 Chemical management policy 
+9.8.2 Definitions 
+9.8.3 Acquisition (purchase, donation or loan) 
+9.8.4 Storage 
+9.8.5 Transport and use 
+9.8.6 Off-campus use 
+9.8.7 High risk chemicals 
+9.8.8 Incident Management 
+9.8.9 Disposal 
+9.8.10 Records
+Related Documents
+ Modification History 
+9.8.1 Chemical management policy 
+Chemical management at QUT will meet legislative obligations and the University's requirements for good practice. Managers and supervisors are responsible for the approved acquisition, safe handling, transport, storage, use and disposal of chemicals at QUT. Additionally, the University requires that staff, students and visitors act with proper diligence, particularly those in supervisory roles and those with stated obligations under permits, licences and authorities issued by state or federal jurisdictions. Responsibilities for health and safety management are detailed in A/9.2.
+Top 
+9.8.2 Definitions 
+For the purposes of this policy the following definitions apply:
+&quot;Chemicals&rdquo; include hazardous substances, non-hazardous substances, dangerous goods, non-dangerous goods, and drugs and poisons.
+The definition of a chemical is covered by the term &quot;substance&quot; under the Workplace Health and Safety Act 1995 (Qld). A substance is &ldquo;any natural or artificial substance, whether in solid or liquid form, or in the form of a gas or vapour&quot;.
+&quot;Hazardous substances&quot; are substances which pose risks to users and are defined in the Queensland Workplace Health and Safety Regulation 2008 to mean 
+  a designated hazardous substance as listed in the &lsquo;List of Designated Hazardous Substances [NOHSC:10005 (1999)]&rsquo;; or
+ a substance that is not a designated hazardous substance but meets the approved criteria.
+To access the updated list of hazardous substances, refer to Safe Work Australia&rsquo;s Hazardous Substances Information System (HSIS).
+&ldquo;Dangerous goods&rdquo; are substances which pose risks during transport or storage to people, property or the environment and meet certain criteria defined in the Australian Dangerous Goods (ADG) Code. This code assigns dangerous goods to nine different classes according to their physical and chemical properties and the most significant risk.
+&ldquo;Drugs and poisons&rdquo; are defined in the Health Act 1937 (Qld) and the Poisons Standard 2008 (Standard for the Uniform Scheduling of Drugs and Poisons (SUSDP)) as any article used for or in the composition or preparation of a medicine for internal or external consumption or for therapeutic use by humans or animals or as a substance or preparation defined under the scheduling scheme in the SUSDP. These are further categorised in the Health (Drugs and Poisons) Regulation 1996 into &ldquo;controlled drugs&rdquo;, &ldquo;poisons&rdquo; and &ldquo;restricted drugs&rdquo;.
+&ldquo;Security Sensitive Chemicals&rdquo; are hazardous materials requiring enhanced security measures through an agreement by the Council of Australian Governments (COAG) for a national approach to security management to prevent their use for terrorist purposes. In Queensland, Security Sensitive Ammonium Nitrate (SSAN) is controlled through the Explosives Inspectorate of the Queensland Government. A National Code of Practice is in place to divert supply of certain chemicals away from illicit drug production or chemical weapon production. A list of these is available on the HR Health and Safety Advisory Services web page.
+&quot;High risk chemicals&quot; are those items from the following list deemed relevant by the executive dean of faculty / head of division / institute director: 
+ Dangerous Goods Class One (Explosives Act  1999 (Qld))
+ Dangerous Goods Class Seven (Radiation Safety  Act 1999 (Qld))
+ Schedules 2, 3, 4, 7, 8 and 9 of the Health (Drugs and Poisons) Regulation  1996 (Qld) and the Poisons Standard 2008 (Standard for the Uniform Scheduling of Drugs and  Poisons (SUSDP))
+ Schedule 6 Controlled Substances  (Drug Misuse Regulation   1987)
+ Category I,  Category II, Category III, and Category IV chemicals (National Code of  Practice, Plastics and Chemicals Industries Association) 
+ Security  Sensitive Ammonium Nitrate (Regulation of Security Sensitive  Ammonium Nitrate (SSAN) in Queensland (SSAN) in Queensland).
+Top 
+9.8.3 Acquisition (purchase, donation or loan) 
+QUT's policy on chemical acquisition is at 
+G/5.3.3.
+Many high risk chemicals, as defined above, require approval or endorsement through local, State or Australian government jurisdictions. It is necessary for QUT or individuals to hold relevant licences, permits, authorities or endorsements under the legislation to acquire, store, use, transport and dispose of these chemical entities. Additional conditions for security of these chemicals may be stated in the respective licence, permit, authority or endorsement. Intending purchasers of high risk chemicals must check the requirements of the relevant legislation and/or the conditions on their respective licence, permit, authority or endorsement.
+Good practice requires minimal long-term storage of chemicals and that, where practicable, the University adopts just-in-time purchase or acquisition practices. An adequate risk assessment related to the proposed use of the chemical must be conducted prior to any purchasing or acquisition decision. To enable proper costing of teaching, research and consultancies in the planning stages, the method and cost of waste disposal and any special storage should be considered along with any permits, licences or fees and charges incurred in landing the goods at the University.
+The Material Safety Data Sheet (MSDS) for any substance must be obtained prior to acquisition, any imposed conditions should be noted for implementation and the document should remain readily available to the user. Availability of relevant MSDS through QUT&rsquo;s online Chemwatch subscription is satisfactory as long as users have access to a QUT computer and have the ability to print a paper copy if required. If there are special storage needs, these should be stated in research proposals or risk assessments and costed where possible (eg cryogenic storage, locked cabinet of special construction).
+The Health (Drugs and Poisons) Regulation places restrictions on the acquisition, possession and use of substances from Schedule 4 (restricted drugs), Schedule 7 (regulated poisons), Schedule 8 (controlled drugs) and Schedule 9 (prohibited substances).
+Scheduled drugs in Schedule 2 , Schedule 3 and Schedule 4 can be obtained only under s179A and s265A of the Health (Drugs and Poisons) Regulation with an &ldquo;As of Right Authority&rdquo; provided by Queensland Health to the Vice-Chancellor and delegated to the Head of Discipline Pharmacy, Portfolio B, Faculty of Science and Technology, or with specific authorities provided under other sections of the Regulation as a result of approved academic and professional qualification, experience or standing eg optometrist, pharmacist, podiatrist. Poisons in Schedule 7, Schedule 8 or Schedule 9 can only be obtained by individuals granted a permit or licence on application to Queensland Health.
+Top 
+9.8.4 Storage 
+Chemicals must be appropriately labelled, which means the inclusion of defined risk and safety phrases where required by the Workplace Health and Safety Regulation.All chemical containers (other than rented containers, eg gas cylinders) must have a QUT logo attached for traceability and proof of ownership.
+The proper segregation of substances as described in the Dangerous Goods Safety Management Act and the Australian / New Zealand Standard 2243.10 - Safety in Laboratories Storage of Chemicals must be observed (eg in stores, refrigerators, cupboards, on shelves and benches, and during transport). If flammable chemicals are stored in a refrigerator or freezer, the refrigerator or freezer must have been modified or designed and manufactured to eliminate ignition sources. Such chemicals must be properly labelled and sealed.
+Restricted drugs (Schedule 4) and regulated drugs and poisons (Schedule 7) must be stored in a locked cupboard, dispensary, drawer, refrigerator, freezer or other part of a place to which the public (eg students, visitors) do not have access. Cyanides and strychnine must be kept in a locked cupboard that meets the requirements stated on the permit issued by Queensland Health.
+Controlled drugs (Schedule 8) and prohibited substances (Schedule 9) must be stored in a secure place, as approved by Queensland Health. This place must be kept locked at all times except when being accessed by an authorised person. Only an authorised person may have personal possession of a key to the secure store for controlled drugs.
+A register listing all chemicals used or stored in the work area must be maintained and updated at least annually. Annual stocktakes of holdings are recommended to verify actual versus listed quantities of chemicals and to ensure the integrity of packages and labels while in storage. Leaking or damaged packages must be either repackaged and relabelled or removed for disposal. More frequent stocktakes may be required for restricted drugs, regulated drugs and poisons, and controlled drugs depending on usage and as part of local security procedures. Managers must ensure an updated manifest listing locations of dangerous goods within their work areas by class, packing group and quantity is provided to HR Health and Safety Advisory Services annually for revision of site manifests.
+A HAZCHEM outer warning placard (signage) must be displayed at every entrance to a QUT campus or off-campus facility at which dangerous goods or combustible liquids are stored in quantities above minor storage. The placard must be clearly visible to a person approaching the entrance. 
+Information placards must be displayed:
+ if stored indoors - at the main point of entry to the building in which the goods or liquids are stored; and either at every point of entry to the storage area in the building (eg a room or enclosure) or adjacent to the stored goods
+ if stored outdoors - adjacent to the stored goods or liquids.
+The form, layout, dimensions and colours for the required placards are detailed in the Dangerous Goods Safety Management Regulation &nbsp;and must be positioned so that they are not obscured by or capable of being confused with other signage or notices.
+Top 
+9.8.5 Transport and use 
+Chemical exposures should be minimised within acceptable guidelines which rely on proper work practices being followed. Hazardous substances, dangerous goods, and drugs and poisons require documented work practices that control the risks. Work practices should include risk controls such as the use of assisted ventilation, personal protective equipment where necessary, appropriate spill procedures, and composition and location of spill kits. Emergency procedures should be formulated within the documented work practices and must be followed. Prior to working with chemicals, staff and students must be inducted in general safety practices for working with chemicals and trained in relevant local work practices for the respective work area. Guidance on appropriate competencies is provided in the Hazardous Substances Code of Practice . Risk assessments on activities involving chemicals must be revised whenever a change to the activity occurs, or at least every five years. Legislative requirements and guidance on risk management of chemicals is provided in the Workplace Health and Safety Regulation, the Dangerous Goods Safety Management Regulation and the Hazardous Substances Code of Practice.
+Transport or movement of chemical substances around the workplace must comply with the legislative requirements, the manufacturer's advice on the MSDS, and University procedures to minimise the risk. Adjustments may need to be made to the chemical registers and building manifests to account for any changed locations.
+Specific conditions apply to the use of restricted drugs, regulated restricted drugs and controlled drugs for research or teaching at QUT or use in QUT public clinics by approved practitioners. Certain regulated restricted drugs may be used in QUT only for research purposes or clinical trials as approved by the relevant QUT ethics committee (D/6). No QUT staff member or student is to use, prescribe, dispense or administer restricted or controlled drugs or poisons unless endorsed to do so. For further information on conditions and endorsements, refer to the Health (Drugs and Poisons) Regulation.
+Top 
+9.8.6 Off-campus use 
+Chemicals must not be taken off-campus unless the approved documentation (eg research proposal, transport manifest) describes the appropriate chemical management process to be undertaken and all legislative requirements are met.
+Where a restricted drug (Schedule 4) needs to be used away from the usual workplace (eg in the field), it must be kept secure under the authorised person&rsquo;s or chief investigator&rsquo;s personal control.
+Top 
+9.8.7 High risk chemicals 
+Certain &quot;high risk chemicals&quot; could be misused for the manufacture of illicit drugs of addiction and/or chemical warfare agent precursors. The executive dean of faculty / head of division / institute director area may add specific chemicals to, or exempt specific chemicals from, the &quot;high risk chemicals&quot; category within their area of authority. For example, certain chemicals may be highly hazardous or rare and costly, so may be added to the list. Conversely, some chemicals on the High Risk list may be so commonly used in such large quantities that daily tracking of individual containers becomes unworkable.
+Those chemicals identified within a faculty, division or other organisational area as &quot;high risk chemicals&quot; must comply with the following audit trail
+ each container    is to be identified    separately (eg 12 identically labelled containers are to be numbered as 1,    2, 3, etc, enabling each to be tracked)
+ each container is to leave the store under a    decipherable signature and printed name
+ the relevant    party will be accountable for the proper use and security of that item.
+A system of monitoring and random audits will be conducted by the QUT Chemical and Biosafety Advisor or a nominee of the Associate Director, HR Health and Safety Advisory Services. Audit discrepancies will be referred to senior management of the organisational area for investigation and action.
+Top 
+9.8.8 Incident Management 
+Executive deans of faculty / heads of division / institute directors must ensure that local procedures exist to manage unplanned incidents related to transport, storage or use of chemicals purchased or acquired within their area of authority and that all staff are informed of these procedures. These procedures must include clean up of spillages. Incidents may be minor (eg rusting tin with pinholes allowing escape of contents) or more serious (eg a trolley of mixed chemicals in transit overturns in a lift, or the persistent leakage of hydrogen gas from a cylinder). In potentially serious incidents, the Workplace Health and Safety Act requires that the scene not be disturbed without approval from an inspector or the police unless such intervention is to preserve life, reduce injury consequences or reduce harm to property. Contact the 24 hour QUT Security Emergency Number 88888 or 3138 8888 for assistance. QUT Security is to notify HR Health and Safety Advisory Services.
+Top 
+9.8.9 Disposal 
+Chemicals which are no longer required must be identified and disposed of in a timely manner but at least annually. This could be achieved during a stocktake or the annual update of the register and the manifest (see section 9.8.4 above), or more frequently if necessary. Disposal of chemicals must be in accordance with the University's chemical waste disposal policy (H/6.3.2) and waste disposal guidelines on the Facilities Management website. Chemicals must not be disposed of inappropriately (eg into a sink or sewerage system). Disposal must not be conducted in a way that endangers the life or safety of a person or domestic animal, or exposes food, drink or a condiment to the risk of contamination by the substance. Chemicals must not be donated externally to QUT without the signed approval of the executive dean of faculty / head of division / institute director. Where such approval has been granted, the chemical(s) must be accompanied by their current MSDS.
+When chemicals are disposed of, the chemical registers and building manifests must be adjusted accordingly.
+Top 
+9.8.10 Records
+ Records must be managed in accordance with the University’s Records management policy (F/6.1).
+The following records relating to chemical management are examples of the types of records that must be maintained:
+ chemical register within each work area
+ manifests for each building and site
+ risk assessments for activities in which chemicals are used
+ purchasing documentation, including purchase orders for controlled or restricted drugs or poisons 
+ disposals of chemicals from local areas including means of disposal, quantity by dangerous goods class, and packing group
+ induction and training of staff and students in chemical management, including special handling, risk management, MSDS, spill kits and emergency response. 
+Persons endorsed or approved to obtain, possess and use restricted or controlled drugs must keep records as required by such endorsement or approval.
+ Chemical registers and manifests must be updated at least annually and risk assessments revised at least every five years using the current MSDS. A copy of the updated chemical manifest records must be provided to HR Health and Safety Advisory Services annually.
+Top 
+Related Documents
+MOPP A/9.2 Health and safety management 
+MOPP G/5.3.3 Chemical acquisition (purchase, donation or loan) 
+MOPP H/6.3 Waste management 
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+  12.07.10
+  All
+ Registrar
+ Revised policy
+10.06.05
+All
+Registrar
+Policy reviewed (no change required)
+23.06.03
+All
+Registrar
+New policy (endorsed by University Health and Safety Committee 
+ 06.06.03)
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 11-Nov-2010
+    Contact us | Feedback | Disclaimer

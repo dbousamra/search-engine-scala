@@ -13,14 +13,13 @@ class InvertedIndex {
       index.get(word) match {
         case Some(x) => index.get(word).get.put(document, x.get(document).getOrElse(0) + 1)
         case None => {
-          index.put(word, new LinkedHashMap[Document, Int])
-          index.get(word).get.put(document, 1)
+          index.getOrElseUpdate(word, LinkedHashMap(document -> 1))
         }
       }
     }
     incrementTotalDocumentsIndexed()
   }
-  
+
   def getAllDocuments = {
     index.map(x => x._2.keys).flatten.toList.distinct
   }

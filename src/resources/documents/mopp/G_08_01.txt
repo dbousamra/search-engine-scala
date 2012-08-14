@@ -1,0 +1,412 @@
+QUT | MOPP | G/8.1 User Charging policy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      G/8.1 User Charging policy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerDirector, Planning and Budget, Finance and Resource Planning 
+Approval Date04/02/2011 
+Approval AuthorityVice Chancellor 
+Date of Next Review01/03/2014 
+8.1.1 Policy overview 
+8.1.2 Identification of the good or service for which a charge will be levied 
+8.1.3 Rationale for proposed user charge 
+8.1.4 Method of charge calculation 
+8.1.5 Identification of the costs to be included in the charge calculation 
+8.1.6 Cost of service less than or greater than $500,000 per annum 
+8.1.7 Grouping of charges 
+8.1.8 Process for the establishment and approval of user charges for internal, external and student users 
+8.1.9 Annual review of user charges 
+Related Documents 
+Modification History 
+8.1.1 Policy overview 
+QUT's policy on user charging for goods and services, outside or ancillary
+  to its mainstream services, is governed by the Financial  and Performance Management Standard 2009  (issued pursuant to the Financial Accountability Act 2009 ),
+  the National Competition Policy principles, and the 
+Higher Education Support
+Act (HESA) 2003.
+The policy aims to ensure a price structure which reflects the true cost to
+  the University of producing goods and services and aims to encourage:
+Users to be economical in their demand for the goods and services (e.g.
+    users may vary the amount of goods or services consumed, or may procure similar
+    goods and services from other suppliers and/or close substitutes of the goods
+    and services), and;
+QUT suppliers to be more efficient in the provision of goods and services
+    (e.g. the University supplier is faced with competition from suppliers in
+    the marketplace), and to make known to users the cost structure upon which
+    fees or charges are based.
+The Executive Director, Finance and Resource Planning, is responsible for
+  implementing procedures to ensure that QUT complies with these requirements.
+  These procedures are outlined in this policy.
+The Division of Finance and Resource Planning is responsible for maintaining
+  a current Register of User Charges. The Register contains details of all user
+  charges (ie external, internal and student charges). The Register is reviewed
+  annually providing faculties and divisions with the opportunity to amend, delete
+  or propose new user charges to be managed by their particular organisational
+  area.
+Top 
+8.1.2 Identification of the good or service for which a charge will be levied 
+Faculties and divisions should clearly identify the good or service in the
+  context of the core responsibilities of the unit. The good or service is to
+have a description that clearly explains the nature of the product.
+Policies 
+G/8.2
+(external
+  user charging), 
+G/8.3
+(internal
+  user charging) and 
+G/8.4
+(student
+  user charging) provide guidelines for determining the types of charges which
+  can be raised in either the external, internal or student charges categories.
+  External legislative requirements and QUT's internal policies and procedures
+  vary across these three charging categories.
+Top 
+8.1.3 Rationale for proposed user charge 
+When a new user charge is proposed, a rationale must be prepared, outlining
+  the purpose and nature of the charge. In this instance a faculty or division
+is required to:
+outline the extent to which the charge is outside the scope of an organisational
+    area's core business activities which are funded on an ongoing basis; and
+provide a case for the proposed charge to be approved.
+Faculties and divisions are required to complete a standard proforma template
+  when a new user charge is proposed. The template, when completed, should contain
+  information relating to the scope and pricing structure of the charge. In addition,
+  staff contact information should also be included in the template, so that
+  an organisational area can be readily contacted if further clarification or
+  information is required. The user charging proforma template is available on
+  the 
+Finance
+  and Resource Planning
+website.
+Top 
+8.1.4 Method of charge calculation 
+Each good or service is to be priced according to one of the following calculation
+methods:
+Charge Calculation Method
+Actual item cost
+Other Direct Costs
+Indirect Costs
+Profit Margin
+Category A
+X
+Category B
+X
+X
+Category C
+X
+X
+X
+X
+Note: Definitions for charge calculation methods are provided in G/8.1.5 below.
+(a) Category A
+Category A charges reflect the pure recovery of an item's cost. The price
+  of the charge should reflect exactly the cost of the good / service being provided
+  plus GST, if applicable. In the case of a good, the price should be the actual
+  cost charged by the provider of the good, with the cost incurred being passed
+  on without change to the consumer. Where a service is offered on a Category
+  A basis, the user charge may only include salary and related on costs for a
+  staff member's time. No additional charges, whether direct or indirect, are
+  associated with this category of user charging.
+QUT is required to adhere to the requirements and principles of the National
+  Competition Policy in terms of full cost pricing of the good / service offered
+  and competitive neutrality. However as Category A charges relate predominantly
+  to the reallocation of organisational costs, these charges are exempt from
+  the competitive neutrality principles. The Category A pricing policy is considered
+  to be appropriate for goods / services that are assessed as being more efficiently
+  provided from a central unit of the University, and the use of existing staff
+  / facilities used in the provision of the good / service are provided for from
+  within existing funds.
+Examples include staff recruitment advertising charges and consumables.
+Category A calculations are applicable to internal user charges offered on
+  an internal basis only, and not in competition with external suppliers, as
+  noted in G/8.3.3(a), and also can be applied as appropriate for student and
+  external charges. GST may be applicable.
+(b) Category B
+The price of charges within this category reflect the actual cost of the good
+  / service (as identified in the Category A pricing detailed above) plus other
+  direct costs associated in delivering the good / service. Indirect costs (eg
+  corporate service charges) are not to be included in a Category B charge. Examples
+  of direct costs are provided in G/8.1.5(a) below.
+This pricing policy is appropriate where the provision of the good / service
+  is considered to be required by users, but the demand needs to be managed through
+  a pricing policy that accurately reflects the cost of provision. As demand
+  increases it may be necessary to engage additional staff and/or purchase capital
+  equipment. The aim of this pricing policy is to ensure the delivery unit does
+  not incur additional costs or make a profit through the delivery of the good
+  / service. QUT is required to adhere to the requirements and principles of
+  the National Competition Policy in terms of full cost pricing of the good /
+  service offered and competitive neutrality. However as Category B charges relate
+  predominantly to the reallocation of organisational costs, these charges are
+  exempt from the competitive neutrality principles.
+As part of the annual review of user charges, each division is required to
+  submit a Statement of Financial Performance, disclosing the net operating result
+  for the previous year, and a forecast for the current year, for all charges
+  or groups of charges designated as Category B. Examples of Category B charges
+  include telephone moves and charges, digital printing and photocopy charges.
+Category B calculations are applicable to internal user charges offered on
+  an internal basis only and not in competition with external suppliers, as noted
+  in G/8.3.3(a), and also can be applied as appropriate for student and external
+  user charges. GST may be applicable.
+(c) Category C
+The pricing policy should include recovery of all costs of producing the good
+  / service. These include:
+The actual cost of the good / service
+Direct costs (see G/8.1.5(a) )
+Indirect costs (see G/8.1.5(b) )
+A profit margin in line with the market rate.
+QUT is required to adhere to the requirements and principles of the National
+  Competition Policy in terms of competitive neutrality through full cost pricing
+  of the good / service offered on a competitive basis. Inclusion of all costs
+  will ensure the price is comparable to external providers of a similar good
+  / service.
+Examples of goods / services in this category include the hire of campus services
+  by external clients, parking fees for external clients, external printing charges,
+  and external consulting and testing.
+Category C can be applied to internal user charges offered in competition
+  with external suppliers, external user charges and student user charges. GST
+  may be applicable.
+(d) Penalties and Fines
+A fine or penalty may be charged where the charge is levied principally as
+  a disincentive and not in order to raise revenue or cover administrative costs.
+  This can be applied to external, internal and student user charges.
+(e) Donations and Contributions
+Refers to access to a facility/display for a nominal entry fee (e.g. a museum).
+  Currently there is only one charge of this nature.
+Top 
+8.1.5 Identification of the costs to be included in the charge calculation 
+The faculty/division should detail the costs which make up the total cost
+  of production of the good or service. Importantly, all inputs to the activity
+must be fully costed. Examples of costs to be included are:
+(a) Direct costs
+Salaries, wages and on costs
+Goods and services, for example:
+Supplies/consumables
+Administrative overheads (eg. equipment hire, licence fees, transport,
+      postage)
+Other overheads (eg. maintenance, fuel)
+Professional fees
+Service fees
+Leasing/buyback arrangements
+Depreciation/amortisation costs associated with equipment used in the provision
+    of the good/service
+It should be noted that Capital Purchase Costs are accounted for over the
+  life of the asset through depreciation charges.
+While the above list is not exhaustive, it does provide a guide to the major
+  components of costs and the level of detail required. Within these major components,
+  key items involved with the provision of a good or service should be identified.
+In determining the direct cost of a good or service, reliable costing mechanisms
+  should be used, for example, actual expenditure from the general ledger system,
+  quotations from suppliers, Operating Grant funds provided for the good/service
+  etc. All costs should be able to be readily justified.
+(b) Indirect costs
+Rent on premises (or where premises are provided by QUT, the opportunity
+    cost of rent)
+Electricity, Rates, water costs and other utilities
+The cost of QUT support services including personnel services and corporate
+    services.
+Indirect costs should only be included in the charge calculation for goods
+  / services offered on a Category C basis, as per G/8.1.4. Category
+  C is applicable to internal user charges offered in competition with external
+  suppliers, and may be applicable to external user charges and student user
+  charges.
+(c) Goods and Services Tax (GST)
+If GST is applicable then the amount / rate of the user charge should include
+the GST. It should be noted that GST can only apply to external and student charges,
+not to internal charges.
+Top 
+8.1.6 Cost of service less than or greater than $500,000 per annum 
+(a) Less than $500,000 per annum
+If the annual cost of producing a good / service is less than $500,000 per
+  annum, faculties / divisions should develop a user charging proposal which
+  presents the 
+rationale for charging,
+and the 
+pricing
+  policy
+based on actual costs and market conditions,
+  in accordance with sub-sections 
+G/8.1.3
+and 
+G/8.1.4.
+This
+  information must be entered into the standard user charging proforma template,
+  supplied by the Department of Planning and Budget. 
+(b) Greater than $500,000 per annum
+If the cost of a good or service is greater than $500,000 per annum, a more
+  comprehensive analysis is required. Faculties / divisions will need to submit
+  to the Executive Director, Finance and Resource Planning, a full economic evaluation.
+  The following information is required from faculties and divisions:
+A case for review of the faculty / division operational budget in light
+    of identified shifts in demand, or lack of external providers, and whether
+    to continue / commence production of the good or service on a free to user
+    basis. (This is likely to be appropriate where the shift in demand is considered
+    to be a once-off shift.)
+A case for the organisational area implementing a system of internal user
+    charges (not in a competitive environment) for the good or service. (This
+    is likely to be considered appropriate where a continuing upward trend in
+    demand shifts is likely.)
+A case for the organisational area implementing a system of user charges
+    in competition with external suppliers.
+A case for outsourcing provision of the good or service to a private organisation.
+The 
+status quo
+gives a picture of the current environment,
+    and provides a base against which to assess all other options presented.
+    The 
+status quo
+is seldom acceptable on the basis that it does
+    not meet the needs of the organisation. Nevertheless, it is an essential
+    component of the evaluation and must be provided.
+Top 
+8.1.7 Grouping of charges 
+Where goods / services of a similar nature are offered by a faculty or division,
+  these charges need not be approved individually and recorded as separate entries
+  on the Register. Instead they can be allocated to a group charge on the Register
+  with a specified price range. In this instance, a detailed charge list (subsidiary
+  register) of the individual charges must be maintained at the delivery unit
+  level. These charges must be reviewed annually at the delivery unit level.
+  Examples of charge groupings include laptop rentals and paper sales provided
+by the Division of Technology, Information and Learning Support.
+Top 
+8.1.8 Process for the establishment and approval of user charges for internal, external and student users 
+Procedures outlined in this section should be read in conjunction with 
+G/8.2
+G/8.3
+and
+G/8.4
+which
+  define and outline the policy for external, internal and student user charging
+respectively.
+The Executive Director, Finance and Resource Planning, is responsible for
+  recommending to the Vice-Chancellor any proposals for external, internal and
+  student user charging. Such recommendation will be contingent upon the proper
+  process for establishment of new charges being undertaken by the responsible
+  organisational area, according to the guidelines outlined in this policy.
+Prior to submission to Vice-Chancellor's Advisory Committee and the Vice-Chancellor,
+  the Department of Planning and Budget (Division of Finance and Resource Planning) will
+  review the user charging proposal and provide comment and recommendations.
+The Department of Planning and Budget will examine each proposed user charge in line
+  with the requirements outlined in the policy.
+Where the Executive Director, Finance and Resource Planning, endorses a proposed
+  user charge, the Executive Director will submit the user charging proposal
+  to the Vice-Chancellor for approval, after consideration by Vice-Chancellor's
+  Advisory Committee. Following this, the revised Register of User Charges is
+  submitted to Planning and Resources Committee for information.
+Following approval by the Vice-Chancellor the Department of Planning and Budget will
+  update the Register of User Charges and ensure an updated copy is readily available
+  to all interested internal, student and external parties.
+Faculties and divisions can submit a request for a new user charge or an amendment
+  to a current user charge to the Executive Director, Finance and Resource Planning.
+  These requests for a new or amended charge should be submitted as part of the
+  annual review process. 
+Submissions outside of the annual review process
+  should only occur in exceptional circumstances.
+All user charging proposals must be submitted with a completed user charging
+proforma template attached.
+Top 
+8.1.9 Annual review of user charges 
+Each year the University undertakes a complete review of the Register of User
+  Charges for external, internal and student charges. The purpose of this review
+  is for faculties and divisions to identify current user charges which require
+  amendment, current user charges which are to be deleted, and any proposed new
+user charges. Explanations of these categories are provided as follows:
+Current user charges which require amendment: due to changes in the scope
+    or pricing rationale of a charge, or minor changes to unit name and responsibility
+    centre details following organisational restructure. Amendments include annual
+    price increases due to CPI/EBA and are shown as a percentage increase over
+    the previous years' charge.
+Current user charges to be deleted: charges may need to be deleted where
+    the charge is deemed to be no longer relevant to the scope of an organisational
+    area, where organisational change has resulted in a major restructure of
+    charging categories, where an organisational area's base funding has been
+    adjusted to include funding for the provision of these goods or services,
+    or where a decrease in demand has resulted in the cost of administration
+    exceeding any efficiency gains.
+Proposed new user charges: where new charges to be added to the Register
+    are identified.
+The Division of Finance and Resource Planning is responsible for coordinating
+  the annual review of user charges. The review process requires the Division
+  of Finance and Resource Planning to provide each faculty and division with:
+A summary of its current external, internal, and student user charges
+A standard user charging proforma template into which all user charging
+    amendments, deletions and proposed new charges must be entered.
+Faculties and divisions are then required to review their external, internal,
+  and student user charges and submit their completed proforma templates, detailing
+  amendments, deletions and any proposed new user charges, to the Division of
+  Finance and Resource Planning. Submitted templates must include details of
+  amended, deleted and new user charges. The user charging proforma template
+  is available on the 
+Finance
+  and Resource Planning
+website.
+For each user charge, or group of user charges (see G/8.1.7 above), offered
+  on a Category B basis (see G/8.1.4(	b) above), an Income Statement disclosing the net operating result for the previous year, is to be provided
+  at each annual review.
+A rationale must be provided for all new user charges. A rationale is also
+  required for amended user charges where there has been a change in the scope
+  or pricing structure of the charge (see G/8.1.3 above) .
+The Department of Planning and Budget will collate all responses and review the faculty
+  and division submissions in accordance with the provisions outlined in this
+  policy. Where clarification or further information is required, the Department of Planning and Budget will contact the relevant organisational area as necessary.
+The Department of Planning and Budget will then provide a summary report of the amended,
+  deleted and proposed new user charges to the Executive Director, Finance and
+  Resource Planning, providing comments and recommendations where necessary.
+  The summary report will then be provided to Vice-Chancellor's Advisory Committee
+  and the Vice-Chancellor for approval.
+Following approval, the Department of Planning and Budget will place an updated copy
+  of the Register of User Charges on the Division of Finance and Resource Planning's
+  web site, ensuring that this updated copy is readily available to all interested
+  parties.
+Top 
+Related Documents 
+MOPP G/8.2 External User Charging Policy
+MOPP G/8.3 Internal User Charging Policy
+MOPP G/8.4 Student User Charging policy
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+   17.02.11
+   All
+   Director, Planning and Budget, Finance and Resource Planning
+   Periodic review - Minor editorial changes only
+06.10.05
+All
+Vice-Chancellor
+Revised policy (endorsed by Vice-Chancellor's Advisory Committee 25.05.05)
+31.05.03
+All
+Acting Executive Director, Finance and Resource Planning
+Updated
+20.07.98
+G/8.1
+Vice-Chancellor
+Revised user charging policy (endorsed by Planning and Resources Committee 
+      25.3.98)
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 16-Feb-2011
+    Contact us | Feedback | Disclaimer

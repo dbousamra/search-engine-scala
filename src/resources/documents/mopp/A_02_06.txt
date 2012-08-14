@@ -1,0 +1,129 @@
+QUT | MOPP | A/2.6 Internal control policy
+            QUT&nbsp;Home
+          Contact&nbsp;us
+          Search
+      MOPP Home
+      Protocol for MOPP Policy
+      Recent Updates
+      A/2.6 Internal control policy
+Chapters
+A - Governance/Organisation
+B - Human Resources
+C - Learning/Teaching
+D - Research/Development
+E - Student Administration
+F - Information Management
+G - Financial Management
+H - Physical Facilities
+I - International/Community
+MOPP Appendices
+MOPP Protocol
+MOPP Updates
+[Print-friendly version]
+Contact OfficerDirector, Assurance and Risk Management Services 
+Approval Date23/02/2009 
+Approval AuthorityCouncil 
+Date of Next Review01/01/2012 
+2.6.1 Policy principles 
+2.6.2 Definitions
+2.6.3 Roles and responsibilities
+  2.6.4 Components of internal control
+  2.6.5 Limitations of internal control 
+  Related Documents 
+  Modification History 
+2.6.1 Policy principles 
+QUT is committed to establishing a cost-effective internal control structure with the objective of
+  managing the operations of the University in a manner which provides the QUT Council reasonable assurance
+that:
+  the  University's plans (QUT Blueprint, top level plans, faculty / division /  institute plans, functional plans), and the objectives and goals contained  therein, are achieved; 
+the University's resources (including its people, systems, data  / information bases and customer goodwill) are acquired economically, employed  efficiently and adequately protected; 
+quality business processes and continuous improvement are emphasised;
+the actions of all University officers (including members of QUT  Council, senior management and staff) are in compliance with the University's  policies, standards, plans and procedures, and all relevant laws and  regulations; and
+data  and information published either internally or externally is accurate, reliable  and timely.
+Top 
+2.6.2 Definitions 
+' Control' is any  action taken by QUT Council, management, and other parties or officers to manage risk and increase the likelihood that established objectives and goals will be  achieved. This includes planning, organising and directing the  performance of sufficient actions to provide reasonable assurance that objectives  and goals will be achieved. Controls may be preventive (to deter undesirable events from occurring), detective (to detect and correct undesirable  events that have occurred), or directive (to cause or encourage a desirable event to occur). The concept of a system of  control is the integrated collection of control components and activities that  are used by an organisation to achieve its objectives and goals.
+Top 
+2.6.3 Roles and responsibilitiesa) Vice-Chancellor and University management
+The Vice-Chancellor is ultimately responsible for  the establishment of a cost-effective internal control structure for the  University in line with the requirements of the Financial and Performance Management Standard 2009 (Qld). However, the development and maintainance  of cost-effective internal controls is a management responsibility and an  integral component of the overall process of managing the operations of the  University. As such, it is the  responsibility of all managers at all levels of the University to: 
+  identify and evaluate the risk exposures which relate to their particular sphere of operations; 
+  specify and   establish policies, plans, operating procedures, systems and other disciplines to minimise, mitigate and/or limit the risks associated with       the exposures identified; 
+  establish practical cost-effective control processes that require and encourage all University officers to carry out their duties and responsibilities in a       manner that achieves the above objectives; and 
+  maintain  the effectiveness of the control processes that have been established and foster continuous improvement of these processes. 
+b) Audit and Risk Management Committee
+The Audit and Risk Management Committee (A/3.3) is responsible  for monitoring and overseeing the responsibilities of management, the internal audit  function and external audit, as these responsibilities relate to the  University's processes for controlling its operations and managing business risks.
+c) Assurance and Risk Management Services
+Assurance  and Risk Management Services, in accordance with the University's Assurance and  Risk Management Services Charter ( A/1.5 ), has responsibility for ascertaining that the control  processes throughout the University are operating in an effective manner.  Assurance and Risk Management Services is also responsible for reporting to  University management and Audit and Risk Management Committee on the adequacy  and effectiveness of the University's systems of internal control, together  with recommendations to improve the control processes.
+d) External audit
+The external audit process provides  assurances to Parliament on the stewardship (integrity, propriety, economy,  efficiency and operations) of the University. The Auditor-General, as  Parliament's external auditor, discharges these responsibilities principally  through certification of the University's financial statements. The  University's accounts are audited by the Auditor-General of Queensland in accordance with Section 30 of the Auditor-General  Act 2009 (Qld). Section 46 of the Auditor-General  Act 2009 (Qld) empowers the authorised auditor to have, at all  reasonable times, full and free access to all documents and property belonging  to the University. Members of the University community are responsible for  assisting with the satisfactory conduct of the audit as necessary and for  complying with the legislative requirements.Top 
+2.6.4 Components of internal control 
+There are five primary components of internal control:
+Control environment
+Risk assessment
+Control activities
+Information and communication
+Monitoring.
+a) Control environment
+The level of awareness of University officers,  and their actions and attitude towards the significance of control within the  University, affects the way in which people conduct their activities, assess  risk, carry out their control activities, and capture and communicate relevant  information. Establishing an appropriate control environment involves setting  standards for, and displaying human qualities such as integrity, ethical values  and diligence, as stated in the QUT Code of Conduct (
+B/8.1
+) and
+  other related policies.
+b) Risk assessment
+Risk assessment  represents the balance of the control environment with the risks and potential consequences associated
+  with business operations. An optimum level of control commensurate with risk is the objective resulting
+  in cost-effective internal control. This maximises efficiency while providing an adequate level of
+  security and control over business operations. QUT's risk management policy (
+A/2.5
+  and the detailed guidelines embodied in the 
+Risk
+  Management Framework
+provide guidance on the application of risk management processes.
+c) Control activities
+Control activities are the actions taken by QUT  Council and management to protect assets and address business risks. These  include appropriate approvals, checks on accuracy of data and adequate  segregation of incompatible duties such that no one person has complete control  over all aspects of a transaction. Within QUT these control activities are  embedded into University plans, policies, procedures, systems and business  processes, and their effectiveness relies on the level of compliance by management  and staff.
+d) Information and communication
+The effective and timely communication of management information to key officers of the University is essential for proper decision making. The dissemination of strategic goals, financial
+  and non-financial data, policies and procedures, management initiatives and responses to external changes
+  ensures effective performance. Therefore relevant internal and external information should be identified,
+  captured, and communicated in a timely manner and in appropriate forms.
+e) Monitoring
+Monitoring control processes on an ongoing basis  maintains quality systems by providing data on performance. This will highlight  any problem areas and allow early intervention and review to meet changing  circumstances or needs. Business systems need to be viewed as dynamic,  responding to changes and open to improvement and refinement. Within QUT a  range of mechanisms are used to monitor control processes, performance and  business risks, and examples include monitoring by Audit and Risk Management  Committee, internal audit functions of Assurance and Risk Management Services, and  external audits.
+Top 
+2.6.5 Limitations of internal control 
+It is acknowledged that because of its inherent  limitations, internal control can be designed and operated to provide only  reasonable assurance that the University&rsquo;s objectives and goals will be  achieved. Examples of inherent limitations include human judgement and errors,  manual and automated controls that can be circumvented by collusion, and inappropriate  overriding of internal controls by management.
+Top 
+Related Documents 
+MOPP A/1.1 QUT Corporate Governance Framework
+MOPP A/1.5 QUT Assurance and Risk Management Services Charter
+MOPPA/2.5 Risk management
+MOPP A/3.3 Audit and Risk Management Committee
+MOPP B/8.1 QUT Code of Conduct
+MOPP B/8.6 Corruption and fraud control policy
+QUT Risk Management Framework
+Business Continuity Management Framework
+Auditor-General Act 2009 (Qld)
+Financial Accountability Act 2009 (Qld)
+Financial and Performance Management Standard 2009 (Qld)
+Internal Control - Integrated Framework
+(known as "COSO" model)
+Top 
+Modification History 
+Date
+Sections
+Source
+Details
+   23.02.09
+   All
+  Director, Assurance and Risk Management Services
+  Revised policy (minor editorial changes only)
+14.12.05
+All
+Council
+New policy (endorsed by Audit and Risk Management Committee 02.11.05); replaces former policies
+        G/9.2, G/9.3 and G/9.4
+Top 
+    Chapter A | Chapter B | Chapter C | Chapter D | Chapter E | Chapter F | Chapter G | Chapter H | Chapter I | Appendices | Protocol for MOPP Policy | Recent Updates
+    QUT Home | MOPP Home
+    CRICOS No. 00213J
+    Privacy | Copyright | Accessibility
+    Last modified 12-May-2010
+    Contact us | Feedback | Disclaimer

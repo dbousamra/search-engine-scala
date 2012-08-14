@@ -6,13 +6,25 @@ import java.io.File
 import search.documents.Document
 import search.parsing.Parser
 
-class SearchManager {
+object SearchManager {
+  def apply(folder: File):SearchManager = {
+    val x = new SearchManager()
+    x.addFolderToIndex(folder)
+    x
+  }
+}
+
+case class SearchManager {
 
   private val _index: InvertedIndex = new InvertedIndex()
   private val ranker: SearchRanker = new SearchRanker(index)
   private val documentManager = new DocumentManager()
   private val parser = new Parser()
 
+  def SearchManager(folder: File) = {
+   this.addFolderToIndex(folder)
+  }
+  
   def addFileToIndex(filename: String): Document = {
     addFileToIndex(new File(filename))
   }
@@ -37,9 +49,9 @@ class SearchManager {
     index.getAllDocuments.find(d => d.name == document.name)
   }
 
-  def query(input: String) = {
+  def query(input: String):List[(Document, Double)] = {
     val queryable = parser.parse(input)
-    ranker.calcQueryScoreCombined(queryable)
+    ranker.calcQueryScoreCombined(queryable).filter(d => d._2 > 0.0)
   }
 
   def index = _index
