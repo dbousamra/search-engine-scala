@@ -90,7 +90,7 @@ class TestSearchRanker {
     index.addDocumentToIndex(document3);
     index.addDocumentToIndex(document4);
     val searchRanker = new SearchRanker(index);
-    assertEquals(2.0, searchRanker.calcQueryScore(List("scala"), document3), 0.1)
+    assertEquals(0.5, searchRanker.calcQueryScore(List("scala"), document3), 0.1)
     
   }
 

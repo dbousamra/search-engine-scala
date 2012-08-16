@@ -31,13 +31,13 @@ class SearchRanker(index: InvertedIndex) {
   def calcInverseDocumentFrequency(word: String) = {
     val occursInAll:Double = calcTermFrequencyInCorpus(word)
     val documentCount:Double = index.totalDocumentsIndexed
-    val idf =  Math.log10(documentCount / occursInAll)
+    val idf = 1 + Math.log10(documentCount / occursInAll)
     if (idf.isNaN()) 0.0 else idf
   }
 
   def calcTermFrequencyInDocument(word: String, document: Document) = {
     if (document.getWordCount(word) > 0) {
-      document.getWordCount(word).toDouble
+      document.getWordCount(word).toDouble / document.words.size.toDouble
     } else 0.0
   }
 
