@@ -81,16 +81,17 @@ class TestSearchRanker {
   def testIDFAgain() = {
     val index = new InvertedIndex();
     val documentManager = new DocumentManager();
-    val document1 = documentManager.parseFile(createTestData("Dom dom dom java java scala", "test1"))
-    val document2 = documentManager.parseFile(createTestData("dom dom java scala scala", "test2"))
-    val document3 = documentManager.parseFile(createTestData("java java java java java", "test3"))
-    val document4 = documentManager.parseFile(createTestData("abc edf", "test4"))
+    val document1 = documentManager.parseFile(createTestData("dom dom scala scala java", "test0"))
+    val document2 = documentManager.parseFile(createTestData("dom dom java java scala", "test1"))
+    val document3 = documentManager.parseFile(createTestData("scala scala scala scala", "test2"))
+    val document4 = documentManager.parseFile(createTestData("java java java java", "test3"))
     index.addDocumentToIndex(document1)
     index.addDocumentToIndex(document2);
     index.addDocumentToIndex(document3);
     index.addDocumentToIndex(document4);
     val searchRanker = new SearchRanker(index);
-    assertEquals(1.17609, searchRanker.calcInverseDocumentFrequency("edf"), 0.1);
+    assertEquals(2.0, searchRanker.calcQueryScore(List("scala"), document3), 0.1)
+    
   }
 
 }

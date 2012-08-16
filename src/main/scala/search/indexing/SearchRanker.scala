@@ -11,12 +11,20 @@ class SearchRanker(index: InvertedIndex) {
   }
   
   def calcQueryScore(query: List[String], document: Document):Double = {
-    query.map(tfTimesIdf(_, document)).reduce(_+_)
+    query.map{ word =>
+      val tfidf = tfTimesIdf(word, document)
+      tfidf / normalizeWithDocument(word, document)
+      }.reduce(_+_)
+  }
+  
+  def normalizeWithDocument(word: String, document: Document) = {
+    math.sqrt(document.words.foldLeft(0D)((accum, w) => accum + math.pow(calcInverseDocumentFrequency(w), 2)))
   }
 
   def tfTimesIdf(word: String, document: Document) = {
     val tf = calcTermFrequencyInDocument(word, document) 
     val idf = calcInverseDocumentFrequency(word)
+          println(document.name + " tf = " + tf + " idf = " + idf )
     tf * idf
   }
 
@@ -29,7 +37,7 @@ class SearchRanker(index: InvertedIndex) {
 
   def calcTermFrequencyInDocument(word: String, document: Document) = {
     if (document.getWordCount(word) > 0) {
-      document.getWordCount(word).toDouble /document.words.size.toDouble
+      document.getWordCount(word).toDouble
     } else 0.0
   }
 
