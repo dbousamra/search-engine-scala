@@ -23,7 +23,7 @@ class SearchRanker(index: InvertedIndex) {
   def calcInverseDocumentFrequency(word: String) = {
     val occursInAll:Double = calcTermFrequencyInCorpus(word)
     val documentCount:Double = index.totalDocumentsIndexed
-    val idf = 1 + Math.log10(documentCount / occursInAll)
+    val idf =  Math.log10(documentCount / occursInAll)
     if (idf.isNaN()) 0.0 else idf
   }
 

@@ -1,6 +1,9 @@
 package search.indexing
 
 import org.junit.Assert._
+import scalaz._
+import Scalaz._
+import effects._
 import org.junit.Test
 import search.managers.DocumentManager
 import java.io.File
@@ -27,7 +30,7 @@ class TestSearchRanker {
     assertEquals(0.0, searchRanker.calcTermFrequencyInDocument("is", document), 0.1)
     assertEquals(0.428, searchRanker.calcTermFrequencyInDocument("test", document), 0.1);
   }
-  
+
   @Test
   def testCalculateTermInDocumentFrequency2() = {
     val searchRanker = new SearchRanker(new InvertedIndex())
@@ -68,6 +71,26 @@ class TestSearchRanker {
     index.addDocumentToIndex(document);
     val searchRanker = new SearchRanker(index);
     assertEquals(0.42857, searchRanker.calcQueryScore(List("test"), document), 0.1);
+  }
+
+  private def createText(word: String, count: Int): List[String] = {
+    count times List(word)
+  }
+
+  @Test
+  def testIDFAgain() = {
+    val index = new InvertedIndex();
+    val documentManager = new DocumentManager();
+    val document1 = documentManager.parseFile(createTestData("Dom dom dom java java scala", "test1"))
+    val document2 = documentManager.parseFile(createTestData("dom dom java scala scala", "test2"))
+    val document3 = documentManager.parseFile(createTestData("java java java java java", "test3"))
+    val document4 = documentManager.parseFile(createTestData("abc edf", "test4"))
+    index.addDocumentToIndex(document1)
+    index.addDocumentToIndex(document2);
+    index.addDocumentToIndex(document3);
+    index.addDocumentToIndex(document4);
+    val searchRanker = new SearchRanker(index);
+    assertEquals(1.17609, searchRanker.calcInverseDocumentFrequency("edf"), 0.1);
   }
 
 }
