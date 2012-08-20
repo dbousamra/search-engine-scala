@@ -16,15 +16,19 @@ class TestSearchManagerOnMopp {
   @Test
   def testQuery() = {
     val queryResult = searchManager.query("supplementary")
-    println(queryResult)
     assertEquals(9, queryResult.length)
   }
   
+  
+  @Test
+  def testQueryGuild() = {
+    val queryResult = searchManager.query("guild")
+    assertEquals(24, queryResult.length)
+  }
   @Test
   def testQueryMultiple() = {
-    val queryResult = searchManager.query("guild supple")
-    println(queryResult)
-    assertEquals(9, queryResult.length)
+    val queryResult = searchManager.query("guild supplementary")
+    assertEquals(33, queryResult.length)
   }
   
 }

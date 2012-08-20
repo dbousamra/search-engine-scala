@@ -12,7 +12,13 @@ class DocumentManager {
   def parseFile(file: File): Document = {
     val words = parser.parse(file)
     incDocumentCount()
-    new Document(documentCount, file.getName(), file, words)
+    new Document(documentCount, Some(file.getName()), Some(file), words)
+  }
+  
+  def parseText(input: String): Document = {
+    val words = parser.parse(input)
+    incDocumentCount();
+    new Document(documentCount, None, None, words)
   }
   
   private def incDocumentCount() = _documentCount += 1

@@ -24,7 +24,7 @@ class TestDocument {
 
   @Test
   def testGetFile() = {
-    assertEquals("src/resources/documents/bible/Genesis.txt", document.file.getPath())
+    assertEquals("src/resources/documents/bible/Genesis.txt", document.file.get.getPath())
   }
 
   @Test

@@ -23,6 +23,10 @@ case class SearchManager {
 
   def SearchManager(folder: File) = {
    this.addFolderToIndex(folder)
+ }
+
+  def x(folder: File) = {
+    this.addFolderToIndex(folder)
   }
   
   def addFileToIndex(filename: String): Document = {
@@ -49,11 +53,11 @@ case class SearchManager {
     index.getAllDocuments.find(d => d.name == document.name)
   }
 
-  def query(input: String):List[(Document, Double)] = {
+  def query(input: String) = {
     val queryable = parser.parse(input)
-    ranker.calcQueryScoreCombined(queryable).filter(d => d._2 > 0.0)
+    ranker.query(queryable).filter(d => d.score > 0.0)
   }
-
+  
   def index = _index
 
 }

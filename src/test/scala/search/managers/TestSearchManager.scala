@@ -17,10 +17,8 @@ class TestSearchManager {
   }
 
   @Test
-  def testQuery() = {
-    searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
-    searchManager.addFileToIndex(new File("src/resources/documents/bible/Exodus.txt"))
-    assertEquals("Exodus.txt", searchManager.query("moses").head._1.file.getName())
+  def testQuery() = {    
+    assertEquals("Exodus.txt", searchManager.query("moses").head.document.file.get.getName())
   }
 
   @Test
@@ -30,6 +28,7 @@ class TestSearchManager {
 
   @Test
   def testQueryAll() = {
+    println(searchManager.query("moses jesus").mkString("\n"))
     assertTrue(true)
   }
   
