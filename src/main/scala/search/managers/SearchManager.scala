@@ -1,10 +1,14 @@
 package search.managers
 
+import java.io.File
+
+import scala.Array.canBuildFrom
+
+import search.documents.Document
 import search.indexing.InvertedIndex
 import search.indexing.SearchRanker
-import java.io.File
-import search.documents.Document
 import search.parsing.Parser
+import search.parsing.Parser.string2Iterator
 
 object SearchManager {
   def apply(folder: File):SearchManager = {
@@ -19,7 +23,6 @@ case class SearchManager {
   private val _index: InvertedIndex = new InvertedIndex()
   private val ranker: SearchRanker = new SearchRanker(index)
   private val documentManager = new DocumentManager()
-  private val parser = new Parser()
 
   def SearchManager(folder: File) = {
    this.addFolderToIndex(folder)
@@ -54,7 +57,7 @@ case class SearchManager {
   }
 
   def query(input: String) = {
-    val queryable = parser.parse(input)
+    val queryable = documentManager.parseText(input)
     ranker.query(queryable).filter(d => d.score > 0.0)
   }
   

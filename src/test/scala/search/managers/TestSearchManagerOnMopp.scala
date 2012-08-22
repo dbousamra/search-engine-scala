@@ -31,4 +31,9 @@ class TestSearchManagerOnMopp {
     assertEquals(33, queryResult.length)
   }
   
+  @Test
+  def quickTest() = {
+    val queryResult = searchManager.query("supplementary")
+    println(queryResult)
+  }
 }

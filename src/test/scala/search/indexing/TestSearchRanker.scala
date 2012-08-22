@@ -49,36 +49,5 @@ class TestSearchRanker {
     assertEquals(1.17609, searchRanker.idf("testey"), 0.1);
   }
 
-  @Test
-  def testCalculateScore() = {
-    val index = new InvertedIndex();
-    val file = createTestData("This is a test string. It is designed to test the search ranker. In this test",
-      "testCalculateTermFrequency");
-    val document = documentManager.parseFile(file);
-    index.addDocumentToIndex(document);
-    val searchRanker = new SearchRanker(index);
-    assertEquals(0.42857, searchRanker.query(List("test"), document).score, 0.1);
-  }
-
-  private def createText(word: String, count: Int): List[String] = {
-    count times List(word)
-  }
-
-  @Test
-  def testIDFAgain() = {
-    val index = new InvertedIndex();
-    val documentManager = new DocumentManager();
-    val document1 = documentManager.parseFile(createTestData("dom dom scala scala java", "test0"))
-    val document2 = documentManager.parseFile(createTestData("dom dom java java scala", "test1"))
-    val document3 = documentManager.parseFile(createTestData("scala scala scala scala", "test2"))
-    val document4 = documentManager.parseFile(createTestData("java java java java", "test3"))
-    index.addDocumentToIndex(document1)
-    index.addDocumentToIndex(document2);
-    index.addDocumentToIndex(document3);
-    index.addDocumentToIndex(document4);
-    val searchRanker = new SearchRanker(index);
-    assertEquals(0.5, searchRanker.query(List("scala"), document3).score, 0.1)
-    
-  }
 
 }

@@ -10,6 +10,7 @@ import search.parsing.Parser
 import scala.io.Source
 import java.io.File
 import java.util.Formatter
+import search.parsing.Parser._
 
 class Summarizer(source: String) {
 

@@ -7,8 +7,10 @@ import java.io.File
 import java.io.BufferedWriter
 import java.io.FileWriter
 import org.junit.rules.TemporaryFolder
+import search.parsing.Parser._
 
 class TestParser {
+  
 
   private val parser = new Parser()
 
