@@ -29,8 +29,8 @@ class Summarizer(source: String) {
       val words = parser.parse(sentence)
       val score = words.map { word => 
         val document = index.index.get(word)
-        val idf = searchRanker.idf(word)
-        idf
+//        val idf = searchRanker.idf(word)
+        0.0
       }.foldLeft(0.0)((r, a) => a + r)
       println(words + " " + score)
       (score, sentence)

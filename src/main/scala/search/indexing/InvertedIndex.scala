@@ -6,6 +6,7 @@ import search.documents.Document
 class InvertedIndex {
 
   val index = new LinkedHashMap[String, LinkedHashMap[Document, Int]]
+  val weights = calculateVectorSpaces(getAllDocuments)
   private var _totalDocumentsIndexed = 0
 
   def addDocumentToIndex(document: Document*) = {
@@ -21,7 +22,63 @@ class InvertedIndex {
       incrementTotalDocumentsIndexed()
     }
   }
-  
+
+  def calculateVectorSpaces(documents: List[Document]) = {
+    val map = new LinkedHashMap[Document, Double]
+    println(documents)
+    val x = documents.foreach { d =>
+      map.put(d, vectorWeights(d))
+    }
+    println(map)
+    map
+  }
+
+  def vectorWeights(document: Document) = {
+    val weights = index.map { word =>
+      math.pow(tfidf(word._1, document), 2)
+    }
+    math.sqrt(weights.sum)
+  }
+
+  def similarity(query: Document, document: Document) = {
+    dotProduct(query, document) / (vectorWeights(query) * weights.get(document).get)
+  }
+
+  /**
+   * http://c2.com/cgi/wiki?DotProductInManyProgrammingLanguages
+   */
+  private def dp[T <% Double](as: Iterable[T], bs: Iterable[T]) = {
+    require(as.size == bs.size)
+    (for ((a, b) <- as zip bs) yield a * b) sum
+  }
+
+  def dotProduct(query: Document, document: Document) = {
+    val queryTfidfs = index.map(word => tfidf(word._1, query))
+    val documentTfidfs = index.map(word => tfidf(word._1, document))
+    dp(queryTfidfs, documentTfidfs)
+  }
+
+  def normalize(word: String, document: Document) = {
+    math.sqrt(document.words.foldLeft(0D)((accum, w) => accum + math.pow(idf(w), 2)))
+  }
+
+  def tf(word: String, document: Document) = {
+    if (document.getWordCount(word) > 0)
+      document.getWordCount(word)
+    else 0.0
+  }
+
+  def idf(word: String) = {
+    val occursInAll: Double = index.get(word) match {
+      case Some(occurrence) => occurrence.size
+      case None => 0
+    }
+    val idf = math.log10(totalDocumentsIndexed / occursInAll)
+    if (idf.isNaN()) 0.0 else idf
+  }
+
+  def tfidf(word: String, document: Document) = tf(word, document) * idf(word)
+
   def getAllRelevantDocuments(words: List[String]) = {
     words.map(word => index.get(word).get.map(x => x._1).toList).flatten
   }
@@ -33,6 +90,6 @@ class InvertedIndex {
   def incrementTotalDocumentsIndexed() = _totalDocumentsIndexed += 1
 
   def totalDocumentsIndexed = _totalDocumentsIndexed
-  
+
   override def toString = index.mkString("\n")
 }

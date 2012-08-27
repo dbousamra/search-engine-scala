@@ -27,15 +27,15 @@ class TestSearchRanker {
     val searchRanker = new SearchRanker(new InvertedIndex())
     val file = createTestData("This is a test string. It is designed to test the search ranker. In this test", "testCalculateTermFrequency")
     val document = documentManager.parseFile(file)
-    assertEquals(0.0, searchRanker.tf("is", document), 0.1)
-    assertEquals(0.428, searchRanker.tf("test", document), 0.1);
+    assertEquals(0.0, searchRanker.index.tf("is", document), 0.1)
+    assertEquals(0.428, searchRanker.index.tf("test", document), 0.1);
   }
 
   @Test
   def testCalculateTermInDocumentFrequency2() = {
     val searchRanker = new SearchRanker(new InvertedIndex())
     val document = documentManager.parseFile(new File("src/resources/documents/bible/Genesis.txt"))
-    assertEquals(0.00007289161, searchRanker.tf("moses", document), 0.1);
+    assertEquals(0.00007289161, searchRanker.index.tf("moses", document), 0.1);
   }
 
   @Test
@@ -46,7 +46,7 @@ class TestSearchRanker {
     index.addDocumentToIndex(documentManager.parseFile(createTestData("Test data and another stuff", "test2")));
     index.addDocumentToIndex(documentManager.parseFile(createTestData("Testey test data and more stuff", "test3")));
     val searchRanker = new SearchRanker(index);
-    assertEquals(1.17609, searchRanker.idf("testey"), 0.1);
+    assertEquals(1.17609, searchRanker.index.idf("testey"), 0.1);
   }
 
 

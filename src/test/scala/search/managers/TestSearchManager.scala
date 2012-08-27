@@ -7,34 +7,21 @@ import org.junit.BeforeClass
 
 class TestSearchManager {
 
-  private val searchManager = SearchManager(new File("src/resources/documents/bible"))
-
-  @Test
-  def testAddFileToIndex() = {
-    println(searchManager.index.index)
-    val document = searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
-    assertEquals(99, searchManager.index.index.get("called").get(document))
-  }
+  private val searchManager = SearchManager(new File("src/resources/documents/bible/"))
+//  searchManager.addFileToIndex(new File("src/resources/documents/bible/Genesis.txt"))
+//  searchManager.addFileToIndex(new File("src/resources/documents/bible/Exodus.txt"))
+//  searchManager.addFileToIndex(new File("src/resources/documents/bible/Ezekiel.txt"))
 
   @Test
   def testQuery() = {
-    assertEquals("Exodus.txt", searchManager.query("moses").head.document.name)
+    println(searchManager.index.index)
+    val q = searchManager.query("moses")
+    println(q)
+    assertEquals("Exodus.txt", q.head.document.name)
   }
 
   @Test
   def testIndexAll() = {
     assertEquals(69, searchManager.index.getAllDocuments.length)
   }
-
-  @Test
-  def testQueryAll() = {
-//    println(searchManager.query("moses jesus").mkString("\n"))
-    assertTrue(true)
-  }
-
-  @Test
-  def testQueryAllTwoTerms() = {
-    assertTrue(true)
-  }
-
 }
