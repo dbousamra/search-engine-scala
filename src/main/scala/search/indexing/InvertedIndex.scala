@@ -6,7 +6,7 @@ import search.documents.Document
 class InvertedIndex {
 
   val index = new LinkedHashMap[String, LinkedHashMap[Document, Int]]
-  val weights = calculateVectorSpaces(getAllDocuments)
+  val weights = new LinkedHashMap[Document, Double]
   private var _totalDocumentsIndexed = 0
 
   def addDocumentToIndex(document: Document*) = {
@@ -21,27 +21,22 @@ class InvertedIndex {
       }
       incrementTotalDocumentsIndexed()
     }
+    document.foreach(calculateVectorSpaces(_))
   }
 
-  def calculateVectorSpaces(documents: List[Document]) = {
-    val map = new LinkedHashMap[Document, Double]
-    println(documents)
-    val x = documents.foreach { d =>
-      map.put(d, vectorWeights(d))
-    }
-    println(map)
-    map
+  def calculateVectorSpaces(document: Document) = {
+      weights.put(document, vectorWeights(document))
   }
 
+  def similarity(query: Document, document: Document) = {
+    dotProduct(query, document) / (vectorWeights(query) * weights.get(document).get)
+  }
+  
   def vectorWeights(document: Document) = {
     val weights = index.map { word =>
       math.pow(tfidf(word._1, document), 2)
     }
     math.sqrt(weights.sum)
-  }
-
-  def similarity(query: Document, document: Document) = {
-    dotProduct(query, document) / (vectorWeights(query) * weights.get(document).get)
   }
 
   /**

@@ -76,6 +76,8 @@ class TestSearchRanker2 {
   
   @Test
   def testSimilarity() = {
+    println(index.index)
+    println(index.weights)
     assertEquals(0.0801, searchRanker.index.similarity(query, doc1), 0.001)
     assertEquals(0.8246, searchRanker.index.similarity(query, doc2), 0.001)
     assertEquals(0.3271, searchRanker.index.similarity(query, doc3), 0.0011)
