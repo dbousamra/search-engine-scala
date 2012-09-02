@@ -13,12 +13,8 @@ class InvertedIndex {
   def addDocumentToIndex(document: Document*) = {
     document.foreach { d =>
       d.words.foreach { word =>
-        index.get(word) match {
-          case Some(x) => index.get(word).get.put(d, x.get(d).getOrElse(0) + 1)
-          case None => {
-            index.getOrElseUpdate(word, LinkedHashMap(d -> 1))
-          }
-        }
+        val x = index.getOrElseUpdate(word, LinkedHashMap(d -> 0))
+        x.put(d, x.get(d).getOrElse(0) + 1)
       }
       incrementTotalDocumentsIndexed()
     }
