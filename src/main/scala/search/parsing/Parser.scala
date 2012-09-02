@@ -16,9 +16,9 @@ object Parser {
 class Parser {
 
   private val STOP_WORDS = "src/resources/stopWords.txt";
-  private val stopWords: List[String] = parseStopWords(STOP_WORDS)
+  private val stopWords: Set[String] = parseStopWords(STOP_WORDS)
 
-  def parseStopWords(path: String) = Source.fromFile(new File(path)).getLines().toList
+  def parseStopWords(path: String) = Source.fromFile(new File(path)).getLines().toSet
  
   def parse(input: Iterator[String], removeStopWords: Boolean = true): List[String] = {
     input.map { x =>
