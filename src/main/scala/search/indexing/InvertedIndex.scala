@@ -29,13 +29,21 @@ class InvertedIndex {
   }
 
   def similarity(query: Document, document: Document) = {
-    dotProduct(query, document) / (vectorWeights(query) * weights.get(document).get)
+    val queryTfidfs = index.map(word => tfidf(word._1, query)).toList
+    dotProduct2(queryTfidfs, document) / (vectorWeights2(queryTfidfs) * weights.get(document).get)
 //    dotProduct(query, document) / (vectorWeights(query) * vectorWeights(document))
   }
   
   def vectorWeights(document: Document) = {
     val weights = index.map { word =>
       math.pow(tfidf(word._1, document), 2)
+    }
+    math.sqrt(weights.sum)
+  }
+
+  def vectorWeights2(l: Iterable[Double]) = {
+    val weights = l.map { d =>
+      math.pow(d, 2)
     }
     math.sqrt(weights.sum)
   }
@@ -50,6 +58,11 @@ class InvertedIndex {
 
   def dotProduct(query: Document, document: Document) = {
     val queryTfidfs = index.map(word => tfidf(word._1, query))
+    val documentTfidfs = index.map(word => tfidf(word._1, document))
+    dp(queryTfidfs, documentTfidfs)
+  }
+
+  def dotProduct2(queryTfidfs: Iterable[Double], document: Document) = {
     val documentTfidfs = index.map(word => tfidf(word._1, document))
     dp(queryTfidfs, documentTfidfs)
   }
