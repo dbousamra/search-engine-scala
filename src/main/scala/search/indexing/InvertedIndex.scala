@@ -7,6 +7,7 @@ class InvertedIndex {
 
   val index = new LinkedHashMap[String, LinkedHashMap[Document, Int]]
   val weights = new LinkedHashMap[Document, Double]
+  val names = collection.mutable.HashMap[String, Document]()
   private var _totalDocumentsIndexed = 0
 
   def addDocumentToIndex(document: Document*) = {
@@ -21,7 +22,10 @@ class InvertedIndex {
       }
       incrementTotalDocumentsIndexed()
     }
-    document.foreach(calculateVectorSpaces(_))
+    for (doc <- document) {
+      calculateVectorSpaces(doc)
+      names += doc.name -> doc
+    }
   }
 
   def calculateVectorSpaces(document: Document) = {
@@ -78,6 +82,8 @@ class InvertedIndex {
   def getAllRelevantDocuments(words: List[String]) = {
     words.map(word => index.get(word).get.map(x => x._1).toList).flatten
   }
+
+  def containsDocument(name: String) = names.get(name)
 
   def getAllDocuments = {
     index.map(x => x._2.keys).flatten.toList.distinct

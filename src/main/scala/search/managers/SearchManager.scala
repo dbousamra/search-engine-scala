@@ -54,7 +54,7 @@ case class SearchManager {
   }
 
   def doesDocumentAlreadyExist(document: Document): Option[Document] = {
-    index.getAllDocuments.find(d => d.name == document.name)
+    index.containsDocument(document.name)
   }
 
   def query(input: String) = {
