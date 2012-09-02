@@ -37,6 +37,7 @@ case class SearchManager {
   }
 
   def addFileToIndex(file: File): Document = {
+    println("Adding file " + file.getName())
     val document = documentManager.parseFile(file)
     doesDocumentAlreadyExist(document) match {
       case Some(docFound) => docFound

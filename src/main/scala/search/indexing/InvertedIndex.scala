@@ -30,6 +30,7 @@ class InvertedIndex {
 
   def similarity(query: Document, document: Document) = {
     dotProduct(query, document) / (vectorWeights(query) * weights.get(document).get)
+//    dotProduct(query, document) / (vectorWeights(query) * vectorWeights(document))
   }
   
   def vectorWeights(document: Document) = {
