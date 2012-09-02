@@ -59,8 +59,8 @@ class InvertedIndex {
   }
 
   def tf(word: String, document: Document) = {
-    if (document.getWordCount(word) > 0)
-      document.getWordCount(word)
+    val count = document.getWordCount(word)
+    if (count > 0) count
     else 0.0
   }
 
