@@ -18,11 +18,6 @@ class TestDocument {
   }
 
   @Test
-  def testGetId() = {
-    assertEquals(documentManager.documentCount, document.id)
-  }
-
-  @Test
   def testGetFile() = {
     assertEquals("src/resources/documents/bible/Genesis.txt", document.file.get.getPath())
   }

@@ -2,7 +2,7 @@ package search.documents
 
 import java.io.File
 
-class Document(val id: Int, val _name: Option[String], val file: Option[File], val words: List[String]) {
+class Document(val _name: Option[String], val file: Option[File], val words: List[String]) {
 
   def getWordCount(word: String) = counts.getOrElse(word, 0)
 

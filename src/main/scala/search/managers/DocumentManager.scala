@@ -8,22 +8,17 @@ import search.parsing.Parser._
 
 class DocumentManager {
   
-  private var _documentCount = 0
   private val parser = new Parser()
 
   def parseFile(file: File, removeStopWords: Boolean = true): Document = {
     val words = parser.parse(file, removeStopWords)
-    incDocumentCount()
-    new Document(documentCount, Some(file.getName()), Some(file), words)
+    new Document(Some(file.getName()), Some(file), words)
   }
   
   def parseText(input: String, removeStopWords: Boolean = true): Document = {
     val words = parser.parse(input, removeStopWords)
-    incDocumentCount();
-    new Document(documentCount, None, None, words)
+    new Document(None, None, words)
   }
   
-  private def incDocumentCount() = _documentCount += 1
   
-  def documentCount = _documentCount
 }

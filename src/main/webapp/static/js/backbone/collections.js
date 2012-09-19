@@ -1,7 +1,7 @@
 $(function() {
 
-	window.Tweets = Backbone.Collection.extend({
-        model: Tweet
+	window.Results = Backbone.Collection.extend({
+        model: Result
     });
 
 });

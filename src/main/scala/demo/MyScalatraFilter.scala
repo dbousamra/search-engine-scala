@@ -15,14 +15,13 @@ class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
   private val searchManager = SearchManager(new File("src/resources/documents/mopp"))
 
   get("/") {
-    //    val result = searchManager.query("supplementary")
-
     scaml("home")
   }
 
-  get("/persons") {
-    val persons = List(Person("Dom", 22), Person("Bob", 43))
-    val json = ("persons" -> persons.map { p => (("name" -> p.name) ~ ("age" -> p.age)) })
+  get("/search") {
+    val queryString = params("query")
+    val results = searchManager.query(queryString)
+    val json = ("results" -> results.map { p => (("name" -> p.document._name) ~ ("score" -> p.score)) })
     compact(render(json))
   }
 

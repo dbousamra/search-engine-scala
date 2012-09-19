@@ -3,7 +3,7 @@ $(function() {
       evaluate : /\{\[([\s\S]+?)\]\}/g,
       interpolate : /\{\{([\s\S]+?)\}\}/g
 	};
-	window.Tweet = Backbone.Model.extend({
+	window.Result = Backbone.Model.extend({
     });
 
 });

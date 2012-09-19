@@ -5,15 +5,14 @@ $(function() {
 		search_twitter: function(e) {
 			e.preventDefault();
 			var self = this;
-			$.getJSON("http://search.twitter.com/search.json?callback=?",{
-				q: $("#q").val()
+			$.getJSON("http://localhost:8080/search",{
+				query: $("#q").val()
 			}, function(data) {
-				$("#tweets li").fadeOut();
+				$("#results li").fadeOut();
 				for(var i in data.results) {
-					var tweet = new Tweet(data.results[i]);
-					console.log(data.results[i]);
-					var tweetView = new TweetView({model: tweet});
-					tweetView.render();
+					var result = new Result(data.results[i]);
+					var resultView = new ResultView({model: result});
+					resultView.render();
 				}
 			});
 		},
@@ -22,10 +21,10 @@ $(function() {
 		}
     });
 
-	window.TweetView = Backbone.View.extend({
+	window.ResultView = Backbone.View.extend({
 		render: function() {
-			var tweet = _.template( $("#tweet_template").html(), this.model.toJSON());
-			$("#tweets").append(tweet);
+			var result = _.template( $("#result_template").html(), this.model.toJSON());
+			$("#results").append(result);
 			
 		}
 	});

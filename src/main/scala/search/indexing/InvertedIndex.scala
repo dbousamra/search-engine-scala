@@ -76,7 +76,7 @@ class InvertedIndex {
   def tfidf(word: String, document: Document) = tf(word, document) * idf(word)
 
   def getAllRelevantDocuments(words: List[String]) = {
-    words.map(word => index.get(word).get.map(x => x._1).toList).flatten
+    words.map(word => index.get(word).getOrElse(Nil).map(x => x._1).toList).flatten
   }
 
   def containsDocument(name: String) = names.get(name)

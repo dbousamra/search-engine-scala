@@ -12,6 +12,7 @@ classpathTypes ~= (_ + "orbit")
 
 libraryDependencies ++= Seq(
   "net.liftweb" %% "lift-json" % "2.4",
+  "net.sf.opencsv" % "opencsv" % "2.0",
   "junit" % "junit" % "4.8.1" % "test",
   "org.scalatest" %% "scalatest" % "1.8" % "test",
   "org.scalaz" %% "scalaz-core" % "6.0.4",
