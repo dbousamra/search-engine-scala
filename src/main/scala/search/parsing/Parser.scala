@@ -3,6 +3,7 @@ package search.parsing
 import scala.io.Source
 import java.io.File
 import java.util.Locale
+import java.io.InputStream
 
 object Parser {
   implicit def file2Iterator(file: File) = {
@@ -15,10 +16,10 @@ object Parser {
 
 class Parser {
 
-  private val STOP_WORDS = "src/resources/stopWords.txt";
-  private val stopWords: Set[String] = parseStopWords(STOP_WORDS)
+  private val STOP_WORDS = "search/parsing/stopWords.txt";
+  private val stopWords: Set[String] = parseStopWords(getClass.getClassLoader.getResourceAsStream(STOP_WORDS))
 
-  def parseStopWords(path: String) = Source.fromFile(new File(path)).getLines().toSet
+  def parseStopWords(stream: InputStream) = Source.fromInputStream(stream).getLines().toSet
  
   def parse(input: Iterator[String], removeStopWords: Boolean = true): List[String] = {
     input.map { x =>

@@ -1,0 +1,45 @@
+-@ val title: String = "National Archives of Australia Search"
+-@ val headline: String = title
+-@ val body: String
+
+!!!
+%html
+  %head
+    %title= title
+    %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css")
+    %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap-responsive.min.css")
+    %script(type="text/javascript" src="/static/js/jquery-1.7.2.min.js")
+    %script(type="text/javascript" src="/static/js/bootstrap.min.js")
+    %script(type="text/javascript" src="/static/js/underscore.js")
+    %script(type="text/javascript" src="/static/js/backbone.js")
+
+    %script(type="text/javascript" src="/static/js/backbone/models.js")
+    %script(type="text/javascript" src="/static/js/backbone/collections.js")
+    %script(type="text/javascript" src="/static/js/backbone/views.js")
+    %script(type="text/javascript" src="/static/js/backbone/router.js")
+
+  %body(style="padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */")
+    %div.container
+      %form#search_form(method="POST" action="")
+        %div.input-append(style="text-align: center;")
+          %input.span3#appendedInputButton(size="16" name="q" id="q" type="text")
+          %button.btn.btn-primary#button(type="submit")
+            Search
+
+      %hr
+
+      %ul#tweets
+
+      %script(type="text/template" id="tweet_template")
+        %li(id="t_{{id}}")
+          %h3
+            %img(src="{{ profile_image_url }}" width="45")
+            %div
+              %a(href="http://twitter.com/{{from_user}}")
+                {{from_user}}
+              %p
+                {{text}}
+
+      != body
+
+      %hr

@@ -36,7 +36,8 @@ class TestSearchManagerOnMopp {
   @Test
   def testQueryMultiple() = {
     val queryResult = TestSearchManagerOnMopp.searchManager.query("qut")
-    assertEquals(33, queryResult.length)
+    println(queryResult)
+    assertEquals(291, queryResult.length)
   }
   
   @Test

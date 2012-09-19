@@ -69,7 +69,7 @@ class InvertedIndex {
       case Some(occurrence) => occurrence.size
       case None => 0
     }
-    val idf = math.log10(totalDocumentsIndexed / occursInAll)
+    val idf = 1.0 + math.log10(totalDocumentsIndexed / occursInAll)
     if (idf.isNaN()) 0.0 else idf
   }
 
