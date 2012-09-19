@@ -73,7 +73,10 @@ class InvertedIndex {
     if (idf.isNaN()) 0.0 else idf
   }
 
-  def tfidf(word: String, document: Document) = tf(word, document) * idf(word)
+  def tfidf(word: String, document: Document) = {
+    val tfw = tf(word, document)
+    if (tfw == 0) 0 else tfw * idf(word)
+  }
 
   def getAllRelevantDocuments(words: List[String]) = {
     words.map(word => index.get(word).getOrElse(Nil).map(x => x._1).toList).flatten
