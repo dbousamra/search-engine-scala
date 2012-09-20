@@ -6,13 +6,19 @@ import search.managers.SearchManager
 import java.io.File
 import net.liftweb.json.JsonDSL._
 import net.liftweb.json._
+import search.documents.MockDocumentManager
+import search.documents.MockDocument
+import search.documents.NationalArchiveDocument
+import search.documents.NationalArchiveDocumentManager
 
 case class Person(name: String, age: Int)
 
 class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
 
   override implicit val contentType = "text/html"
-  private val searchManager = SearchManager(new File("src/resources/documents/mopp"))
+  private val searchManager = new SearchManager[NationalArchiveDocument]()
+  private val documentManager = new NationalArchiveDocumentManager()
+  searchManager.addToIndex(documentManager.parse("src/resources/PhotoMetaData.csv"))
 
   get("/") {
     scaml("home")
@@ -21,7 +27,7 @@ class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
   get("/search") {
     val queryString = params("query")
     val results = searchManager.query(queryString)
-    val json = ("results" -> results.map { p => (("name" -> p.document._name) ~ ("score" -> p.score)) })
+    val json = ("results" -> results.map { p => (("name" -> p.document.barcode) ~ ("score" -> p.score)) })
     compact(render(json))
   }
 

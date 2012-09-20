@@ -1,20 +1,18 @@
 package search.indexing
 
-import scala.collection.mutable.LinkedHashMap
-import search.documents.Timer
 import search.documents.Document
-import search.managers.DocumentManager
 import search.result.Result
+import search.documents.QueryDocument
 
-class SearchRanker(val index: InvertedIndex) {
+class SearchRanker[T <: Document](val index: InvertedIndex[T]) {
 
-  def query(inputQuery: Document): List[Result] = {
+  def query(inputQuery: QueryDocument): List[Result[T]] = {
     val documents = index.getAllRelevantDocuments(inputQuery.words)
     documents.map(doc => query(inputQuery, doc)).sortBy(_.score).reverse
   }
 
-  def query(query: Document, document: Document): Result = {
+  def query(query: QueryDocument, document: T): Result[T] = {
       val score = index.similarity(query, document)
-      new Result(document, score)
+      new Result[T](document, score)
   }
 }

@@ -1,8 +1,6 @@
 package search.documents
 
-import java.io.File
-
-class Document(val _name: Option[String], val file: Option[File], val words: List[String]) {
+abstract class Document(val words: List[String]) {
 
   def getWordCount(word: String) = counts.getOrElse(word, 0)
 
@@ -10,10 +8,4 @@ class Document(val _name: Option[String], val file: Option[File], val words: Lis
     (map, word) => map += word -> (map.getOrElse(word, 0) + 1)
   }
 
-  val name = file match {
-    case Some(file) => file.getName()
-    case None => _name.getOrElse("Untitled")
-  }
-  
-  override def toString = name
 }

@@ -2,19 +2,22 @@ package search.indexing
 
 import org.junit.Assert._
 import org.junit.Test
-import search.managers.DocumentManager
 import org.junit.Before
+import search.documents.MockDocumentManager
+import search.documents.MockDocument
+import search.documents.QueryDocumentManager
+import search.documents.QueryDocumentManager
 
 class TestSearchRanker2 {
 
   //based on http://www.miislita.com/term-vector/term-vector-3.html
 
-  val documentManager = new DocumentManager
-  val query = documentManager.parseText("gold silver truck", false)
+  val documentManager = new MockDocumentManager
+  val query = new QueryDocumentManager().parseText("gold silver truck", false)
   val doc1 = documentManager.parseText("Shipment of gold damaged in a fire", false)
   val doc2 = documentManager.parseText("Delivery of silver arrived in a silver truck", false)
   val doc3 = documentManager.parseText("Shipment of gold arrived in a truck", false)
-  val index = new InvertedIndex
+  val index = new InvertedIndex[MockDocument]
   index.addDocumentToIndex(doc1, doc2, doc3)
   val searchRanker = new SearchRanker(index)
 

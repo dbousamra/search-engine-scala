@@ -6,15 +6,13 @@ import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Test
 
-import search.managers.DocumentManager
-
 class TestDocument {
 
-  private val documentManager = new DocumentManager()
+  private val documentManager = new MockDocumentManager()
   private val document = getTestDocument();
 
   private def getTestDocument() = {
-    documentManager.parseFile(new File("src/resources/documents/bible/Genesis.txt"))
+    documentManager.parse(new File("src/resources/documents/bible/Genesis.txt"))
   }
 
   @Test
