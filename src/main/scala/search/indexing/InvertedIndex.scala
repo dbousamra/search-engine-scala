@@ -4,11 +4,14 @@ import scala.collection.mutable.LinkedHashMap
 import search.documents.Document
 import search.documents.MockDocument
 import search.documents.QueryDocument
+import scala.collection.mutable.ArrayBuffer
 
 class InvertedIndex[T <: Document] {
 
+  // val documents = new List
   val index = new LinkedHashMap[String, LinkedHashMap[T, Int]]
   val weights = new LinkedHashMap[T, Double]
+  val names = new ArrayBuffer[T]()
   private var _totalDocumentsIndexed = 0
 
   def addDocumentToIndex(document: T*) = {
@@ -21,6 +24,7 @@ class InvertedIndex[T <: Document] {
     }
     for (doc <- document) {
       calculateVectorSpaces(doc)
+      names += (doc)
     }
   }
 
@@ -82,13 +86,7 @@ class InvertedIndex[T <: Document] {
     words.map(word => index.get(word).getOrElse(Nil).map(x => x._1).toList).flatten
   }
 
-  def containsDocument(document: T):Option[T] = {
-    if (getAllDocuments.contains(document)) Some(document) else None
-  }
-
-  def getAllDocuments: List[T] = {
-    index.map(x => x._2.keys).flatten.toList.distinct
-  }
+  def containsDocument(document: T) = names.contains(document)
 
   def incrementTotalDocumentsIndexed() = _totalDocumentsIndexed += 1
 

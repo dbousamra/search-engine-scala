@@ -11,6 +11,10 @@ class SearchRanker[T <: Document](val index: InvertedIndex[T]) {
     documents.map(doc => query(inputQuery, doc)).sortBy(_.score).reverse
   }
 
+  def queryer(input: String) = {
+  	List(1,2,3).reduce(_+_)
+  }
+
   def query(query: QueryDocument, document: T): Result[T] = {
       val score = index.similarity(query, document)
       new Result[T](document, score)

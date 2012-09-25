@@ -12,29 +12,39 @@
     %script(type="text/javascript" src="/static/js/bootstrap.min.js")
     %script(type="text/javascript" src="/static/js/underscore.js")
     %script(type="text/javascript" src="/static/js/backbone.js")
+    %script(type="text/javascript" src="/static/js/mustache.js")
+    %script(type="text/javascript" src="/static/js/spin.js")
 
-    %script(type="text/javascript" src="/static/js/backbone/models.js")
-    %script(type="text/javascript" src="/static/js/backbone/collections.js")
-    %script(type="text/javascript" src="/static/js/backbone/views.js")
-    %script(type="text/javascript" src="/static/js/backbone/router.js")
+    / %script(type="text/javascript" src="/static/js/backbone/models.js")
+    / %script(type="text/javascript" src="/static/js/backbone/collections.js")
+    / %script(type="text/javascript" src="/static/js/backbone/views.js")
+    / %script(type="text/javascript" src="/static/js/backbone/router.js")
 
   %body(style="padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */")
     %div.container
-      %form#search_form(method="POST" action="")
-        %div.input-append(style="text-align: center;")
-          %input.span3#appendedInputButton(size="16" name="q" id="q" type="text")
-          %button.btn.btn-primary#button(type="submit")
+      %div.input-append(style="text-align: center;")
+        %div#create-search
+          %input.span3.appendedInputButton(size="16" id="search-query" type="text")
+          %button.btn.btn-primary#submit-search
             Search
+            %div#loading
 
       %hr
+      %h1
+        Results
+      %div#example_content
 
       %ul#results
 
-      %script(type="text/template" id="result_template")
-        %li
-          %h3
-            {{name}} and {{score}}
+      / %script(type="text/template" id="result_template")
+      /   %li
+      /     %h3
+      /       {{name}} and {{score}}
+
+      %div#result_template
 
       != body
 
       %hr
+
+    %script(type="text/javascript" src="/static/js/backbone/search.js")
