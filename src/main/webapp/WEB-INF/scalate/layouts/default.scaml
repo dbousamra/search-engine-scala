@@ -27,24 +27,13 @@
           %input.span3.appendedInputButton(size="16" id="search-query" type="text")
           %button.btn.btn-primary#submit-search
             Search
-            %div#loading
 
       %hr
-      %h1
-        Results
-      %div#example_content
-
+      
+      %div#loading
+      %div#result_content
+        
       %ul#results
-
-      / %script(type="text/template" id="result_template")
-      /   %li
-      /     %h3
-      /       {{name}} and {{score}}
-
-      %div#result_template
-
       != body
-
-      %hr
 
     %script(type="text/javascript" src="/static/js/backbone/search.js")
