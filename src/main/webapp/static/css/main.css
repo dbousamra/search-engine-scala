@@ -32,3 +32,8 @@ body {
 .centered {
 	margin: 0 auto;
 }
+
+.home-tile {
+	background: red;
+	/*display: none;*/
+}
