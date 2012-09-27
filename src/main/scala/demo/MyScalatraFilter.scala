@@ -27,7 +27,14 @@ class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
   get("/search") {
     val queryString = params("query")
     val results = searchManager.query(queryString)
-    val json = ("results" -> results.map { p => (("name" -> p.document.barcode) ~ ("score" -> p.score)) })
+    val json = ("results" -> results.map { 
+      p => (
+        ("barcode" -> p.document.barcode)
+      ~ ("description" -> p.document.description) 
+      ~ ("score" -> p.score)
+      ~ ("year" -> p.document.year) 
+      ~ ("smallImageURL" -> p.document.smallImageURL)
+      )})
     compact(render(json))
   }
 

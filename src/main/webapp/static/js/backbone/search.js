@@ -1,15 +1,9 @@
 var Result = Backbone.Model.extend({});
 
-var ResultView = Backbone.View.extend({
-  tagName : "li",
-  className : "tweet",
-  render: function() {
-    var template = this.template = '<li><h3>{{name}} {{score}}</h3></li>';
-    var htm = Mustache.to_html(this.template, this.model.toJSON());
-    $(this.el).html(htm);
-    return this;
-  }
- });
+_.templateSettings = {
+  evaluate : /\{\[([\s\S]+?)\]\}/g,
+  interpolate : /\{\{([\s\S]+?)\}\}/g
+};
 
 var Results = Backbone.Collection.extend({
   model : Result,
@@ -25,15 +19,16 @@ var Results = Backbone.Collection.extend({
 });
 
 var ResultsView = Backbone.View.extend({
-  tagName : "ul",
-  className : "results",
+  template : _.template($("#result_template").html()),
   render : function() {
     this.collection.each(function(result) {
-      var resultView = new ResultView({ 
-        model : result 
+      var $output = $(this.template(result.toJSON()));
+      var $container = $('#result_content');
+      $container.append($output).masonry('reload');
+      // $container.masonry( 'appended', $output );
+      $output.imagesLoaded( function(){
+        $container.masonry('reload')
       });
-      $(this.el).prepend(resultView.render().el);
-
     }, this);
     return this;
   }
@@ -64,6 +59,7 @@ var CreateSearchView = Backbone.View.extend({
 
     // create a view that will contain our results
     var resultsView = new ResultsView({
+      el : "#result_content",
       collection: results
     });
     $("#result_content").empty()
@@ -73,8 +69,17 @@ var CreateSearchView = Backbone.View.extend({
     // on a successful fetch, update the collection.
     results.fetch({
       success: function(collection) {
-        $('#result_content').html(resultsView.render().el);
+        resultsView.render();
         spinner.stop();
+        var $container = $('#result_content');
+
+        // $container.imagesLoaded( function(){
+        //   $container.masonry('reload')
+        // });
+      // $container.imagesLoaded( function(){
+      //   $container.append( $output ).masonry( 'appended', $output );
+      // });
+      
       }
     })
   }

@@ -1,3 +1,34 @@
 body { 
-    padding-top: 65px; 
+    /*padding-top: 65px; */
+    background-color: white;
+}
+
+.container {
+
+}
+
+.col3 img {
+	width: 198px;
+}
+
+.col3 {
+	background-color: white;
+	padding: 16px;
+	margin: 1px;
+	border: 1px solid #DEDEDE;
+	max-width: 198px;
+}
+
+.caption {
+	border-top: 1px solid #DEDEDE;
+	margin: 16px -16px 0px -16px;
+/*	margin-right: -16px;
+	margin-left: -16px;*/
+	/*padding-left: 16px;*/
+	padding: 16px;
+	padding-bottom: 0px;
+}
+
+.centered {
+	margin: 0 auto;
 }

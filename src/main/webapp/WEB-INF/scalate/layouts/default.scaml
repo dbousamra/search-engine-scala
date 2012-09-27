@@ -8,32 +8,43 @@
     %title= title
     %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css")
     %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap-responsive.min.css")
+    %link(rel="stylesheet" type="text/css" href="/static/css/main.css")
     %script(type="text/javascript" src="/static/js/jquery-1.7.2.min.js")
     %script(type="text/javascript" src="/static/js/bootstrap.min.js")
     %script(type="text/javascript" src="/static/js/underscore.js")
     %script(type="text/javascript" src="/static/js/backbone.js")
     %script(type="text/javascript" src="/static/js/mustache.js")
     %script(type="text/javascript" src="/static/js/spin.js")
+    %script(type="text/javascript" src="/static/js/jquery.masonry.min.js")
+    %script(type="text/javascript" src="/static/js/jquery.imagesloaded.min.js")
 
-    / %script(type="text/javascript" src="/static/js/backbone/models.js")
-    / %script(type="text/javascript" src="/static/js/backbone/collections.js")
-    / %script(type="text/javascript" src="/static/js/backbone/views.js")
-    / %script(type="text/javascript" src="/static/js/backbone/router.js")
 
-  %body(style="padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */")
+  %body
+
+    %div.navbar
+      %div.navbar-inner
+        %a.brand{:href => "#"}
+          National Archives Search
+
     %div.container
       %div.input-append(style="text-align: center;")
         %div#create-search
           %input.span3.appendedInputButton(size="16" id="search-query" type="text")
           %button.btn.btn-primary#submit-search
             Search
-
-      %hr
+      %br
       
       %div#loading
-      %div#result_content
-        
-      %ul#results
+      
+      %div.clearfix.centered#result_content
+
+      %script(type="text/template" id="result_template")
+        %div.box.col3
+          %img(src="{{ smallImageURL }}")
+          %div.caption(id = "{{ barcode }}" )
+            %small
+              {{ description }}
       != body
 
     %script(type="text/javascript" src="/static/js/backbone/search.js")
+    %script(type="text/javascript" src="/static/js/masonryloader.js")

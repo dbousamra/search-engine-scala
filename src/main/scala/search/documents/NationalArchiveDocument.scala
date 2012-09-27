@@ -8,7 +8,8 @@ import search.parsing.Parser._
 
 class NationalArchiveDocument(
     val barcode: String, 
-    title: List[String], 
+    title: List[String],
+    val description: String,
     val year: Int, 
     val location: String, 
     val largeImageURL: String, 
@@ -31,6 +32,7 @@ class NationalArchiveDocumentManager {
   def parseRow(row: Array[String]): NationalArchiveDocument = {
     new NationalArchiveDocument(
       barcode = row(0),
+      description = row(1),
       title = parser.parse(row(1)),
       year = row(2).toInt,
       location = row(3),
