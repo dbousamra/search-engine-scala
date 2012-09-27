@@ -62,7 +62,7 @@ var CreateSearchView = Backbone.View.extend({
       el : "#result_content",
       collection: results
     });
-    $("#result_content").empty()
+    $('#result_content .result').empty()
     var targetSpinner = document.getElementById('loading');
     
     var spinner = new Spinner({ top: '10px' }).spin(targetSpinner);
