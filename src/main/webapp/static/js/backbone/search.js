@@ -25,8 +25,10 @@ var ResultsView = Backbone.View.extend({
       var $output = $(this.template(result.toJSON()));
       var $container = $('#result_content');
       $container.append($output).masonry('reload');
-      // $container.masonry( 'appended', $output );
+      // var targetSpinner = document.getElementById(result.attributes.barcode);
+      // var spinner = new Spinner({ top: '10px' }).spin(targetSpinner);
       $output.imagesLoaded( function(){
+        // spinner.stop()
         $container.masonry('reload')
       });
     }, this);
@@ -57,12 +59,14 @@ var CreateSearchView = Backbone.View.extend({
       query: this.$('#search-query').val()
     });
 
+    $('#result_content .result').remove()
+
     // create a view that will contain our results
     var resultsView = new ResultsView({
       el : "#result_content",
       collection: results
     });
-    $('#result_content .result').empty()
+    
     var targetSpinner = document.getElementById('loading');
     
     var spinner = new Spinner({ top: '10px' }).spin(targetSpinner);
@@ -72,14 +76,6 @@ var CreateSearchView = Backbone.View.extend({
         resultsView.render();
         spinner.stop();
         var $container = $('#result_content');
-
-        // $container.imagesLoaded( function(){
-        //   $container.masonry('reload')
-        // });
-      // $container.imagesLoaded( function(){
-      //   $container.append( $output ).masonry( 'appended', $output );
-      // });
-      
       }
     })
   }

@@ -22,8 +22,8 @@ class TestSearchManager {
     assertEquals("Exodus.txt", q.head.document.name)
   }
 
-  @Test
-  def testIndexAll() = {
-    assertEquals(69, searchManager.index.getAllDocuments.length)
-  }
+//  @Test
+//  def testIndexAll() = {
+//    assertEquals(69, searchManager.index.getAllDocuments.length)
+//  }
 }

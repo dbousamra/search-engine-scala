@@ -27,23 +27,26 @@
           National Archives Search
 
     %div.container
-      %div.input-append(style="text-align: center;")
-        %div#create-search
-          %input.span3.appendedInputButton(size="16" id="search-query" type="text")
-          %button.btn.btn-primary#submit-search
-            Search
-      %br
       
       %div#loading
       
       %div.clearfix.centered#result_content
-        %div.box.col3.home-tile
-          %img(src="http://recordsearch.naa.gov.au/scripts/autosearch.asp?O=IMS2&S=1&Number=30922388")
+        %div.box.home-tile
+          %h4 National Archive Search
+          %p.lead(style="color: #666;") Search thousands of images throughout Australia's history
+          %div.input-append
+            %div#create-search
+              %input.input-mysize(id="search-query" type="text")
+              %button.btn.btn-primary#submit-search
+                Go!
 
       %script(type="text/template" id="result_template")
-        %div.box.col3.result
+        %div.box.result(id = "{{ barcode }}" )
           %img(src="{{ smallImageURL }}")
-          %div.caption(id = "{{ barcode }}" )
+          %div.caption  
+            %strong 
+              {{ year }}
+            %br
             %small
               {{ description }}
       != body

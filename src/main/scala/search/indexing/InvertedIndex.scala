@@ -8,7 +8,6 @@ import scala.collection.mutable.ArrayBuffer
 
 class InvertedIndex[T <: Document] {
 
-  // val documents = new List
   val index = new LinkedHashMap[String, LinkedHashMap[T, Int]]
   val weights = new LinkedHashMap[T, Double]
   val names = new ArrayBuffer[T]()

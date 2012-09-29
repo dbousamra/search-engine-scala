@@ -1,17 +1,16 @@
 body { 
-    /*padding-top: 65px; */
-    background-color: white;
+    background-color: #E4E4E4;
 }
 
 .container {
 
 }
 
-.col3 img {
+.box img {
 	width: 198px;
 }
 
-.col3 {
+.box {
 	background-color: white;
 	padding: 16px;
 	margin: 1px;
@@ -34,6 +33,10 @@ body {
 }
 
 .home-tile {
-	background: red;
+	width: 198px;
 	/*display: none;*/
+}
+
+.input-mysize { 
+	width: 120px 
 }

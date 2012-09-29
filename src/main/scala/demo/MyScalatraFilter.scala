@@ -6,8 +6,6 @@ import search.managers.SearchManager
 import java.io.File
 import net.liftweb.json.JsonDSL._
 import net.liftweb.json._
-import search.documents.MockDocumentManager
-import search.documents.MockDocument
 import search.documents.NationalArchiveDocument
 import search.documents.NationalArchiveDocumentManager
 
@@ -20,22 +18,26 @@ class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
   private val documentManager = new NationalArchiveDocumentManager()
   searchManager.addToIndex(documentManager.parse("src/resources/PhotoMetaData10000.csv"))
 
-  get("/") {
-    scaml("home")
-  }
+  // get("/") {
+  //   scaml("home")
+  // }
 
-  get("/search") {
-    val queryString = params("query")
-    val results = searchManager.query(queryString)
-    val json = ("results" -> results.map { 
-      p => (
-        ("barcode" -> p.document.barcode)
-      ~ ("description" -> p.document.description) 
-      ~ ("score" -> p.score)
-      ~ ("year" -> p.document.year) 
-      ~ ("smallImageURL" -> p.document.smallImageURL)
-      )})
-    compact(render(json))
+  // get("/search") {
+  //   val queryString = params("query")
+  //   val results = searchManager.query(queryString)
+  //   val json = ("results" -> results.map { 
+  //     p => (
+  //       ("barcode" -> p.document.barcode)
+  //     ~ ("description" -> p.document.description) 
+  //     ~ ("score" -> p.score)
+  //     ~ ("year" -> p.document.year) 
+  //     ~ ("smallImageURL" -> p.document.smallImageURL)
+  //     )})
+  //   compact(render(json))
+  // }
+
+  get ("/") {
+    <h1>Hello!</h1>
   }
 
   notFound {
