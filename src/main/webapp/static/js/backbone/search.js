@@ -24,12 +24,10 @@ var ResultsView = Backbone.View.extend({
     this.collection.each(function(result) {
       var $output = $(this.template(result.toJSON()));
       var $container = $('#result_content');
-      $container.append($output).masonry('reload');
-      // var targetSpinner = document.getElementById(result.attributes.barcode);
-      // var spinner = new Spinner({ top: '10px' }).spin(targetSpinner);
+      //$container.isotope( 'insert', $output )
+      $container.append( $output ).isotope( 'reloadItems' ).isotope({ sortBy: 'original-order' });
       $output.imagesLoaded( function(){
-        // spinner.stop()
-        $container.masonry('reload')
+        $container.isotope( 'reloadItems' ).isotope({ sortBy: 'original-order' });
       });
     }, this);
     return this;

@@ -11,6 +11,8 @@ seq(webSettings :_*)
 classpathTypes ~= (_ + "orbit")
 
 libraryDependencies ++= Seq(
+  "org.apache.lucene" % "lucene-core" % "3.6.1",
+  "xstream" % "xstream" % "1.2.2",          
   "net.liftweb" %% "lift-json" % "2.4",
   "net.sf.opencsv" % "opencsv" % "2.0",
   "junit" % "junit" % "4.8.1" % "test",

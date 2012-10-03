@@ -10,7 +10,6 @@ import org.junit.rules.TemporaryFolder
 import search.parsing.Parser._
 
 class TestParser {
-  
 
   private val parser = new Parser()
 
@@ -21,13 +20,13 @@ class TestParser {
     out.close()
     file
   }
-  
+
   @Test
   def testParser() = {
     val words = parser.parse(new File("src/resources/documents/bible/Genesis.txt"))
     assertFalse(words.isEmpty)
   }
-  
+
   @Test
   def testStopWords() = {
     val tempFile = createTestData("Hello this is a test document", "temp1")
@@ -35,6 +34,5 @@ class TestParser {
     assertFalse(Set("this", "is", "a") forall (words contains))
     assertTrue(Set("hello", "test", "document") forall (words contains))
   }
-  
 
 }

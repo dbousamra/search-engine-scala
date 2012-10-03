@@ -1,6 +1,6 @@
 var $container = $('#result_content');
 $container.imagesLoaded( function(){
-	$container.masonry({
+	$container.isotope({
 	  itemSelector : '.box',
 	  // isAnimated : true,
 	  isResizable : true
