@@ -9,7 +9,7 @@
     %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css")
     %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap-responsive.min.css")
     %link(rel="stylesheet" type="text/css" href="/static/css/main.css")
-    
+
     %script(type="text/javascript" src="/static/js/jquery-1.7.2.min.js")
     %script(type="text/javascript" src="/static/js/bootstrap.min.js")
     %script(type="text/javascript" src="/static/js/underscore.js")
@@ -42,7 +42,7 @@
                 Go!
 
       %script(type="text/template" id="result_template")
-        %div.box.result(id = "{{ barcode }}" )
+        %div(class="box result" id="{{ year }}")
           %img(src="{{ smallImageURL }}")
           %div.caption  
             %strong 
