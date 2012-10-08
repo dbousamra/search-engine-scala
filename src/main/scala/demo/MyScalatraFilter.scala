@@ -12,7 +12,7 @@ import search.managers.LuceneSearchManager
 
 case class Person(name: String, age: Int)
 
-class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
+class MyScalatraFilter extends ScalatraServlet with ScalateSupport {
 
   override implicit val contentType = "text/html"
   private val searchManager = new LuceneSearchManager[NationalArchiveDocument]()
@@ -33,22 +33,10 @@ class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
       ~ ("score" -> p.score)
       ~ ("year" -> p.document.year) 
       ~ ("smallImageURL" -> p.document.smallImageURL)
+      ~ ("largeImageURL" -> p.document.largeImageURL)
+      ~ ("location" -> p.document.location)
       )})
     compact(render(json))
   }
 
-  notFound {
-    // If no route matches, then try to render a Scaml template
-    val templateBase = requestPath match {
-      case s if s.endsWith("/") => s + "index"
-      case s => s
-    }
-    val templatePath = "/WEB-INF/scalate/templates/" + templateBase + ".scaml"
-    servletContext.getResource(templatePath) match {
-      case url: URL =>
-        templateEngine.layout(templatePath)
-      case _ =>
-        filterChain.doFilter(request, response)
-    }
-  }
 }

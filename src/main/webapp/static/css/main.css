@@ -1,10 +1,17 @@
 body { 
     background-color: #E4E4E4;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.container {
-
+.modal-body {
+    max-height: 800px;
 }
+
+.modal-big{
+   max-width:940px;
+   width: auto;
+}
+
 
 .box img {
 	width: 198px;

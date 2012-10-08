@@ -4,7 +4,7 @@
 	xmlns:web="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
 	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
 	version="2.4">
-	<filter>
+	<!-- <filter>
 		<filter-name>scalatra</filter-name>
 		<filter-class>
 			net.srirangan.MyScalatraFilter
@@ -14,5 +14,22 @@
 	<filter-mapping>
 		<filter-name>scalatra</filter-name>
 		<url-pattern>/*</url-pattern>
-	</filter-mapping>
+	</filter-mapping> -->
+
+	<servlet>
+		<servlet-name>scalatra</servlet-name>
+		<servlet-class>net.srirangan.MyScalatraFilter</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>scalatra</servlet-name>
+		<url-pattern>/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+	    <servlet-name>default</servlet-name>
+	    <url-pattern>/img/*</url-pattern>
+	    <url-pattern>/css/*</url-pattern>
+	    <url-pattern>/js/*</url-pattern>
+    </servlet-mapping>	
 </web-app>
