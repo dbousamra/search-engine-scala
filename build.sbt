@@ -1,3 +1,5 @@
+import com.typesafe.startscript.StartScriptPlugin
+
 organization := "com.github.dbousamra"
 
 name := "search-engine-scala"
@@ -9,6 +11,8 @@ scalaVersion := "2.9.2"
 seq(webSettings :_*)
 
 classpathTypes ~= (_ + "orbit")
+
+seq(StartScriptPlugin.startScriptForClassesSettings: _*)
 
 libraryDependencies ++= Seq(
   "org.apache.lucene" % "lucene-core" % "3.6.1",

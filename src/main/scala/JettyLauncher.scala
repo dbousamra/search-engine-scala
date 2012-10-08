@@ -7,13 +7,14 @@ object JettyLauncher {
     val port = if(System.getenv("PORT") != null) System.getenv("PORT").toInt else 8080
 
     val server = new Server(port)
-    val context = new ServletContextHandler(server, "/", ServletContextHandler.SESSIONS)
+    val context = new WebAppContext()
+    context setContextPath "/"
+    context.setResourceBase("src/main/webapp")
+    context.addServlet(classOf[MyScalatraFilter], "/*")
+    context.addServlet(classOf[DefaultServlet], "/")
 
-    // context.addFilter(classOf[MyScalatraFilter], "/*", 0)
-    // context.addServlet(classOf[DefaultServlet], "/");
-    // context.setResourceBase("src/main/webapp")
+    server.setHandler(context)
 
     server.start
     server.join
   }
-}
