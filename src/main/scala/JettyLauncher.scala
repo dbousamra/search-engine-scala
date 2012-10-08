@@ -1,6 +1,7 @@
 import org.eclipse.jetty.server.Server
 import org.eclipse.jetty.servlet.{DefaultServlet, ServletContextHandler}
 import net.srirangan.MyScalatraFilter
+import org.eclipse.jetty.webapp.WebAppContext
 
 object JettyLauncher {
   def main(args: Array[String]) {
