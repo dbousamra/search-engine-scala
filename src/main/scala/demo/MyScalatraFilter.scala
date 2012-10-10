@@ -10,12 +10,10 @@ import search.documents.NationalArchiveDocument
 import search.documents.NationalArchiveDocumentManager
 import search.managers.LuceneSearchManager
 
-case class Person(name: String, age: Int)
-
 class MyScalatraFilter extends ScalatraServlet with ScalateSupport {
 
   override implicit val contentType = "text/html"
-  private val searchManager = new LuceneSearchManager[NationalArchiveDocument]()
+  private val searchManager = new SearchManager[NationalArchiveDocument]()
   private val documentManager = new NationalArchiveDocumentManager()
   searchManager.addToIndex(documentManager.parse("src/resources/PhotoMetaData10000.csv"))
 

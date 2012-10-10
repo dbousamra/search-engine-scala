@@ -29,7 +29,7 @@ class InvertedIndex[T <: Document] {
 
   def calculateVectorSpaces(document: T) = {
       weights.put(document, vectorWeights(document))
-  }
+  } 
 
   def similarity(query: QueryDocument, document: T) = {
     dotProduct(query, document) / (vectorWeights(query) * weights.get(document).get)
@@ -82,7 +82,7 @@ class InvertedIndex[T <: Document] {
   }
 
   def getAllRelevantDocuments(words: List[String]): List[T] = {
-    words.map(word => index.get(word).getOrElse(Nil).map(x => x._1).toList).flatten
+    words.map(word => index.get(word).getOrElse(Nil).map(x => x._1).toList).flatten.distinct
   }
 
   def containsDocument(document: T) = names.contains(document)

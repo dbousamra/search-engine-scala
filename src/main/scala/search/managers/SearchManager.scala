@@ -22,7 +22,7 @@ class SearchManager[T <: Document] {
     if (index.containsDocument(document)) {
       document
     } else {
-      _index.addDocumentToIndex(document)
+      _index.addDocumentToIndex(document)	
       document
     }
   }
@@ -30,6 +30,12 @@ class SearchManager[T <: Document] {
   def query(input: String) = {
     val queryable = new QueryDocumentManager().parseText(input)
     ranker.query(queryable).filter(d => d.score > 0.0).take(100)
+  }
+
+  def queryMatch(input: String) = {
+    val queryable = new QueryDocumentManager().parseText(input)
+//    _index.index.keys.filter(_.startsWith(input).)
+    val x = _index.index.filter(_._1.startsWith(input))
   }
   
   def index = _index
