@@ -8,7 +8,7 @@ class SearchRanker[T <: Document](val index: InvertedIndex[T]) {
 
   def query(inputQuery: QueryDocument): List[Result[T]] = {
     val documents = index.getAllRelevantDocuments(inputQuery.words)
-    println("relevant documents " + documents)
+//    println("relevant documents " + documents)
     documents.map(doc => query(inputQuery, doc)).sortBy(_.score).reverse
   }
 

@@ -30,6 +30,9 @@ var ResultsView = Backbone.View.extend({
         $container.isotope( 'reloadItems' ).isotope({ sortBy: 'original-order' });
       });
     }, this);
+    $('.modal').on('show', function (e) {
+      console.log("Show")
+    })
     return this;
   }
 });
