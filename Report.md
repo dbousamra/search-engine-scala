@@ -15,7 +15,12 @@ My project is split up into two arbitrary development items:
 My search library consists of around 1200 lines of Scala code with associating tests across 18 classes. The library can be divided up into several parts:
 
 ####Documents:
-The concept of a document relates to the input of an arbitrary item to be indexed, ranked and searched upon. This package consists of a base “trait” (a Scala concept analogous to a Java interface) that defines the basic necessary attributes of a document. It consists of just two necessary field: counts, the contents of the documents as a list of words, and a word count.
+The concept of a document relates to the input of an arbitrary item to be indexed, ranked and searched upon. This package consists of a abstract class that defines the basic necessary attributes of a document. It consists of just two necessary field: counts, the contents of the documents as a list of words, and a word count.
+```scala
+abstract class Document(val words: List[String]) {
+  def getWordCount(word: String)
+}
+```
 
 From this base Document we can define other, more specific documents, so long as they implement the base Document. For instance, during testing I chose to use both the Bible and QUT’s MOPP document database as test cases. This document type can be represented as a base Document with a filename and file location. For the National Archives of Australia I used a more sophisticated document that had more attributes.
 
