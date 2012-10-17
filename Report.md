@@ -14,6 +14,31 @@ My project is split up into two arbitrary development items:
 
 My search library consists of around 1200 lines of Scala code with associating tests across 18 classes. The library can be divided up into several parts:
 
+####Parsing:
+
+I decided to write my own small parser that takes in some text, and returns me a list of words. My constraints were that words should be stemmed, stopped and devoid of any punctuation or grammar.
+The PorterStemmer I developed for the first assignment was used to stem words, and stopping was achieved via the use of a hard-coded dictionary. Punctuation was also quite simple to use using built in Scala libraries. The Parser class is used for ALL parsing of text into a list/stream of words. This can then be used generically on parsing of queries AND documents:
+
+```scala
+class Parser {
+  private val stopWords: Set[String] = parseStopWords(getClass.getClassLoader.getResourceAsStream("search/parsing/stopWords.txt"))
+ 
+  // takes in a list of words from getWordsFromLine and generates a List of parsed words
+  def parse(input: Iterator[String]): List[String] = {
+    input.map { x =>
+      val words = getWordsFromLine(x)
+      filterStopWords(words)
+    }.toList.flatten
+  }
+
+  private val getWordsFromLine = { ... } //converts a line into List of words
+
+  private val filterStopWords = (words: List[String]) => {
+    words.filterNot(word => stopWords.contains(word))
+  }
+}
+```
+
 ####Documents:
 The concept of a document relates to the input of an arbitrary item to be indexed, ranked and searched upon. This package consists of a abstract class that defines the basic necessary attributes of a document. It consists of just two necessary field: counts, the contents of the documents as a list of words, and a word count.
 ```scala
