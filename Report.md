@@ -39,13 +39,11 @@ Along with defining a document, a document “parser” must also be defined. I 
 
 ```scala
 class NationalArchiveDocumentManager {
-
-
   // the generic word parser that stops words etc
   private val parser = new Parser()
 
-
-  // a public parser method that takes in the NationalArchives CSV document from their website. 
+  // a public parser method that takes in the NationalArchives CSV document 
+  // from their website, and returns a parsed collection of NationalArchiveDocuments
   def parse(filename: String): Seq[NationalArchiveDocument] = {
     val reader = new CSVReader(new FileReader(filename));    
     val iterator = Iterator.continually(reader.readNext()).takeWhile(_ != null)
