@@ -24,9 +24,47 @@ abstract class Document(val words: List[String]) {
 
 From this base Document we can define other, more specific documents, so long as they implement the base Document. For instance, during testing I chose to use both the Bible and QUT’s MOPP document database as test cases. This document type can be represented as a base Document with a filename and file location. For the National Archives of Australia I used a more sophisticated document that had more attributes.
 
+```scala
+class NationalArchiveDocument(
+    val barcode: String, 
+    title: List[String],
+    val description: String,
+    val year: Int, 
+    val location: String, 
+    val largeImageURL: String, 
+    val smallImageURL: String) extends Document(title)
+```
+
 Along with defining a document, a document “parser” must also be defined. I wanted the search library to be as orthogonal and generic as possible, allowing the search of almost ANY type of document, no matter how it is structured (so long as it consisted of some text). This class defines a method of parsing some text into a collection of documents. For instance, the QUT MOPP corpus is just a collection of text documents with a filename, so it’s accompanying document parser class is quite small. Whereas the National Archives documents are contained within a single CSV file, so a substantially more complex parser was defined:
 
+```scala
+class NationalArchiveDocumentManager {
 
+
+  // the generic word parser that stops words etc
+  private val parser = new Parser()
+
+
+  // a public parser method that takes in the NationalArchives CSV document from their website. 
+  def parse(filename: String): Seq[NationalArchiveDocument] = {
+    val reader = new CSVReader(new FileReader(filename));    
+    val iterator = Iterator.continually(reader.readNext()).takeWhile(_ != null)
+    iterator.toSeq.tail.map(parseRow)
+  }
+
+  // takes a single row in the CSV and returns a NationalArchiveDocument
+  def parseRow(row: Array[String]): NationalArchiveDocument = {
+    new NationalArchiveDocument(
+      barcode = row(0),
+      description = row(1),
+      title = parser.parse(row(1)),
+      year = row(2).toInt,
+      location = row(3),
+      largeImageURL = row(4),
+      smallImageURL = row(5))
+  }
+}
+```
 
 ####Indexing and ranking:
 
