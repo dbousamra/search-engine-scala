@@ -91,6 +91,17 @@ def vectorWeights(document: Document) = {
 
 ####Search managers:
 
+Search managers are just high-level interfaces a user can use to query the index and search ranker. They contain two methods:
+
+```scala
+class SearchManager[T <: Document] {
+  def addToIndex(documents: Traversable[T]): List[T]
+  def query(input: String)
+}
+```
+
+These methods can be used to add documents to the index, as well as query terms. Queries are automatically parsed using the same parser as documents (stems words etc).
+
 ####Parsing:
 
 ####Results:
