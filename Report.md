@@ -36,6 +36,10 @@ class Parser {
   private val filterStopWords = (words: List[String]) => {
     words.filterNot(word => stopWords.contains(word))
   }
+  
+  private val stemWords = (words: List[Sting]) => {
+    words.map(word => PorterStemmer.stem(words))
+  }
 }
 ```
 
