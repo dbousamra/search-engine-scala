@@ -66,6 +66,29 @@ class NationalArchiveDocumentManager {
 
 ####Indexing and ranking:
 
+I chose to use a basic InvertedIndex from a word to a collection of documents with their word counts. I used this data structure because of it's simplistic design that allowed me to get a working indexer up and running quickly. The entire index is store in memory. This posed memory challenges on large data sets. I loosely calculate a 100mb collection of data (380,000 documents) equated to around 400mb of in-memory indexed data. The advantage however is simplicity and speed.
+
+For ranking of documents against a query, I chose to use a vector weight model approach with queries ranked using cosine-similarity. Again, I chose these approaches because of simplicity of implementation. I was looking to move to a BM25 model, but ran out of time. A VERY loose indexing overview can be described like so:
+```text
+// a map of words to a map of documents to counts. An inverted index from words to documents including their count.
+HashMap[Word -> HashMap[Document -> Count]
+
+For every document D I want to index:
+  For every word in that document D:
+    Put the document D against the given word, with it's count
+```
+
+Once the documents are indexed, I then PRE-CALCULATE the vector spaces for each document. This allows for a huge performance increase over calculating them on the fly, but at the disadvantge that documents cannot be added to the index without re-calculating the vector spaces. Given I am dealing with static collections of documents, I felt this trade-off was worth it. This algorithm looks like this:
+
+```scala
+def vectorWeights(document: Document) = {
+  val weights = index.map { word =>
+    math.pow(tfidf(word._1, document), 2)
+  }
+  return math.sqrt(weights.sum)
+}
+```
+
 ####Search managers:
 
 ####Parsing:
