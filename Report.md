@@ -127,11 +127,28 @@ class SearchManager[T <: Document] {
 
 These methods can be used to add documents to the index, as well as query terms. Queries are automatically parsed using the same parser as documents (stems words etc).
 
-####Parsing:
-
 ####Results:
-
-
+The culmination of this library allows this to be done:
+```scala
+val searchManager = new SearchManager
+searchManager.addFolderToIndex(new File("src/resources/documents/mopp"))
+val queryResult = searchManager.query("supplementary")
+println(queryResult)
+```
+which prints out the query ranked as a list of documents:
+```scala
+List(
+  (E_06_04.txt,0.1459099116015455), 
+  (E_06_01.txt,0.02065555950244101), 
+  (C_05_02.txt,0.010876058416236544), 
+  (B_09_07.txt,0.007757806737392836), 
+  (I_07_03.txt,0.00354470406715619), 
+  (E_06_05.txt,0.0034425932504068345), 
+  (E_09_01.txt,0.0031970069803141177), 
+  (C_05_01.txt,0.0023087860897392665), 
+  (C_04_07.txt,0.0017636335063574017)
+)
+```
 
 ##National Archives of Australia search engine:
 
