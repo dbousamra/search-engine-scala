@@ -29,7 +29,7 @@ class SearchManager[T <: Document] {
 
   def query(input: String) = {
     val queryable = new QueryDocumentManager().parseText(input)
-    ranker.query(queryable).filter(d => d.score > 0.0).take(100)
+    ranker.query(queryable).filter(d => d.score > 0.0)
   }
 
   def queryMatch(input: String) = {

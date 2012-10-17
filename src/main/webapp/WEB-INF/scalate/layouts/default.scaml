@@ -6,20 +6,11 @@
 %html
   %head
     %title= title
-    %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css")
-    %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap-responsive.min.css")
+    %link(rel="stylesheet" type="text/css" href="/static/css/bootstrap2.css")
     %link(rel="stylesheet" type="text/css" href="/static/css/main.css")
 
     %script(type="text/javascript" src="/static/js/jquery-1.7.2.min.js")
     %script(type="text/javascript" src="/static/js/bootstrap.min.js")
-    %script(type="text/javascript" src="/static/js/underscore.js")
-    %script(type="text/javascript" src="/static/js/backbone.js")
-    %script(type="text/javascript" src="/static/js/mustache.js")
-    %script(type="text/javascript" src="/static/js/jquery.lazyload.min.js")
-    %script(type="text/javascript" src="/static/js/jquery.isotope.min.js")
-    %script(type="text/javascript" src="/static/js/jquery.imagesloaded.min.js")
-    %script(type="text/javascript" src="/static/js/spin.min.js")
-
   %body
 
     %div.navbar
@@ -27,51 +18,4 @@
         %a.brand{:href => "#"}
           National Archives Search
 
-    %div.container
-      
-      %div#loading
-      
-      %div.clearfix.centered#result_content
-        %div.box.home-tile
-          %h4 National Archive Search
-          %p.lead(style="color: #666;") Search thousands of images throughout Australia's history
-          %div.input-append
-            %div#create-search
-              %input.input-mysize(id="search-query" type="text")
-              %button.btn.btn-primary#submit-search
-                Go!
-
-      %script(type="text/template" id="result_template")
-        %div.modal.hide.modal-big.fade(id="{{barcode}}" tabindex="-1" role="dialog" data-target="#modal" aria-labelledby="myModalLabel" aria-hidden="true")
-          %div.modal-header
-            %button.close(type="button" data-dismiss="modal" aria-hidden="true")
-              x
-            %h3#myModalLabel
-              {{ year }} - {{ location }}
-          %div.modal-body
-            %div.row
-              %div.span4
-                %img(src="{{ largeImageURL }}")
-              %div.span3
-                %blockquote.pull-right {{ description }}
-
-          %div.modal-footer
-            %button.btn.btn-primary(data-dismiss="modal" aria-hidden="true")
-              Close
-
-        %div(class="box result" id="{{ year }}")
-          %a{:href => "#{{ barcode }}"}(role="button" data-toggle="modal" )
-            %img(src="{{ smallImageURL }}")
-          %div.caption  
-            %strong 
-              {{ year }}
-            %br
-            %small
-              {{ description }}
-
-
-      != body
-
-    %script(type="text/javascript" src="/static/js/custom/lazyloader.js")
-    %script(type="text/javascript" src="/static/js/custom/search.js")
-    %script(type="text/javascript" src="/static/js/custom/masonryloader.js")
+    != body

@@ -15,10 +15,34 @@ class MyScalatraFilter extends ScalatraServlet with ScalateSupport {
   override implicit val contentType = "text/html"
   private val searchManager = new LuceneSearchManager[NationalArchiveDocument]()
   private val documentManager = new NationalArchiveDocumentManager()
-  searchManager.addToIndex(documentManager.parse("src/resources/PhotoMetaData10000.csv"))
+  searchManager.addToIndex(documentManager.parse("src/resources/PhotoMetaData10000Replaced.csv"))
 
   get("/") {
     scaml("home")
+  }
+
+  get("/timeline") {
+    scaml("timeline")
+  }
+
+  get("/timeline/data") {
+    val queryString = "gold coast"
+    val results = searchManager.query(queryString)
+    val json = (
+      ("timeline") ->
+      ("headline" -> "National Archives of Australia")
+      ~ ("text" -> "Search stuff")
+      ~ ("type" -> "default")
+      ~ ("date" -> results.map { 
+        p => (
+            ("startDate" -> p.document.year.toString)
+          ~ ("headline" -> p.document.barcode)
+          ~ ("text" -> p.document.description)
+          ~ ("asset" -> ("media" -> p.document.largeImageURL))
+          )}
+        )
+      )
+    pretty(render(json))
   }
 
   get("/search") {
@@ -27,13 +51,14 @@ class MyScalatraFilter extends ScalatraServlet with ScalateSupport {
     val json = ("results" -> results.map { 
       p => (
         ("barcode" -> p.document.barcode)
-      ~ ("description" -> p.document.description) 
-      ~ ("score" -> p.score)
-      ~ ("year" -> p.document.year) 
-      ~ ("smallImageURL" -> p.document.smallImageURL)
-      ~ ("largeImageURL" -> p.document.largeImageURL)
-      ~ ("location" -> p.document.location)
-      )})
+        ~ ("description" -> p.document.description) 
+        ~ ("score" -> p.score)
+        ~ ("year" -> p.document.year) 
+        ~ ("smallImageURL" -> p.document.smallImageURL)
+        ~ ("largeImageURL" -> p.document.largeImageURL)
+        ~ ("location" -> p.document.location)
+        ~ ("resultsLength" -> results.length)
+        )}) ~ ("resultsLength" -> results.length)
     compact(render(json))
   }
 

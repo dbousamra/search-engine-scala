@@ -1,6 +1,11 @@
 body { 
-    background-color: #E4E4E4;
+    /*background-color: #E4E4E4;*/
+    background-color: #FBFBFC;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  width: 1200px;
 }
 
 .modal-body {
@@ -20,7 +25,7 @@ body {
 .box {
 	background-color: white;
 	padding: 16px;
-	margin: 1px;
+	margin: 4px;
 	border: 1px solid #DEDEDE;
 	max-width: 198px;
 }

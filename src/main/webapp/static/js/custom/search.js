@@ -14,6 +14,8 @@ var Results = Backbone.Collection.extend({
     return "/search?query=" + this.query;
   },
   parse : function(data) {
+    this.resultsLength = data.resultsLength
+    console.log(this.resultsLength)
     return data.results;
   }
 });
@@ -21,17 +23,17 @@ var Results = Backbone.Collection.extend({
 var ResultsView = Backbone.View.extend({
   template : _.template($("#result_template").html()),
   render : function() {
+    console.log(this.collection)
+    $('#length').html("<h4>" + this.collection.resultsLength + " results found</h4>")
     this.collection.each(function(result) {
       var $output = $(this.template(result.toJSON()));
       var $container = $('#result_content');
-      //$container.isotope( 'insert', $output )
       $container.append( $output ).isotope( 'reloadItems' ).isotope({ sortBy: 'original-order' });
       $output.imagesLoaded( function(){
         $container.isotope( 'reloadItems' ).isotope({ sortBy: 'original-order' });
       });
     }, this);
     $('.modal').on('show', function (e) {
-      console.log("Show")
     })
     return this;
   }
