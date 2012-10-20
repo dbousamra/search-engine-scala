@@ -154,5 +154,28 @@ List(
 )
 ```
 
+####Evaluation Strategies:
+
+During the development of this project, I took a TDD approach (test driven development) and tried to verify each additional change to the implementation with a corresponding test case. For instance, I used the Unix GNU tool 'grep' as a starting comparison, and compared the results between mine and it's. This gave me a solid basis on single keyword searches, and confirmed that my Index was correctly working.
+
+As the ranking algorithms became more sophisticated, I devised a solution that would allow me to empirically compare my search ranking to Lucene's. The idea behind my system, is that for a given search query 'Q', I would compute a Levenshtein difference between the result list. For instance, for given query Q of 'Brisbane', Lucene might give back a result list like so:
+
+```python[Doc1, Doc2, Doc3, Doc4, Doc5]```
+
+and for the same query Q 'Brisbane', my search library might give back:
+
+```python[Doc1, Doc2, Doc3, Doc5, Doc4]```
+
+Clearly, those two result lists are different. By using a Levenshtein difference between the two, for any given query Q, I could generate a difference score between two result sets (my library, and Lucene). My algorithm had to also take into account the ranking, so that ```python[Doc1, Doc2, Doc3, Doc5, Doc4]``` is closer to the Lucene result set, then a score of ```python[Doc2, Doc1, Doc3, Doc4, Doc5]```, because the difference occurs further away from the top.
+
+I didn't particularly care about the actual relevance score of the query, merely the order. 
+
 ##National Archives of Australia search engine:
+
+The National Archives of Australia recently open sourced their database of collated museum images. The data is very raw, non standarized, and difficult to navigate. There is currently no method for searching this database. I wanted to develop a lightweight, image-oriented search engine that allowed users to browse these images. I felt this presented an opportunity to use my search engine library.
+
+The web application consists of a single page with a search field. The results are presented using a grid view of unequal height images arranged by search relevance. Clicking on image allows viewing of the entire image with the associated metadata. From the results view, the user can then choose to filter by the year the image was taken, narrowing down results in realtime. For instance, a user could search for "Brisbane City" from 1850 to 1900, and receive a list of images.
+
+
+
 
