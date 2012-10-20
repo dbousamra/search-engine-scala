@@ -2,10 +2,6 @@
 
 My motivation for this project surrounded the understanding and implementation of a search engine. I wanted to implement the ideas and techniques we learnt in the first 5 lectures. Specifically, inverted indexes, cosine similarity ranking algorithms and natural language processing of queries. I wanted to implement a fully working search library that would be comparable in accuracy and speed to Lucene, all without referencing/looking at Lucene in development. 
 
-#Background Information:
-
-Recently the National Archives of Australia open sourced their database of images. I wanted to take advantage of this data (380,000 documents and images with basic metadata) and develop a basic search application using my search library. 
-
 #Architecture and Implementation Details:
 
 My project is split up into two arbitrary development items:
@@ -169,13 +165,3 @@ and for the same query Q 'Brisbane', my search library might give back:
 Clearly, those two result lists are different. By using a Levenshtein difference between the two, for any given query Q, I could generate a difference score between two result sets (my library, and Lucene). My algorithm had to also take into account the ranking, so that ```[Doc1, Doc2, Doc3, Doc5, Doc4]``` is closer to the Lucene result set, then a score of ```[Doc2, Doc1, Doc3, Doc4, Doc5]```, because the difference occurs further away from the top. I didn't particularly care about the actual relevance score of the query, merely the order. 
 
 With this technique, I was able to take a selection of interesting queries, and develop a test suite of about 40 test cases. Each test case returned a perecentage similarity between two result sets. I then set a cutoff of 90% to begin with. If each testcase was within 90% similarity to Lucene, I deemed it to be acceptable. As my ranking algorithms improved, I increased the cutoff.
-
-##National Archives of Australia search engine:
-
-The National Archives of Australia recently open sourced their database of collated museum images. The data is very raw, non standarized, and difficult to navigate. There is currently no method for searching this database. I wanted to develop a lightweight, image-oriented search engine that allowed users to browse these images. I felt this presented an opportunity to use my search engine library.
-
-The web application consists of a single page with a search field. The results are presented using a grid view of unequal height images arranged by search relevance. Clicking on image allows viewing of the entire image with the associated metadata. From the results view, the user can then choose to filter by the year the image was taken, narrowing down results in realtime. For instance, a user could search for "Brisbane City" from 1850 to 1900, and receive a list of images.
-
-
-
-
