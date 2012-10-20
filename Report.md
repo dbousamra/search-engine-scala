@@ -160,13 +160,13 @@ During the development of this project, I took a TDD approach (test driven devel
 
 As the ranking algorithms became more sophisticated, I devised a solution that would allow me to empirically compare my search ranking to Lucene's. The idea behind my system, is that for a given search query 'Q', I would compute a Levenshtein difference between the result list. For instance, for given query Q of 'Brisbane', Lucene might give back a result list like so:
 
-```python[Doc1, Doc2, Doc3, Doc4, Doc5]```
+```[Doc1, Doc2, Doc3, Doc4, Doc5]```
 
 and for the same query Q 'Brisbane', my search library might give back:
 
-```python[Doc1, Doc2, Doc3, Doc5, Doc4]```
+```[Doc1, Doc2, Doc3, Doc5, Doc4]```
 
-Clearly, those two result lists are different. By using a Levenshtein difference between the two, for any given query Q, I could generate a difference score between two result sets (my library, and Lucene). My algorithm had to also take into account the ranking, so that ```python[Doc1, Doc2, Doc3, Doc5, Doc4]``` is closer to the Lucene result set, then a score of ```python[Doc2, Doc1, Doc3, Doc4, Doc5]```, because the difference occurs further away from the top.
+Clearly, those two result lists are different. By using a Levenshtein difference between the two, for any given query Q, I could generate a difference score between two result sets (my library, and Lucene). My algorithm had to also take into account the ranking, so that ```[Doc1, Doc2, Doc3, Doc5, Doc4]``` is closer to the Lucene result set, then a score of ```[Doc2, Doc1, Doc3, Doc4, Doc5]```, because the difference occurs further away from the top.
 
 I didn't particularly care about the actual relevance score of the query, merely the order. 
 
