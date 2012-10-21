@@ -15,16 +15,38 @@ var Results = Backbone.Collection.extend({
   },
   parse : function(data) {
     this.resultsLength = data.resultsLength
-    console.log(this.resultsLength)
+    this.startDate = data.startDate
+    this.endDate = data.endDate
     return data.results;
   }
 });
 
+jQuery.expr[':'].between = function(a, b, c) { 
+   var args = c[3].split(',');
+   var val = parseInt(jQuery(a).attr("id"));
+   return val >= parseInt(args[0]) && val <= parseInt(args[1]);
+};
+
+
 var ResultsView = Backbone.View.extend({
   template : _.template($("#result_template").html()),
   render : function() {
-    console.log(this.collection)
     $('#length').html("<h4>" + this.collection.resultsLength + " results found</h4>")
+
+    $('#slider').slider({
+      range: true,
+      min: this.collection.startDate,
+      max: this.collection.endDate,
+      values: [1857, 2012],
+      slide: function (event, ui) {
+        console.log();
+        var selector = $(".result:between(" + ui.values[0] + "," + + ui.values[1] + "), .home-tile")
+        $container.isotope({ filter: selector });
+        $(".year0").html(ui.values[0])
+        $(".year1").html(ui.values[1])
+      }
+    });
+
     this.collection.each(function(result) {
       var $output = $(this.template(result.toJSON()));
       var $container = $('#result_content');
