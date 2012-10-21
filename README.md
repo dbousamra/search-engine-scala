@@ -164,4 +164,16 @@ and for the same query Q 'Brisbane', my search library might give back:
 
 Clearly, those two result lists are different. By using a Levenshtein difference between the two, for any given query Q, I could generate a difference score between two result sets (my library, and Lucene). My algorithm had to also take into account the ranking, so that ```[Doc1, Doc2, Doc3, Doc5, Doc4]``` is closer to the Lucene result set, then a score of ```[Doc2, Doc1, Doc3, Doc4, Doc5]```, because the difference occurs further away from the top. I didn't particularly care about the actual relevance score of the query, merely the order. 
 
-With this technique, I was able to take a selection of interesting queries, and develop a test suite of about 40 test cases. Each test case returned a perecentage similarity between two result sets. I then set a cutoff of 90% to begin with. If each testcase was within 90% similarity to Lucene, I deemed it to be acceptable. As my ranking algorithms improved, I increased the cutoff.
+With this technique, I was able to take a selection of interesting queries, and develop a test suite of about 40 test cases. In order to increase the usefulness of my test cases, I came up with a few categories of query terms:
+
+*Single term queries with many results
+*Single term queries with specific results
+*Many-term queries with many results
+*Many-term queries with specific results
+*Queries with some relevant terms, but not all
+*Stemmed words
+*Unstemmed words
+
+
+
+Each test case returned a perecentage similarity between two result sets. I then set a cutoff of 90% to begin with. If each testcase was within 90% similarity to Lucene, I deemed it to be acceptable. As my ranking algorithms improved, I increased the cutoff. There wasn't much rhyme or reason to my selection of these categories. I just created them in response to particular problems. However, they did allow me to iterate on my project without fear of breaking an existing strength. 
