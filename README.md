@@ -166,13 +166,13 @@ Clearly, those two result lists are different. By using a Levenshtein difference
 
 With this technique, I was able to take a selection of interesting queries, and develop a test suite of about 40 test cases. In order to increase the usefulness of my test cases, I came up with a few categories of query terms:
 
-*Single term queries with many results
-*Single term queries with specific results
-*Many-term queries with many results
-*Many-term queries with specific results
-*Queries with some relevant terms, but not all
-*Stemmed words
-*Unstemmed words
+* Single term queries with many results
+* Single term queries with specific results
+* Many-term queries with many results
+* Many-term queries with specific results
+* Queries with some relevant terms, but not all
+* Stemmed words
+* Unstemmed words
 
 
 
