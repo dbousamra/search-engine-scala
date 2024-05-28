@@ -1,16 +1,16 @@
-#Project Motivation:
+# Project Motivation:
 
 My motivation for this project surrounded the understanding and implementation of a search engine. I wanted to implement the ideas and techniques we learnt in the first 5 lectures. Specifically, inverted indexes, cosine similarity ranking algorithms and natural language processing of queries. I wanted to implement a fully working search library that would be comparable in accuracy and speed to Lucene, all without referencing/looking at Lucene in development. 
 
-#Architecture and Implementation Details:
+# Architecture and Implementation Details:
 
 My project is split up into two arbitrary development items:
 
-##Search engine library:
+## Search engine library:
 
 My search library consists of around 1200 lines of Scala code with associating tests across 18 classes. The library can be divided up into several parts:
 
-####Parsing:
+#### Parsing:
 
 I decided to write my own small parser that takes in some text, and returns me a list of words. My constraints were that words should be stemmed, stopped and devoid of any punctuation or grammar.
 The PorterStemmer I developed for the first assignment was used to stem words, and stopping was achieved via the use of a hard-coded dictionary. Punctuation was also quite simple to use using built in Scala libraries. The Parser class is used for ALL parsing of text into a list/stream of words. This can then be used generically on parsing of queries AND documents:
@@ -39,7 +39,7 @@ class Parser {
 }
 ```
 
-####Documents:
+#### Documents:
 The concept of a document relates to the input of an arbitrary item to be indexed, ranked and searched upon. This package consists of a abstract class that defines the basic necessary attributes of a document. It consists of just two necessary field: counts, the contents of the documents as a list of words, and a word count.
 ```scala
 abstract class Document(val words: List[String]) {
@@ -89,7 +89,7 @@ class NationalArchiveDocumentManager {
 }
 ```
 
-####Indexing and ranking:
+#### Indexing and ranking:
 
 I chose to use a basic InvertedIndex from a word to a collection of documents with their word counts. I used this data structure because of it's simplistic design that allowed me to get a working indexer up and running quickly. The entire index is store in memory. This posed memory challenges on large data sets. I loosely calculate a 100mb collection of data (380,000 documents) equated to around 400mb of in-memory indexed data. The advantage however is simplicity and speed.
 
@@ -114,7 +114,7 @@ def vectorWeights(document: Document) = {
 }
 ```
 
-####Search managers:
+#### Search managers:
 
 Search managers are just high-level interfaces a user can use to query the index and search ranker. They contain two methods:
 
@@ -127,7 +127,7 @@ class SearchManager[T <: Document] {
 
 These methods can be used to add documents to the index, as well as query terms. Queries are automatically parsed using the same parser as documents (stems words etc).
 
-####Results:
+#### Results:
 The culmination of this library allows this to be done:
 ```scala
 val searchManager = new SearchManager
@@ -150,7 +150,7 @@ List(
 )
 ```
 
-####Evaluation Strategies:
+#### Evaluation Strategies:
 
 During the development of this project, I took a TDD approach (test driven development) and tried to verify each additional change to the implementation with a corresponding test case. For instance, I used the Unix GNU tool 'grep' as a starting comparison, and compared the results between mine and it's. This gave me a solid basis on single keyword searches, and confirmed that my Index was correctly working.
 
